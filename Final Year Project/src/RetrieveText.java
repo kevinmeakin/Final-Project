@@ -162,8 +162,8 @@ public class RetrieveText {
 		 * the files
 		 */
 		CharSequence ind = "Index", sta = "Station", nums = "1 2 3 4", mar = "Mar",
-				yr = "2011", route = "routeing", con = "continued", pag = "page",
-				via = "via", loc = "local", eng = "England";
+				yr = "2011", route = "routeing", con = "continued", pag = "page", hea = "Heathrow",
+				via = "via", loc = "local", eng = "England", mem = "Point Member", rou = "Routeing";
 
 		try {
 			BufferedReader in = new BufferedReader(new FileReader(filename + ".txt"));
@@ -181,7 +181,8 @@ public class RetrieveText {
 				if(t.contains(ind) || t.contains(sta) || t.contentEquals(nums) || t.contentEquals(mar)
 						|| t.contains(yr) || t.contains(route) && filename.equals("Maps") 
 						|| t.contains(con) || t.contains(pag) || t.contains(via) || t.length()==2
-						|| t.contains(loc) || t.contains(eng)) continue;
+						|| t.contains(loc) || t.contains(eng) || t.contains(mem) ||t.contains(rou) 
+						|| t.contains(hea)) continue;
 				writer.write(str+"\n");
 
 			}
@@ -216,6 +217,8 @@ public class RetrieveText {
 			BufferedReader filereader;
 			if(filename.equals(Permitted_Route)){
 				filereader = new BufferedReader(new FileReader("Final.txt"));
+			}else if(filename.equals("mapsinfo")){
+				filereader = new BufferedReader(new FileReader("mapsinfo.txt"));
 			}
 			else{
 				filereader = new BufferedReader(new FileReader(filename+"TEMP.txt"));
@@ -233,36 +236,59 @@ public class RetrieveText {
 				currentLine = currentLine.toUpperCase();
 				letterhash.add(currentLine);		//Add current line to the hashset
 			}
-			CharSequence group = "GROUP",cry = "CROYDON";
+			
+			
+			CharSequence group = "GROUP", wood = "WOODGPK", p = "PNWCY", sq = "NTN FOR HYDE", pq = "HIGH ST GLC",
+					att = "  ", ebr = "EBR TOWN", bom = "BOM RAKE", gmg = "GARTH (BGN)",
+							MTB	="MAT BATH",NLW = "NTN LE WILL",BSP =	"BSY PARK",
+							BTD = "BON ON DEARNE",BYI = "BRY ISLAND", CSB = "CSH BEECH",
+							CFR = "CHANDLERS FOD",TUT = "TUTBURY & HTN",TWI= "TWCKENHAM",
+							WED = "WED WEDGWOOD", DWW ="DWL WARREN",BHI="BHM INTL",
+							LSY="LSYENHAM",LTN=	"LUT AIRPORT PW",LGJ="LBO JN",w="LONDON GP",
+							hea = "HEATHROW";
 			while ((currentLine = filereader.readLine()) != null) {
 				currentLine = currentLine.toUpperCase();
 				String[] splitCurLine = currentLine.split(" ");
 
-				for(String replace : letterhash){
+				for(String getAbbrev : letterhash){
 					/*
-					 * mainpulate replace variable to seperate the 3 letter
+					 * manipulate getAbbrev variable to separate the 3 letter
 					 * abbreviation from the station name within the file
 					 */
-					String[] getID = replace.split("\t");
-					String stationname = replace.substring(4);
+					String[] getID = getAbbrev.split("\t");
+					String stationname = getAbbrev.substring(4);
 					stationname = stationname.toUpperCase();
 					CharSequence s = stationname;
+					CharSequence penge = "Penge West";
 					String[] check = stationname.split(" ");
 
+					/*
+					 * Fix for bug with Penge west
+					 */
+					if(currentLine.contains(penge)){
+						currentLine = currentLine.replace(penge, "Penge W");
+					}
+					
+					if(currentLine.contains(att)){
+						currentLine = currentLine.replace(att, " ");
+					}
+					
 					if(currentLine.contains(s)){	//If current line of the data contains the current station name...
 
 						if(check.length > 1){	//Check length of the station name (bug fix for words within words e.g. ford)
 							currentLine = currentLine.replace(s, getID[0]);
-						}
+						}else{
 
-						/*
-						 * checking if the station is one word long that the station is the one 
-						 * required and not contained within another station name e.g. redford
-						 * contains ford which is a seperate station.
-						 */
-						for(int i =0;i<splitCurLine.length-1;i++){
-							if(stationname.equals(splitCurLine[i])){
-								currentLine = currentLine.replace(s, getID[0]);
+							/*
+							 * checking if the station is one word long that the station is the one 
+							 * required and not contained within another station name e.g. redford
+							 * contains ford which is a separate station.
+							 */
+
+							for(int i =0;i<splitCurLine.length;i++){
+								if(stationname.equals(splitCurLine[i])){
+									currentLine = currentLine.replace(s, getID[0]);
+								}
 							}
 						}
 					}
@@ -274,7 +300,91 @@ public class RetrieveText {
 					if(currentLine.contains(group)){
 						currentLine = currentLine.replace("GROUP", "").trim();
 					}
+					
+					if(currentLine.contains(wood)){
+						currentLine = currentLine.replace(wood, "WGR").trim();
+					}
 
+					if(currentLine.contains(p)){
+						currentLine =currentLine.replace(p, "PNW");
+					}
+					
+					if(currentLine.contains(sq)){
+						currentLine = currentLine.replace(sq, "NWN");
+					}
+					if(currentLine.contains(pq)){
+						currentLine = currentLine.replace(pq, "HST");
+					}
+					
+					if(currentLine.contains(ebr)){
+						currentLine = currentLine.replace(ebr, "EBT");
+					}
+					
+					if(currentLine.contains(bom)){
+						currentLine = currentLine.replace(bom, "BMR");
+					}
+					
+					if(currentLine.contains(gmg)){
+						currentLine = currentLine.replace(gmg, "GMG");
+					}
+					
+					if(currentLine.contains(MTB)){
+						currentLine = currentLine.replace(MTB, "MTB");
+					}
+					
+					if(currentLine.contains(NLW)){
+						currentLine = currentLine.replace(NLW, "NLW");
+					}
+					
+					if(currentLine.contains(BSP)){
+						currentLine = currentLine.replace(BSP, "BSP");
+					}
+					if(currentLine.contains(BTD)){
+						currentLine = currentLine.replace(BTD, "BTD");
+					}
+					
+					if(currentLine.contains(BYI)){
+						currentLine = currentLine.replace(BYI, "BYI");
+					}
+					if(currentLine.contains(CSB)){
+						currentLine = currentLine.replace(CSB, "CSB");
+					}
+					if(currentLine.contains(CFR)){
+						currentLine = currentLine.replace(CFR, "CFR");
+					}
+					if(currentLine.contains(TUT)){
+						currentLine = currentLine.replace(TUT, "TUT");
+					}
+					if(currentLine.contains(TWI)){
+						currentLine = currentLine.replace(TWI, "TWI");
+					}
+					if(currentLine.contains(WED)){
+						currentLine = currentLine.replace(WED, "WED");
+					}
+					if(currentLine.contains(DWW)){
+						currentLine = currentLine.replace(DWW, "DWW");
+					}
+					if(currentLine.contains(BHI)){
+						currentLine = currentLine.replace(BHI, "BHI");
+					}
+					if(currentLine.contains(LSY)){
+						currentLine = currentLine.replace(LSY, "LSY");
+					}
+					if(currentLine.contains(LTN)){
+						currentLine = currentLine.replace(LTN, "LTN");
+					}
+					if(currentLine.contains(LGJ)){
+						currentLine = currentLine.replace(LGJ, "LGJ");
+					}
+					if(currentLine.contains(w)){
+						currentLine = currentLine.replace(w, "LONDON");
+					}
+					if(currentLine.contains(w)){
+						currentLine = currentLine.replace(w, "LONDON");
+					}
+					if(currentLine.contains(hea)){
+						currentLine = currentLine.replace(hea, "LONDON");
+					}
 				}
 
 				fileHash.add(currentLine);		//Add current line to the hashset
@@ -286,10 +396,17 @@ public class RetrieveText {
 			/*
 			 * output results to file
 			 */
+			
 			BufferedWriter writer = new BufferedWriter(new FileWriter(filename+"TEMPNEW.txt"));
 
 
 			for(String output : fileHash){
+				String[] nn = output.split(" ");
+				for(int i =0;i<nn.length;i++){
+					if((nn[i].length()>3 || nn[i].length()<3) && filename.equals(Routeing_Point) && !nn[i].equals("LONDON")){
+						System.out.println(nn[i]);
+					}
+				}
 				writer.write(output);
 				writer.newLine();
 			}
@@ -304,21 +421,19 @@ public class RetrieveText {
 	}
 
 	public static void main(String[] args){
-		System.out.println("***************START****************");
-		readPDF(Permitted_Route);
-		readPDF(Routeing_Point);
-		readPDF(maps);
 
-		TidyText(Permitted_Route);
-		TidyText(Routeing_Point);
-		TidyText(maps);
-		//
-		//		findStations(Permitted_Route);
-		//		findStations(Routeing_Point);
+//		readPDF(Permitted_Route);
+//		readPDF(Routeing_Point);
+//		readPDF(maps);
+//
+//		TidyText(Permitted_Route);
+//		TidyText(Routeing_Point);
+//		TidyText(maps);
+//
+//		find3Letters(Routeing_Point);
+//		find3Letters(Permitted_Route);
+		find3Letters("mapsinfo");
 
-		find3Letters(Routeing_Point);
-		find3Letters(Permitted_Route);
-		System.out.println("*****************DONE****************");
 	}
 
 

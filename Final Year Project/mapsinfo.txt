@@ -1,0 +1,11 @@
+BC Hooton Chester 8.1
+BC Chester Hooton 8.1 Wrexham 12.5
+BC Wrexham Shotton 12.9 SHREWSBURY 30.2 Chester 12.5
+BC Shotton Wrexham 12.9
+BC SHREWSBURY Crewe 32.7 Wrexham 30.2 WOLVERHAMPTON 29.6
+BC Crewe SHREWSBURY 32.7
+BC WOLVERHAMPTON SHREWSBURY 29.6 Smethwick 9.75 Walsall 6
+BC Smethwick WOLVERHAMPTON 9.75 Birmingham 3.5
+BC Walsall WOLVERHAMPTON 6 Perry Barr 6.5
+BC Birmingham Smethwick 3.5 Perry Barr 4.25
+BC Perry Barr Birmingham 4.25 Walsall 6.5

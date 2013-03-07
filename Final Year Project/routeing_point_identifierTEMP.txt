@@ -2,7 +2,6 @@ Abbey Wood Charlton Slade Green
 Aber Cardiff Central
 Abercynon Pontypridd
 Aberdare Pontypridd
-ABERDEEN Routeing Point
 Aberdour Inverkeithing Group Kirkcaldy Group
 Aberdovey Machynlleth Group
 Abererch Machynlleth Group
@@ -87,15 +86,11 @@ Arnside Carlisle Lancaster Group
 Arram Hull Scarborough Group
 Arrochar & Tar Glasgow Group
 Arundel Ford Group Horsham
-ASCOT (BERKS) Routeing Point
 Ascott-U-Wych Oxford Worcester Group
 Ash Ash Vale Farnborough Group Guildford
-ASH VALE Routeing Point
 Ashburys Guide Bridge Manchester Group
 Ashchurch Barnt Green Cheltenham Spa Worcester Group
-ASHFIELD Glasgow Group Routeing Point Member
 Ashford (Middx) Feltham Staines
-ASHFORD INTL Routeing Point
 Ashley Chester Stockport
 Ashtead Dorking Group Epsom Guildford Surbiton
 Ashton Undr Lyne Manchester Group Stalybridge
@@ -106,11 +101,9 @@ Askam Carlisle Lancaster Group
 Aslockton Grantham Nottingham Group Sleaford
 Aspatria Carlisle Lancaster Group
 Aspley Guise Bedford Bletchley Group
-ASTON Birmingham Group Routeing Point Member
 Atherstone Warks Nuneaton Tamworth
 Atherton Manchr Bolton Manchester Group Wigan Group
 Attadale Inverness
-ATTENBOROUGH Nottingham Group Routeing Point Member
 Attleborough Ely Norwich Peterborough
 Auchinleck Carlisle Kilmarnock
 Audley End Cambridge Stansted Group
@@ -137,43 +130,33 @@ Balmossie Aberdeen Dundee
 Bamber Bridge Blackburn Bolton Preston Lancs
 Bamford Chinley Sheffield Group
 Banavie Glasgow Group
-BANBURY Banbury Group Routeing Point Member
 Bangor (Gwynedd) Shotton
 Bank Hall Liverpool Group Preston Lancs
 Banstead Sutton London
 Barassie Kilmarnock Paisley Gil St
 Barbican Und Highbury & I Und London Group
 Bardon Mill Carlisle Newcastle
-BARE LANE Lancaster Group Routeing Point Member
 Bargeddie Falkirk Group Glasgow Group Motherwell Group
 Bargoed Cardiff Central
-BARKING Routeing Point
 Barlaston Rugeley Trnt Val Stafford Group Stoke On Trent
 Barming Maidstone Group Sevenoaks Swanley
 Barmouth Machynlleth Group
 Barnehurst Charlton Dartford Lewisham Slade Green
-BARNES Routeing Point
 Barnes Bridge Barnes Hounslow
-BARNETBY Routeing Point
 Barnham Ford Group Havant
 Barnhill Glasgow Group
-BARNSLEY Routeing Point
 Barnstaple Exeter Group
-BARNT GREEN Routeing Point
 Barrhead Glasgow Group Kilmarnock
 Barrhill Kilmarnock Paisley Gil St
 Barrow Haven Barnetby
 Barrow In Furnss Carlisle Lancaster Group
-BARROW UPON SOAR Loughborough Group Routeing Point Member
 Barry Bridgend Cardiff Central
 Barry Docks Bridgend Cardiff Central
 Barry Island Bridgend Cardiff Central
 Barry Links Aberdeen Dundee
 Barton On Humber Barnetby
 Basildon Barking Romford Group Southend Group
-BASINGSTOKE Routeing Point
 Bat & Ball Maidstone Group Sevenoaks Swanley
-BATH SPA Routeing Point
 Bathgate Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Batley Huddersfield Group Leeds Group
 Battersby Middlesbrough Group
@@ -191,21 +174,16 @@ Beauly Inverness
 Bebington Hooton Liverpool Group
 Beccles Ipswich Norwich
 Beckenham Hill Bromley South Group Lewisham Peckham Rye Group
-BECKENHAM JN Routeing Point
-BEDFORD Routeing Point
 Bedford St Johns Bedford Bletchley Group
-BEDHAMPTON Portsmouth Group Routeing Point Member
 Bedminster Bristol Group Taunton
 Bedworth Coventry Nuneaton
 Bedwyn Reading Group Westbury Group
-BEESTON Nottingham Group Routeing Point Member
 Bekesbourne Ashford Intl Dover Priory Faversham Ramsgate Group
 Belle Vue Chinley Guide Bridge Manchester Group
 Bellgrove Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Bellingham Ldn Bromley South Group Lewisham Peckham Rye Group
 Bellshill Motherwell Group Newton Lanark
 Belmont Sutton London
-BELPER Derby Group Routeing Point Member
 Beltring Ashford Intl Maidstone Group Tonbridge
 Belvedere Charlton Slade Green
 Bempton Hull Scarborough Group
@@ -224,9 +202,7 @@ Berrylands Epsom Kingston Surbiton Wimbledon
 Berwick (Sussex) Hastings Group Lewes
 Berwick On Tweed Edinburgh Group Newcastle
 Bescar Lane Liverpool Group Preston Lancs Wigan Group
-BESCOT STADIUM Walsall Group Routeing Point Member
 Betchworth Dorking Group Redhill Group
-BETHNAL GREEN London Group Routeing Point Member
 Betws Y Coed Shotton
 Beverley Hull Scarborough Group
 Bexhill Hastings Group Lewes
@@ -234,7 +210,6 @@ Bexley Dartford Hither Green Slade Green
 Bexleyheath Charlton Dartford Lewisham Slade Green
 Bicester North Banbury Group Greenford Und London Group Oxford
 Bicester Town Banbury Group Greenford Und London Group Oxford
-BICKLEY Bromley South Group Routeing Point Member
 Bidston Liverpool Group Shotton
 Biggleswade Hitchin Peterborough
 Bilbrook Shrewsbury Wolverhampton
@@ -249,28 +224,21 @@ Birchwood Manchester Group Warrington Group
 Birkbeck Beckenham Jn Crystal Palace
 Birkdale Liverpool Group Preston Lancs Wigan Group
 Birkenhead Ctl Hooton Liverpool Group
-BIRKENHEAD H SQ Liverpool Group Routeing Point Member
 Birkenhead North Liverpool Group Shotton
 Birkenhead Park Liverpool Group Shotton
 Birmingham Intl Birmingham Group Coventry
-BIRMINGHAM M ST Birmingham Group Routeing Point Member
-BIRMINGHAM N ST Birmingham Group Routeing Point Member
-BIRMINGHAM SN HL Birmingham Group Routeing Point Member
 Bishop Auckland Darlington
 Bishopbriggs Falkirk Group Glasgow Group Stirling
 Bishops Strtford Stansted Group Tottenham Hale Group
 Bishopstone Ssex Lewes
 Bishopton Sclyde Paisley Gil St
 Bitterne Portsmouth Group Southampton Group
-BLACKBURN Routeing Point
 Blackheath Charlton Dartford Lewisham Slade Green
-BLACKHORSE R UND Walthamstow Group Routeing Point Member
 Blackpool North Preston Lancs
 Blackpool P Bch Preston Lancs
 Blackpool South Preston Lancs
 Blackridge Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Blackrod Blackburn Bolton Preston Lancs
-BLACKWATER Farnborough Group Routeing Point Member
 Blaenau Ffest Shotton
 Blair Atholl Inverness Perth
 Blairhill Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
@@ -279,7 +247,6 @@ Blakedown Smethwick Group Worcester Group
 Blantyre Motherwell Group Newton Lanark
 Blaydon Carlisle Newcastle
 Bleasby Newark Group Nottingham Group
-BLETCHLEY Bletchley Group Routeing Point Member
 Bloxwich Rugeley Trnt Val Walsall Group
 Bloxwich North Rugeley Trnt Val Walsall Group
 Blundellsands Liverpool Group Preston Lancs Wigan Group
@@ -288,7 +255,6 @@ Bodmin Parkway Plymouth Group
 Bodorgan Shotton
 Bognor Regis Ford Group Havant
 Bogston Paisley Gil St
-BOLTON Routeing Point
 Bolton On Dearne Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Bookham Dorking Group Epsom Guildford Surbiton
 Bootle (Cumbria) Carlisle Lancaster Group
@@ -309,8 +275,6 @@ Bowes Park Finsbury Park Stevenage
 Bowling Glasgow Group
 Boxhill & Whmble Dorking Group Epsom Guildford Surbiton
 Bracknell Ascot (Berks) Wokingham
-BRADFORD F SQ Bradford Group Routeing Point Member
-BRADFORD INTERCH Bradford Group Routeing Point Member
 Bradford On Avon Bath Spa Westbury Group
 Brading Portsmouth Group
 Braintree Witham
@@ -331,18 +295,14 @@ Brentwood Romford Group Shenfield
 Bricket Wood Bedford Watford Junction West Hampstead Group
 Bridge Of Allan Perth Stirling
 Bridge Of Orchy Glasgow Group
-BRIDGEND Routeing Point
 Bridgeton Glasgow Group Newton Lanark
 Bridgwater Bristol Group Taunton
 Bridlington Hull Scarborough Group
 Brierfield Blackburn Halifax Group Manchester Group
 Brigg Barnetby Doncaster Lincoln Retford
 Brighouse Halifax Group Huddersfield Group
-BRIGHTON Brighton Group Routeing Point Member
 Brimsdown Stansted Group Tottenham Hale Group
 Brinnington Chinley Guide Bridge Manchester Group
-BRISTOL PARKWAY Bristol Group Routeing Point Member
-BRISTOL TEMPLE M Bristol Group Routeing Point Member
 Brithdir Cardiff Central
 Briton Ferry Bridgend Swansea Group
 Brixton Herne Hill London Group
@@ -357,7 +317,6 @@ Bromborough Hooton Liverpool Group
 Bromborough Rake Hooton Liverpool Group
 Bromley Cross Blackburn Bolton
 Bromley North Grove Park
-BROMLEY SOUTH Bromley South Group Routeing Point Member
 Bromsgrove Barnt Green Cheltenham Spa Worcester Group
 Brondesbury West Hampstead Group Willesden Jn
 Brondesbury Park West Hampstead Group Willesden Jn
@@ -420,11 +379,9 @@ Calstock Plymouth Group
 Cam & Dursley Bristol Group Cheltenham Spa Gloucester
 Camberley Ascot (Berks) Ash Vale
 Camborne Plymouth Group
-CAMBRIDGE Routeing Point
 Cambridge Heath Hackney Group London Group
 Cambuslang Glasgow Group Newton Lanark
 Camden Road Highbury & I Und Tottenham Hale Group West Hampstead Group
-CAMELON Falkirk Group Routeing Point Member
 Canada Water London Group New Cross New Cross Gate
 Canley Birmingham Group Coventry
 Cannock Rugeley Trnt Val Walsall Group
@@ -436,29 +393,23 @@ Capenhurst Chester Hooton
 Carbis Bay Plymouth Group
 Cardenden Inverkeithing Group Kirkcaldy Group
 Cardiff Bay Cardiff Central
-CARDIFF CENTRAL Routeing Point
 Cardiff Queen St Cardiff Central Pontypridd
 Cardonald Glasgow Group Paisley Gil St
 Cardross Glasgow Group
 Carfin Edinburgh Group Motherwell Group
 Cark & Cartmel Carlisle Lancaster Group
-CARLISLE Routeing Point
 Carlton Newark Group Nottingham Group
 Carluke Motherwell Group
 Carmarthen Swansea Group
 Carmyle Falkirk Group Glasgow Group Motherwell Group
-CARNFORTH Lancaster Group Routeing Point Member
 Carnoustie Aberdeen Dundee
 Carntyne Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Carpenders Park Watford Junction Willesden Jn
 Carrbridge Inverness Perth
 Carshalton Mitcham Junction Sutton London
 Carshalton Beech Croydon Group Sutton London
-CARSTAIRS Routeing Point
 Cartsdyke Paisley Gil St
 Castle Bar Park Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
-CASTLE CARY Routeing Point
-CASTLEFORD Pontefract Group Routeing Point Member
 Castleton Manchr Blackburn Halifax Group Manchester Group
 Castleton Moor Middlesbrough Group
 Caterham Croydon Group Redhill Group
@@ -481,11 +432,9 @@ Chappel & W Coln Marks Tey
 Charing (Kent) Ashford Intl Maidstone Group
 Charing X Glasgw Glasgow Group
 Charlbury Oxford Worcester Group
-CHARLTON Routeing Point
 Chartham Ashford Intl Dover Priory Faversham Ramsgate Group
 Chassen Road Manchester Group Warrington Group
 Chatelherault Motherwell Group Newton Lanark
-CHATHAM Chatham Group Routeing Point Member
 Chathill Edinburgh Group Newcastle
 Cheadle Hulme Crewe Stockport Stoke On Trent Wilmslow Group
 Cheam Epsom Sutton London
@@ -493,25 +442,20 @@ Cheddington Bletchley Group Watford Junction
 Chelford Ches Crewe Wilmslow Group
 Chelmsford Essex Shenfield Witham
 Chelsfield Bromley South Group Sevenoaks
-CHELTENHAM SPA Routeing Point
 Chepstow Bristol Group Gloucester Newport (S.Wales)
 Cherry Tree Blackburn Bolton Preston Lancs
 Chertsey Ascot (Berks) Staines Surbiton Woking
 Cheshunt Stansted Group Tottenham Hale Group
 Chessington N Epsom Kingston Surbiton Wimbledon
 Chessington S Epsom Kingston Surbiton Wimbledon
-CHESTER Routeing Point
 Chester Le St Darlington Newcastle
 Chester Road Birmingham Group Lichfield T V
-CHESTERFIELD Routeing Point
 Chestfield & S Faversham Ramsgate Group
 Chetnole Castle Cary Weymouth Group
 Chichester Ford Group Havant
 Chilham Ashford Intl Dover Priory Faversham Ramsgate Group
 Chilworth Dorking Group Guildford
 Chingford Walthamstow Group
-CHINLEY Routeing Point
-CHIPPENHAM Routeing Point
 Chipstead Croydon Group Redhill Group
 Chirk Shrewsbury Wrexham Group
 Chislehurst Bromley South Group Grove Park
@@ -525,11 +469,9 @@ Church & Oswald Blackburn Halifax Group Manchester Group
 Church Fenton Leeds Group Pontefract Group Selby York
 Church Stretton Craven Arms Shrewsbury
 Cilmeri Craven Arms Swansea Group
-CITY THAMESLINK London Group Routeing Point Member
 Clacton Colchester
 Clandon Dorking Group Epsom Guildford Surbiton
 Clapham High St Clapham Junction Denmark Hill London Group
-CLAPHAM JUNCTION Routeing Point
 Clapham Yorks Hellifield Group Lancaster Group
 Clapton Hackney Group Tottenham Hale Group Walthamstow Group
 Clarbeston Road Swansea Group
@@ -550,7 +492,6 @@ Coatdyke Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Cobham & Stoke D Dorking Group Epsom Guildford Surbiton
 Codsall Shrewsbury Wolverhampton
 Cogan Bridgend Cardiff Central
-COLCHESTER Routeing Point
 Colchester Town Colchester
 Coleshill Parkway Birmingham Group Nuneaton Tamworth
 Collingham Lincoln Newark Group
@@ -580,24 +521,20 @@ Corrour Glasgow Group
 Coryton Cardiff Central
 Coseley Smethwick Group Wolverhampton
 Cosford Shrewsbury Wolverhampton
-COSHAM Portsmouth Group Routeing Point Member
 Cottingham Hull Scarborough Group
 Cottingley Huddersfield Group Leeds Group
 Coulsdon South Croydon Group Redhill Group
-COVENTRY Routeing Point
 Cowden (Kent) Croydon Group
 Cowdenbeath Inverkeithing Group Kirkcaldy Group
 Cradley Heath Smethwick Group Worcester Group
 Craigendoran Glasgow Group
 Cramlington Edinburgh Group Newcastle
-CRAVEN ARMS Routeing Point
 Crawley Horsham Three Bridges
 Crayford Dartford Hither Green London Group Slade Green
 Crediton Exeter Group
 Cressing Essex Witham
 Cressington Hunts Cross Group Liverpool Group
 Creswell Nottingham Group Worksop
-CREWE Routeing Point
 Crewkerne Exeter Group Salisbury
 Crews Hill Finsbury Park Stevenage
 Crianlarich Glasgow Group
@@ -608,7 +545,6 @@ Crofton Park Bromley South Group Lewisham Peckham Rye Group
 Cromer Norwich
 Cromford Derby Group
 Crookston Glasgow Group
-CROSS GATES Leeds Group Routeing Point Member
 Crossflatts Bradford Group Hellifield Group Leeds Group
 Crosshill Glasgow Group Newton Lanark
 Crosskeys Cardiff Central
@@ -620,7 +556,6 @@ Crowhurst Hastings Group Tonbridge
 Crowle Barnetby Doncaster Goole
 Crowthorne Farnborough Group Wokingham
 Croy Falkirk Group Glasgow Group Stirling
-CRYSTAL PALACE Routeing Point
 Cuddington Chester Stockport
 Cuffley Finsbury Park Stevenage
 Culham Didcot Parkway Oxford
@@ -637,7 +572,6 @@ Daisy Hill Bolton Manchester Group Wigan Group
 Dalgety Bay Inverkeithing Group Kirkcaldy Group
 Dalmally Glasgow Group
 Dalmarnock Glasgow Group Newton Lanark
-DALMENY Edinburgh Group Routeing Point Member
 Dalmuir Glasgow Group
 Dalreoch Glasgow Group
 Dalry Kilmarnock Paisley Gil St
@@ -649,10 +583,8 @@ Dalwhinnie Inverness Perth
 Danby Middlesbrough Group
 Danes Court Cardiff Central Pontypridd
 Danzey Stratford U Group Tyseley
-DARLINGTON Routeing Point
 Darnall Sheffield Group Worksop
 Darsham Ipswich Norwich
-DARTFORD Routeing Point
 Darton Barnsley Wakefield Group
 Darwen Blackburn Bolton
 Datchet Slough Staines
@@ -661,22 +593,16 @@ Dawlish Exeter Group Plymouth Group
 Dawlish Warren Exeter Group Plymouth Group
 Deal Dover Priory Ramsgate Group
 Dean (Wilts) Eastleigh Salisbury Southampton Group
-DEANSGATE G-MEX Manchester Group Routeing Point Member
 Deganwy Shotton
-DEIGHTON Huddersfield Group Routeing Point Member
 Delamere Chester Stockport
 Denby Dale Barnsley Huddersfield Group
 Denham Banbury Group Greenford Und London Group Oxford
 Denham Golf Club Banbury Group Greenford Und London Group Oxford
-DENMARK HILL Routeing Point
 Dent Carlisle Hellifield Group
 Denton Guide Bridge Stockport
 Deptford Charlton London Group
-DERBY Derby Group Routeing Point Member
 Derby Rd Ipswich Ipswich Norwich
-DEVONPORT DEVON Plymouth Group Routeing Point Member
 Dewsbury Huddersfield Group Leeds Group
-DIDCOT PARKWAY Routeing Point
 Digby & Sowton Exeter Group
 Dilton Marsh Salisbury Westbury Group
 Dinas (Rhondda) Pontypridd
@@ -687,40 +613,27 @@ Dinsdale Darlington Middlesbrough Group
 Dinting Guide Bridge
 Disley Chinley Guide Bridge Hazel Grove Manchester Group
 Diss Norwich Stowmarket
-DOCKYARD DEVONPT Plymouth Group Routeing Point Member
 Dodworth Barnsley Huddersfield Group
 Dolau Craven Arms Swansea Group
 Doleham Ashford Intl Hastings Group
 Dolgarrog Shotton
 Dolwyddelan Shotton
-DONCASTER Routeing Point
-DORCHESTER SOUTH Weymouth Group Routeing Point Member
-DORCHESTER WEST Weymouth Group Routeing Point Member
-DORE Sheffield Group Routeing Point Member
-DORKING Dorking Group Routeing Point Member
-DORKING DEEPDENE Dorking Group Routeing Point Member
-DORKING WEST Dorking Group Routeing Point Member
 Dormans Croydon Group
 Dorridge Stratford U Group Tyseley Warwick Group
 Dove Holes Chinley Guide Bridge Hazel Grove Manchester Group
-DOVER PRIORY Routeing Point
 Dovercourt Ipswich Manningtree
-DOVEY JUNCTION Machynlleth Group Routeing Point Member
 Downham Market Ely
 Drayton Green Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
 Drayton Park Finsbury Park Highbury & I Und
 Drem Edinburgh Group Newcastle
 Driffield Hull Scarborough Group
 Drigg Carlisle Lancaster Group
-DROITWICH SPA Worcester Group Routeing Point Member
 Dronfield Chesterfield Sheffield Group
 Drumchapel Glasgow Group
 Drumfrochar Paisley Gil St
 Drumgelloch Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Drumry Glasgow Group
-DUDDESTON Birmingham Group Routeing Point Member
 Dudley Port Smethwick Group Wolverhampton
-DUFFIELD Derby Group Routeing Point Member
 Duirinish Inverness
 Duke Street Glasgow Group
 Dullingham Cambridge Ely Stowmarket
@@ -732,7 +645,6 @@ Dumpton Park Faversham Ramsgate Group
 Dunbar Edinburgh Group Newcastle
 Dunblane Perth Stirling
 Duncraig Inverness
-DUNDEE Routeing Point
 Dunfermline Qm Inverkeithing Group Kirkcaldy Group
 Dunfermline Town Inverkeithing Group Kirkcaldy Group
 Dunkeld Inverness Perth
@@ -744,19 +656,14 @@ Durham Darlington Newcastle
 Durrington Brighton Group Ford Group
 Dyce Aberdeen Inverness
 Dyffryn Ardudwy Machynlleth Group
-EAGLESCLIFFE Middlesbrough Group Routeing Point Member
 Ealing Broadway Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
-EARLESTOWN Routeing Point
 Earley Reading Group Wokingham
 Earlsfield Clapham Junction Wimbledon
-EARLSWOOD SURREY Redhill Group Routeing Point Member
 Earlswood W Mid Stratford U Group Tyseley
 East Boldon Middlesbrough Group Newcastle
-EAST CROYDON Croydon Group Routeing Point Member
 East Didsbury Manchester Group Wilmslow Group
 East Dulwich Peckham Rye Group Tulse Hill
 East Farleigh Ashford Intl Maidstone Group Tonbridge
-EAST GARFORTH Leeds Group Routeing Point Member
 East Grinstead Croydon Group
 East Kilbride Glasgow Group Kilmarnock
 East Malling Maidstone Group Sevenoaks Swanley
@@ -767,9 +674,7 @@ Eastbourne Hastings Group Lewes
 Eastbrook Bridgend Cardiff Central
 Easterhouse Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Eastham Rake Hooton Liverpool Group
-EASTLEIGH Routeing Point
 Eastrington Goole Hull Selby
-EBBSFLEET INTERNATIONAL Routeing Point
 Ebbw Vale Parkway Cardiff Central
 Eccles (Manchr) Earlestown Manchester Group Wigan Group
 Eccles Road Ely Norwich Peterborough
@@ -778,8 +683,6 @@ Edale Chinley Sheffield Group
 Eden Park Beckenham Jn Lewisham New Cross
 Edenbridge Redhill Group Tonbridge
 Edenbridge Town Croydon Group
-EDGE HILL Liverpool Group Routeing Point Member
-EDINBURGH Edinburgh Group Routeing Point Member
 Edinburgh Park Edinburgh Group Falkirk Group Inverkeithing Group
 Edmonton Green Stansted Group Tottenham Hale Group
 Effingham Jn Dorking Group Epsom Guildford Surbiton
@@ -797,14 +700,12 @@ Elsenham Essex Cambridge Stansted Group
 Elstree & Bhwood Bedford Watford Junction West Hampstead Group
 Eltham Charlton Dartford Lewisham Slade Green
 Elton & Orston Grantham Nottingham Group Sleaford
-ELY Routeing Point
 Emerson Park Barking Romford Group Southend Group
 Emsworth Ford Group Havant
 Enfield Chase Finsbury Park Stevenage
 Enfield Lock Stansted Group Tottenham Hale Group
 Enfield Town Stansted Group Tottenham Hale Group
 Entwistle Blackburn Bolton
-EPSOM Routeing Point
 Epsom Downs Sutton London
 Erdington Birmingham Group Lichfield T V
 Eridge Croydon Group
@@ -816,9 +717,6 @@ Euxton Bal Lane Bolton Preston Lancs Wigan Group
 Evesham Oxford Worcester Group
 Ewell East Epsom Sutton London
 Ewell West Epsom Kingston Surbiton Wimbledon
-EXETER CENTRAL Exeter Group Routeing Point Member
-EXETER ST DAVIDS Exeter Group Routeing Point Member
-EXETER ST THOMAS Exeter Group Routeing Point Member
 Exhib Ctr Glasgw Glasgow Group
 Exmouth Exeter Group
 Exton Exeter Group
@@ -828,28 +726,21 @@ Fairfield Guide Bridge Manchester Group
 Fairlie Kilmarnock Paisley Gil St
 Fairwater Cardiff Central Pontypridd
 Falconwood Charlton Dartford Lewisham Slade Green
-FALKIRK GHSTON Falkirk Group Routeing Point Member
-FALKIRK HIGH Falkirk Group Routeing Point Member
 Falls Of Cruachn Glasgow Group
 Falmer Brighton Group Lewes
 Falmouth Docks Plymouth Group
 Falmouth Town Plymouth Group
-FAREHAM Portsmouth Group Routeing Point Member
-FARNBOROUGH MAIN Farnborough Group Routeing Point Member
-FARNBOROUGH N Farnborough Group Routeing Point Member
 Farncombe Guildford Havant
 Farnham Ash Vale Farnborough Group Guildford
 Farningham Road Chatham Group Swanley
 Farnworth Bolton Manchester Group
 Farringdon Und London Group
 Fauldhouse Edinburgh Group Motherwell Group
-FAVERSHAM Routeing Point
 Faygate Horsham Three Bridges
 Fazakerley Liverpool Group Preston Lancs Wigan Group
 Fearn Inverness
 Featherstone Pontefract Group Wakefield Group
 Felixstowe Ipswich Norwich
-FELTHAM Routeing Point
 Feniton Exeter Group Salisbury
 Fenny Stratford Bedford Bletchley Group
 Fernhill Pontypridd
@@ -857,9 +748,7 @@ Ferriby Goole Hull Selby
 Ferryside Swansea Group
 Ffairfach Craven Arms Swansea Group
 Filey Hull Scarborough Group
-FILTON ABBEYWOOD Bristol Group Routeing Point Member
 Finchley Rd & F Highbury & I Und Tottenham Hale Group West Hampstead Group
-FINSBURY PARK Routeing Point
 Finstock Oxford Worcester Group
 Fishbourne Ssex Ford Group Havant
 Fishersgate Brighton Group Ford Group
@@ -875,7 +764,6 @@ Flixton Manchester Group Warrington Group
 Flowery Field Guide Bridge
 Folkestone Ctl Ashford Intl Dover Priory
 Folkestone West Ashford Intl Dover Priory
-FORD Ford Group Routeing Point Member
 Forest Gate Romford Group Stratford London Gp
 Forest Hill Croydon Group Crystal Palace New Cross Gate
 Formby Liverpool Group Preston Lancs Wigan Group
@@ -887,7 +775,6 @@ Four Oaks Birmingham Group Lichfield T V
 Foxfield Carlisle Lancaster Group
 Foxton Cambridge Hitchin
 Frant Hastings Group Tonbridge
-FRATTON Portsmouth Group Routeing Point Member
 Freshfield Liverpool Group Preston Lancs Wigan Group
 Freshford Bath Spa Westbury Group
 Frimley Ascot (Berks) Ash Vale
@@ -901,7 +788,6 @@ Furze Platt Reading Group Slough
 Gainsborough Ctl Barnetby Doncaster Lincoln Retford
 Gainsborough L R Doncaster Lincoln Retford
 Garelochhead Glasgow Group
-GARFORTH Leeds Group Routeing Point Member
 Gargrave Bradford Group Hellifield Group Leeds Group
 Garrowhill Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Garscadden Glasgow Group
@@ -914,31 +800,23 @@ Garth (Powys) Craven Arms Swansea Group
 Garve Inverness
 Gathurst Liverpool Group Preston Lancs Wigan Group
 Gatley Manchester Group Wilmslow Group
-GATWICK AIRPORT Routeing Point
 Georgemas Jn Inverness
 Gerrards Cross Banbury Group Greenford Und London Group Oxford
-GIDEA PARK Romford Group Routeing Point Member
 Giffnock Glasgow Group Kilmarnock
 Giggleswick Hellifield Group Lancaster Group
 Gilberdyke Goole Hull Selby
 Gilfach Fargoed Cardiff Central
 Gillingham Dset Exeter Group Salisbury
-GILLINGHAM KENT Chatham Group Routeing Point Member
 Gilshochill Glasgow Group
 Gipsy Hill Crystal Palace Streatham Group Tulse Hill
 Girvan Kilmarnock Paisley Gil St
 Glaisdale Middlesbrough Group
 Glan Conwy Shotton
-GLASGOW CENTRAL Glasgow Group Routeing Point Member
-GLASGOW QUEEN ST Glasgow Group Routeing Point Member
-GLASSHOUGHTON Pontefract Group Routeing Point Member
 Glazebrook Manchester Group Warrington Group
 Gleneagles Perth Stirling
 Glenfinnan Glasgow Group
 Glengarnock Kilmarnock Paisley Gil St
-GLENROTHES Kirkcaldy Group Routeing Point Member
 Glossop Guide Bridge
-GLOUCESTER Routeing Point
 Glynde Hastings Group Lewes
 Gobowen Shrewsbury Wrexham Group
 Godalming Guildford Havant
@@ -947,9 +825,7 @@ Godstone Redhill Group Tonbridge
 Goldthorpe Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Golf Street Aberdeen Dundee
 Golspie Inverness
-GOMSHALL Dorking Group Routeing Point Member
 Goodmayes Romford Group Stratford London Gp
-GOOLE Routeing Point
 Goostrey Crewe Wilmslow Group
 Gordon Hill Finsbury Park Stevenage
 Goring & Strtley Didcot Parkway Reading Group
@@ -957,15 +833,12 @@ Goring By Sea Brighton Group Ford Group
 Gorton Guide Bridge Manchester Group
 Gospel Oak Highbury & I Und Tottenham Hale Group West Hampstead Group
 Gourock Paisley Gil St
-GOWERTON Swansea Group Routeing Point Member
 Goxhill Barnetby
 Grange Ovr Sands Carlisle Lancaster Group
 Grange Park Finsbury Park Stevenage
 Grangetown (Cardiff) Bridgend Cardiff Central
-GRANTHAM Routeing Point
 Grateley Basingstoke Salisbury
 Gravelly Hill Birmingham Group Lichfield T V
-GRAVESEND Routeing Point
 Grays Barking Romford Group Southend Group
 Great Ayton Middlesbrough Group
 Great Bentley Colchester
@@ -979,7 +852,6 @@ Green Road Carlisle Lancaster Group
 Greenbank Chester Stockport
 Greenfaulds Falkirk Group Glasgow Group Motherwell Group
 Greenfield Huddersfield Group Stalybridge
-GREENFORD UND Routeing Point
 Greenhithe Dartford Gravesend
 Greenock Central Paisley Gil St
 Greenock West Paisley Gil St
@@ -989,9 +861,6 @@ Grimsby Docks Barnetby
 Grimsby Town Barnetby
 Grindleford Chinley Sheffield Group
 Grosmont Middlesbrough Group
-GROVE PARK Routeing Point
-GUIDE BRIDGE Routeing Point
-GUILDFORD Routeing Point
 Guiseley Bradford Group Hellifield Group Leeds Group
 Gunnersbury Richmond London Willesden Jn
 Gunnislake Plymouth Group
@@ -1000,8 +869,6 @@ Gwersyllt Shotton Wrexham Group
 Gypsy Lane Middlesbrough Group
 Habrough Barnetby
 Hackbridge Mitcham Junction Sutton London
-HACKNEY CENTRAL Hackney Group Routeing Point Member
-HACKNEY DOWNS Hackney Group Routeing Point Member
 Hackney Wick Hackney Group Stratford London Gp
 Haddenham & T Py Banbury Group Greenford Und London Group Oxford
 Haddiscoe Ipswich Norwich
@@ -1014,7 +881,6 @@ Hairmyres Glasgow Group Kilmarnock
 Hale Chester Stockport
 Halesworth Ipswich Norwich
 Halewood Hunts Cross Group Warrington Group
-HALIFAX Halifax Group Routeing Point Member
 Hall Green Stratford U Group Tyseley
 Hall I'Th'Wood Blackburn Bolton
 Hall Road Liverpool Group Preston Lancs Wigan Group
@@ -1034,7 +900,6 @@ Hampton Wick Kingston Twickenham
 Hamstead Birmngm Birmingham Group Walsall Group
 Hamworthy Southampton Group Weymouth Group
 Hanborough Oxford Worcester Group
-HANDFORTH Wilmslow Group Routeing Point Member
 Hanwell Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
 Hapton Blackburn Halifax Group Manchester Group
 Harlech Machynlleth Group
@@ -1060,15 +925,12 @@ Harwich Intl Ipswich Manningtree
 Harwich Town Ipswich Manningtree
 Haslemere Guildford Havant
 Hassocks Brighton Group Lewes Three Bridges
-HASTINGS Hastings Group Routeing Point Member
 Hatch End Watford Junction Willesden Jn
 Hatfield & Stnfh Barnetby Doncaster Goole
 Hatfield (Herts) Finsbury Park Stevenage
 Hatfield Peverel Shenfield Witham
 Hathersage Chinley Sheffield Group
 Hattersley Guide Bridge
-HATTON Warwick Group Routeing Point Member
-HAVANT Routeing Point
 Havenhouse Sleaford
 Haverfordwest Swansea Group
 Hawarden Shotton Wrexham Group
@@ -1076,22 +938,15 @@ Hawarden Bridge Liverpool Group Shotton
 Hawkhead Glasgow Group
 Haydon Bridge Carlisle Newcastle
 Haydons Road Streatham Group Wimbledon
-HAYES & HARLNGTN Hayes & Harlngtn Gp Routeing Point Member
 Hayes (Kent) Beckenham Jn Lewisham New Cross
 Hayle Plymouth Group
-HAYMARKET Edinburgh Group Routeing Point Member
 Haywards Heath Brighton Group Lewes Three Bridges
-HAZEL GROVE Routeing Point
 Headcorn Ashford Intl Maidstone Group Tonbridge
 Headingley Leeds Group York
 Headstone Lane Watford Junction Willesden Jn
-HEALD GREEN Wilmslow Group Routeing Point Member
 Healing Barnetby
 Heath High Level Cardiff Central
 Heath Low Level Cardiff Central
-Heathrow Terminal 1,2 And 3 Hayes & Harlngtn Gp
-Heathrow Terminal 4 Hayes & Harlngtn Gp
-Heathrow Terminal 5 Hayes & Harlngtn Gp
 Heaton Chapel Manchester Group Stockport
 Hebden Bridge Blackburn Halifax Group Manchester Group
 Heckington Sleaford
@@ -1100,7 +955,6 @@ Hednesford Rugeley Trnt Val Walsall Group
 Heighington Darlington
 Helensburgh Ctl Glasgow Group
 Helensburgh Upp Glasgow Group
-HELLIFIELD Hellifield Group Routeing Point Member
 Helmsdale Inverness
 Helsby Chester Hooton Runcorn Group
 Hemel Hempstead Bletchley Group Watford Junction
@@ -1109,9 +963,7 @@ Hengoed Cardiff Central
 Henley In Arden Stratford U Group Tyseley
 Henley On Thames Reading Group Slough
 Hensall Goole Pontefract Group
-HEREFORD Routeing Point
 Herne Bay Faversham Ramsgate Group
-HERNE HILL Routeing Point
 Hersham Ascot (Berks) Staines Surbiton Woking
 Hertford East Stansted Group Tottenham Hale Group
 Hertford North Finsbury Park Stevenage
@@ -1128,34 +980,28 @@ High Wycombe Banbury Group Greenford Und London Group Oxford
 Higham (Kent) Chatham Group Gravesend
 Highams Park Walthamstow Group
 Highbridge Bristol Group Taunton
-HIGHBURY & I UND Routeing Point
 Hightown Liverpool Group Preston Lancs Wigan Group
 Hildenborough Sevenoaks Tonbridge
 Hillfoot Glasgow Group
 Hillington East Glasgow Group Paisley Gil St
 Hillington West Glasgow Group Paisley Gil St
 Hillside Liverpool Group Preston Lancs Wigan Group
-HILSEA Portsmouth Group Routeing Point Member
 Hinchley Wood Dorking Group Epsom Guildford Surbiton
 Hinckley (Leics) Leicester Nuneaton
 Hindley Bolton Manchester Group Wigan Group
 Hinton Admiral Southampton Group Weymouth Group
-HITCHIN Routeing Point
-HITHER GREEN Routeing Point
 Hockley Shenfield Southend Group
 Hollingbourne Ashford Intl Maidstone Group
 Holmes Chapel Crewe Wilmslow Group
 Holmwood Surrey Dorking Group Horsham
 Holton Heath Southampton Group Weymouth Group
 Holyhead Shotton
-HOLYTOWN Motherwell Group Routeing Point Member
 Homerton Hackney Group Stratford London Gp
 Honeybourne Oxford Worcester Group
 Honiton Exeter Group Salisbury
 Honley Barnsley Huddersfield Group
 Honor Oak Park Croydon Group Crystal Palace New Cross Gate
 Hook Basingstoke Farnborough Group
-HOOTON Routeing Point
 Hope (Flints) Shotton Wrexham Group
 Hope Derbyshire Chinley Sheffield Group
 Hopton Heath Craven Arms Swansea Group
@@ -1163,14 +1009,11 @@ Horley Gatwick Airport Redhill Group
 Hornbeam Park Leeds Group York
 Hornsey Finsbury Park Stevenage
 Horsforth Leeds Group York
-HORSHAM Routeing Point
 Horsley Dorking Group Epsom Guildford Surbiton
 Horton In Rbdale Carlisle Hellifield Group
 Horwich Parkway Blackburn Bolton Preston Lancs
 Hoscar Liverpool Group Preston Lancs Wigan Group
 Hough Green Hunts Cross Group Warrington Group
-HOUNSLOW Routeing Point
-HOVE Brighton Group Routeing Point Member
 Hoveton & Wroxhm Norwich
 How Wood Bedford Watford Junction West Hampstead Group
 Howden Goole Hull Selby
@@ -1179,18 +1022,14 @@ Hoxton London Group New Cross New Cross Gate
 Hoylake Liverpool Group Shotton
 Hubberts Bridge Sleaford
 Hucknall Nottingham Group Worksop
-HUDDERSFIELD Huddersfield Group Routeing Point Member
-HULL Routeing Point
 Humphrey Park Manchester Group Warrington Group
 Huncoat Blackburn Halifax Group Manchester Group
 Hungerford Reading Group Westbury Group
 Hunmanby Hull Scarborough Group
 Huntingdon Hitchin Peterborough
 Huntly Aberdeen Inverness
-HUNTS CROSS Hunts Cross Group Routeing Point Member
 Hurst Green Croydon Group
 Hutton Cranswick Hull Scarborough Group
-HUYTON Routeing Point
 Hyde Central Chinley Guide Bridge Manchester Group
 Hyde North Chinley Guide Bridge Manchester Group
 Hykeham Lincoln Newark Group
@@ -1207,19 +1046,15 @@ Ingatestone Shenfield Witham
 Insch Aberdeen Inverness
 Invergordon Inverness
 Invergowrie Dundee Perth
-INVERKEITHING Inverkeithing Group Routeing Point Member
 Inverkip Paisley Gil St
-INVERNESS Routeing Point
 Invershin Inverness
 Inverurie Aberdeen Inverness
-IPSWICH Routeing Point
 Irlam Manchester Group Warrington Group
 Irvine Kilmarnock Paisley Gil St
 Isleworth Barnes Hounslow
 Islip Banbury Group Greenford Und London Group Oxford
 Iver Hayes & Harlngtn Gp Slough
 Ivybridge Exeter Group Plymouth Group
-JAMES ST LIVERPL Liverpool Group Routeing Point Member
 Jewellery Quartr Birmingham Group Smethwick Group
 Johnston (Pembs) Swansea Group
 Johnstone Sclyde Kilmarnock Paisley Gil St
@@ -1247,10 +1082,8 @@ Kentish Tn West Highbury & I Und Tottenham Hale Group West Hampstead Group
 Kentish Town London Group West Hampstead Group
 Kenton Watford Junction Willesden Jn
 Kents Bank Carlisle Lancaster Group
-KETTERING Routeing Point
 Kew Bridge Barnes Hounslow
 Kew Gardens Richmond London Willesden Jn
-KEYHAM Plymouth Group Routeing Point Member
 Keynsham Bath Spa Bristol Group
 Kidbrooke Charlton Dartford Lewisham Slade Green
 Kidderminster Smethwick Group Worcester Group
@@ -1260,7 +1093,6 @@ Kilburn High Rd London Group Willesden Jn
 Kildale Middlesbrough Group
 Kildonan Inverness
 Kilgetty Swansea Group
-KILMARNOCK Routeing Point
 Kilmaurs Glasgow Group Kilmarnock
 Kilpatrick Glasgow Group
 Kilwinning Kilmarnock Paisley Gil St
@@ -1272,9 +1104,7 @@ Kings Lynn Ely
 Kings Norton Barnt Green Birmingham Group
 Kings Nympton Exeter Group
 Kings Park Glasgow Group Newton Lanark
-KINGS SUTTON Banbury Group Routeing Point Member
 Kingsknowe Edinburgh Group Motherwell Group
-KINGSTON Routeing Point
 Kingswood Croydon Group Redhill Group
 Kingussie Inverness Perth
 Kintbury Reading Group Westbury Group
@@ -1284,7 +1114,6 @@ Kirkby In Ashfld Nottingham Group Worksop
 Kirkby In Furn Carlisle Lancaster Group
 Kirkby Merseysde Liverpool Group Preston Lancs Wigan Group
 Kirkby Stephen W Carlisle Hellifield Group
-KIRKCALDY Kirkcaldy Group Routeing Point Member
 Kirkconnel Carlisle Kilmarnock
 Kirkdale Liverpool Group Preston Lancs Wigan Group
 Kirkham & Wesham Preston Lancs
@@ -1302,7 +1131,6 @@ Knottingley Goole Pontefract Group
 Knucklas Craven Arms Swansea Group
 Knutsford Chester Stockport
 Kyle Of Lochalsh Inverness
-LADYBANK Routeing Point
 Ladywell Beckenham Jn Lewisham New Cross
 Laindon Barking Romford Group Southend Group
 Lairg Inverness
@@ -1310,7 +1138,6 @@ Lake Portsmouth Group
 Lakenheath Ely Norwich Peterborough
 Lamphey Swansea Group
 Lanark Motherwell Group
-LANCASTER Lancaster Group Routeing Point Member
 Lancing Brighton Group Ford Group
 Landywood Rugeley Trnt Val Walsall Group
 Langbank Paisley Gil St
@@ -1327,20 +1154,16 @@ Larbert Falkirk Group Glasgow Group Stirling
 Largs Kilmarnock Paisley Gil St
 Larkhall Motherwell Group Newton Lanark
 Laurencekirk Aberdeen Dundee
-LAWRENCE HILL Bristol Group Routeing Point Member
 Layton (Lancs) Preston Lancs
 Lazonby Carlisle Hellifield Group
 Lea Green Earlestown Huyton
 Lea Hall Birmingham Group Coventry
 Leagrave Bedford Watford Junction West Hampstead Group
 Lealholm Middlesbrough Group
-LEAMINGTON SPA Routeing Point
 Leasowe Liverpool Group Shotton
 Leatherhead Dorking Group Epsom Guildford Surbiton
 Ledbury Hereford Worcester Group
 Lee (London) Dartford Hither Green Slade Green
-LEEDS Leeds Group Routeing Point Member
-LEICESTER Routeing Point
 Leigh Kent Redhill Group Tonbridge
 Leigh On Sea Barking Romford Group Southend Group
 Leighton Buzzard Bletchley Group Watford Junction
@@ -1352,16 +1175,12 @@ Leominster Craven Arms Hereford
 Letchworth Cambridge Hitchin
 Leuchars Dundee Ladybank
 Levenshulme Manchester Group Stockport
-LEWES Routeing Point
-LEWISHAM Routeing Point
 Leyland Bolton Preston Lancs Wigan Group
 Leyton Mid Rd Barking Walthamstow Group
 Leytonstone H Rd Barking Walthamstow Group
 Lichfield City Birmingham Group Lichfield T V
-LICHFIELD T V Routeing Point
 Lidlington Bedford Bletchley Group
 Limehouse E.R. London Group West Ham
-LINCOLN Routeing Point
 Lingfield Croydon Group
 Lingwood Ipswich Norwich
 Linlithgow Edinburgh Group Falkirk Group
@@ -1372,13 +1191,8 @@ Lisvane & Tnhill Cardiff Central
 Little Kimble Banbury Group Greenford Und London Group Oxford
 Little Sutton Chester Hooton Runcorn Group
 Littleborough Blackburn Halifax Group Manchester Group
-LITTLEHAMPTON Ford Group Routeing Point Member
 Littlehaven Horsham Three Bridges
 Littleport Ely
-LIVERPOOL CTL Liverpool Group Routeing Point Member
-LIVERPOOL L ST Liverpool Group Routeing Point Member
-LIVERPOOL LND SG Liverpool Group Routeing Point Member
-LIVERPOOL SOUTH PARKWAY Hunts Cross Group Routeing Point Member
 Livingston North Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Livingston South Edinburgh Group Motherwell Group
 Llanaber Machynlleth Group
@@ -1394,7 +1208,6 @@ Llandrindod Craven Arms Swansea Group
 Llandudno Shotton
 Llandudno Jn Shotton
 Llandybie Craven Arms Swansea Group
-LLANELLI Swansea Group Routeing Point Member
 Llanfairfechan Shotton
 Llanfairpwll Shotton
 Llangadog Craven Arms Swansea Group
@@ -1420,26 +1233,10 @@ Lochluichart Inverness
 Lochwinnoch Kilmarnock Paisley Gil St
 Lockerbie Carlisle Carstairs
 Lockwood Barnsley Huddersfield Group
-LONDON BLKFRIARS London Group Routeing Point Member
-LONDON BRIDGE London Group Routeing Point Member
-LONDON CANNON ST London Group Routeing Point Member
-LONDON CHARING X London Group Routeing Point Member
-LONDON EUSTON London Group Routeing Point Member
-LONDON FENCH ST London Group Routeing Point Member
 London Fields Hackney Group London Group
-LONDON KINGS X London Group Routeing Point Member
-LONDON LIVRPL ST London Group Routeing Point Member
-LONDON MARYLEBNE London Group Routeing Point Member
-LONDON PADDINGTN London Group Routeing Point Member
 London Rd Brghtn Brighton Group Lewes
 London Rd Guilfd Dorking Group Epsom Guildford Surbiton
-LONDON ST PANCRS London Group Routeing Point Member
-LONDON VICTORIA London Group Routeing Point Member
-LONDON WATERLOO London Group Routeing Point Member
-LONDON WATRLOO E London Group Routeing Point Member
 Long Buckby Northampton Rugby
-LONG EATON Derby Group Routeing Point Member
-LONG PRESTON Hellifield Group Routeing Point Member
 Longbeck Middlesbrough Group
 Longbridge Barnt Green Birmingham Group
 Longcross Ascot (Berks) Staines Surbiton Woking
@@ -1452,7 +1249,6 @@ Lostock Blackburn Bolton Preston Lancs
 Lostock Gralam Chester Stockport
 Lostock Hall Blackburn Preston Lancs
 Lostwithiel Plymouth Group
-LOUGHBORO LEICS Loughborough Group Routeing Point Member
 Loughborough Jn Herne Hill London Group Peckham Rye Group
 Lowdham Newark Group Nottingham Group
 Lower Sydenham Beckenham Jn Lewisham New Cross
@@ -1469,25 +1265,16 @@ Lympstone Comm Exeter Group
 Lympstone Vllage Exeter Group
 Lytham Preston Lancs
 Macclesfield Crewe Stockport Stoke On Trent Wilmslow Group
-MACHYNLLETH Machynlleth Group Routeing Point Member
 Maesteg Bridgend
 Maesteg Eweny Rd Bridgend
 Maghull Liverpool Group Preston Lancs Wigan Group
 Maiden Newton Castle Cary Weymouth Group
 Maidenhead Reading Group Slough
-MAIDSTONE BKS Maidstone Group Routeing Point Member
-MAIDSTONE EAST Maidstone Group Routeing Point Member
-MAIDSTONE WEST Maidstone Group Routeing Point Member
 Malden Manor Epsom Kingston Surbiton Wimbledon
 Mallaig Glasgow Group
 Malton Scarborough Group York
 Malvern Link Hereford Worcester Group
-MANCHESTER O RD Manchester Group Routeing Point Member
-MANCHESTER PIC Manchester Group Routeing Point Member
-MANCHESTER VIC Manchester Group Routeing Point Member
-MANCHSTR AIRPORT Wilmslow Group Routeing Point Member
 Manea Ely Norwich Peterborough
-MANNINGTREE Routeing Point
 Manor Park Romford Group Stratford London Gp
 Manor Road Liverpool Group Shotton
 Manorbier Swansea Group
@@ -1499,8 +1286,6 @@ Marden Kent Ashford Intl Maidstone Group Tonbridge
 Margate Faversham Ramsgate Group
 Market Harboro Kettering Leicester
 Market Rasen Barnetby Lincoln
-MARKINCH Kirkcaldy Group Routeing Point Member
-MARKS TEY Routeing Point
 Marlow Reading Group Slough
 Marple Chinley Guide Bridge Manchester Group
 Marsden Yorks Huddersfield Group Stalybridge
@@ -1518,10 +1303,8 @@ Mauldeth Road Manchester Group Wilmslow Group
 Maxwell Park Glasgow Group Newton Lanark
 Maybole Kilmarnock Paisley Gil St
 Maze Hill Charlton London Group
-MEADOWHALL Routeing Point
 Meldreth Cambridge Hitchin
 Melksham Chippenham Westbury Group
-MELTON MOWBRAY Routeing Point
 Melton Suffolk Ipswich Norwich
 Menheniot Plymouth Group
 Menston Bradford Group Hellifield Group Leeds Group
@@ -1536,8 +1319,6 @@ Metheringham Lincoln Sleaford
 Metrocentre Carlisle Newcastle
 Mexborough Doncaster Swinton  S Yorks
 Micheldever Basingstoke Eastleigh
-MICKLEFIELD Leeds Group Routeing Point Member
-MIDDLESBROUGH Middlesbrough Group Routeing Point Member
 Middlewood Chinley Guide Bridge Hazel Grove Manchester Group
 Midgham Reading Group Westbury Group
 Milford Haven Swansea Group
@@ -1545,26 +1326,18 @@ Milford Surrey Guildford Havant
 Mill Hill Bway Bedford Watford Junction West Hampstead Group
 Mill Hill Lancs Blackburn Bolton Preston Lancs
 Millbrook Beds Bedford Bletchley Group
-MILLBROOK HANTS Southampton Group Routeing Point Member
 Milliken Park Kilmarnock Paisley Gil St
 Millom Carlisle Lancaster Group
 Mills Hill Mancr Blackburn Halifax Group Manchester Group
 Milngavie Glasgow Group
-MILTON KEYNES C Bletchley Group Routeing Point Member
 Minffordd Machynlleth Group
-MINSTER Ramsgate Group Routeing Point Member
-MIRFIELD Huddersfield Group Routeing Point Member
 Mistley Ipswich Manningtree
 Mitcham Eastfields Clapham Junction Mitcham Junction Streatham Group
-MITCHAM JUNCTION Routeing Point
 Mobberley Chester Stockport
 Monifieth Aberdeen Dundee
 Monks Risborough Banbury Group Greenford Und London Group Oxford
 Montpelier Bristol Group
 Montrose Aberdeen Dundee
-MOORFIELDS Liverpool Group Routeing Point Member
-MOORGATE London Group Routeing Point Member
-MOORGATE UND London Group Routeing Point Member
 Moorside Bolton Manchester Group Wigan Group
 Moorthorpe Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Morar Glasgow Group
@@ -1585,7 +1358,6 @@ Mossley Hill Hunts Cross Group Liverpool Group
 Mossley Manchr Huddersfield Group Stalybridge
 Mosspark Glasgow Group
 Moston Blackburn Halifax Group Manchester Group
-MOTHERWELL Motherwell Group Routeing Point Member
 Motspur Park Epsom Kingston Surbiton Wimbledon
 Mottingham Dartford Hither Green Slade Green
 Mottisford & Dunbridge Eastleigh Salisbury Southampton Group
@@ -1617,8 +1389,6 @@ New Barnet Finsbury Park Stevenage
 New Beckenham Beckenham Jn Lewisham New Cross
 New Brighton Liverpool Group Shotton
 New Clee Barnetby
-NEW CROSS Routeing Point
-NEW CROSS GATE Routeing Point
 New Cumnock Carlisle Kilmarnock
 New Eltham Dartford Hither Green Slade Green
 New Holland Barnetby
@@ -1630,25 +1400,20 @@ New Mills Newtn Chinley Guide Bridge Hazel Grove Manchester Group
 New Milton Southampton Group Weymouth Group
 New Pudsey Bradford Group Leeds Group
 New Southgate Finsbury Park Stevenage
-NEWARK CASTLE Newark Group Routeing Point Member
-NEWARK N GATE Newark Group Routeing Point Member
 Newbridge Cardiff Central
 Newbury Reading Group Westbury Group
 Newbury Racecse Reading Group Westbury Group
-NEWCASTLE Routeing Point
 Newcraighall Edinburgh Group Newcastle
 Newhaven Harbour Lewes
 Newhaven Town Lewes
 Newington Chatham Group Faversham
 Newmarket Cambridge Ely Stowmarket
-NEWPORT (S.WALES) Routeing Point
 Newport Essex Cambridge Stansted Group
 Newquay Plymouth Group
 Newstead Nottingham Group Worksop
 Newton Abbot Exeter Group Plymouth Group
 Newton Aycliffe Darlington
 Newton For Hyde Guide Bridge
-NEWTON LANARK Routeing Point
 Newton Le Will Earlestown Manchester Group Wigan Group
 Newton On Ayr Kilmarnock Paisley Gil St
 Newton St Cyres Exeter Group
@@ -1657,7 +1422,6 @@ Newtown (Powys) Machynlleth Group Shrewsbury
 Ninian Park Cardiff Central
 Nitshill Glasgow Group Kilmarnock
 Norbiton Epsom Kingston Surbiton Wimbledon
-NORBURY Streatham Group Routeing Point Member
 Normans Bay Hastings Group Lewes
 Normanton Leeds Group Pontefract Group Wakefield Group
 North Berwick Edinburgh Group Newcastle
@@ -1665,29 +1429,21 @@ North Camp Ash Vale Farnborough Group Guildford
 North Dulwich Peckham Rye Group Tulse Hill
 North Fambridge Shenfield Southend Group
 North Llanrwst Shotton
-NORTH QUEENSFY Inverkeithing Group Routeing Point Member
 North Road Darlington
 North Sheen Barnes Richmond London
 North Walsham Norwich
 North Wembley Watford Junction Willesden Jn
 Northallerton Darlington Middlesbrough Group York
-NORTHAMPTON Routeing Point
 Northfield Barnt Green Birmingham Group
 Northfleet Dartford Gravesend
 Northolt Park Banbury Group Greenford Und London Group Oxford
 Northumberland P Stansted Group Tottenham Hale Group
 Northwich Chester Stockport
-NORTON BRIDGE Stafford Group Routeing Point Member
-NORWICH Routeing Point
 Norwood Junction Croydon Group Crystal Palace New Cross Gate
-NOTTINGHAM Nottingham Group Routeing Point Member
-NUNEATON Routeing Point
-NUNHEAD Peckham Rye Group Routeing Point Member
 Nunthorpe Middlesbrough Group
 Nutbourne Ford Group Havant
 Nutfield Redhill Group Tonbridge
 Oakengates Shrewsbury Wolverhampton
-OAKHAM Routeing Point
 Oakleigh Park Finsbury Park Stevenage
 Oban Glasgow Group
 Ockendon Barking Romford Group Southend Group
@@ -1695,12 +1451,10 @@ Ockley Dorking Group Horsham
 Okehampton Exeter Group
 Old Hill Smethwick Group Worcester Group
 Old Roan Liverpool Group Preston Lancs Wigan Group
-OLD STREET UND London Group Routeing Point Member
 Oldfield Park Bath Spa Bristol Group
 Olton Stratford U Group Tyseley Warwick Group
 Ore Ashford Intl Hastings Group
 Ormskirk Liverpool Group Preston Lancs Wigan Group
-ORPINGTON Bromley South Group Routeing Point Member
 Orrell Liverpool Group Preston Lancs Wigan Group
 Orrell Park Liverpool Group Preston Lancs Wigan Group
 Otford Maidstone Group Sevenoaks Swanley
@@ -1710,14 +1464,12 @@ Outwood Leeds Group Wakefield Group
 Overpool Chester Hooton Runcorn Group
 Overton Basingstoke Salisbury
 Oxenholme Lake D Carlisle Lancaster Group
-OXFORD Routeing Point
 Oxshott Dorking Group Epsom Guildford Surbiton
 Oxted Croydon Group
 Paddock Wood Ashford Intl Maidstone Group Tonbridge
 Padgate Manchester Group Warrington Group
 Paignton Exeter Group Plymouth Group
 Paisley Canal Glasgow Group
-PAISLEY GIL ST Routeing Point
 Paisley St James Paisley Gil St
 Palmers Green Finsbury Park Stevenage
 Pangbourne Didcot Parkway Reading Group
@@ -1733,8 +1485,6 @@ Parton Carlisle Lancaster Group
 Patchway Bristol Group Gloucester Newport (S.Wales)
 Patricroft Bolton Earlestown Manchester Group Wigan Group
 Patterton Glasgow Group Newton Lanark
-PEARTREE Derby Group Routeing Point Member
-PECKHAM RYE Peckham Rye Group Routeing Point Member
 Pegswood Edinburgh Group Newcastle
 Pemberton Liverpool Group Preston Lancs Wigan Group
 Pembroke Swansea Group
@@ -1765,10 +1515,7 @@ Penzance Plymouth Group
 Perranwell Plymouth Group
 Perry Barr Birmingham Group Walsall Group
 Pershore Oxford Worcester Group
-PERTH Routeing Point
-PETERBOROUGH Routeing Point
 Petersfield Guildford Havant
-PETTS WOOD Bromley South Group Routeing Point Member
 Pevensey & Wham Hastings Group Lewes
 Pevensey Bay Hastings Group Lewes
 Pewsey Reading Group Westbury Group
@@ -1782,7 +1529,6 @@ Pluckley Ashford Intl Maidstone Group Tonbridge
 Plumley Chester Manchester Group Stockport
 Plumpton Brighton Group Lewes Three Bridges
 Plumstead Charlton Slade Green
-PLYMOUTH Plymouth Group Routeing Point Member
 Pokesdown Southampton Group Weymouth Group
 Polegate Hastings Group Lewes
 Polesworth Nuneaton Tamworth
@@ -1795,26 +1541,19 @@ Polsloe Bridge Exeter Group
 Ponders End Stansted Group Tottenham Hale Group
 Pont Y Pant Shotton
 Pontarddulais Craven Arms Swansea Group
-PONTEFRACT BAGHL Pontefract Group Routeing Point Member
-PONTEFRACT MNKHL Pontefract Group Routeing Point Member
-PONTEFRACT TAN Pontefract Group Routeing Point Member
 Pontlottyn Cardiff Central
 Pontyclun Bridgend Cardiff Central
 Pontypool&Newinn Hereford Newport (S.Wales)
-PONTYPRIDD Routeing Point
 Poole Southampton Group Weymouth Group
 Poppleton Leeds Group York
 Port Glasgow Paisley Gil St
 Port Sunlight Hooton Liverpool Group
 Port Talbot Pwy Bridgend Swansea Group
-PORTCHESTER Portsmouth Group Routeing Point Member
 Porth Pontypridd
 Porthmadog Machynlleth Group
 Portlethen Aberdeen Dundee
 Portslade Brighton Group Ford Group
-PORTSMOUTH & S Portsmouth Group Routeing Point Member
 Portsmouth Arms Exeter Group
-PORTSMOUTH HBR Portsmouth Group Routeing Point Member
 Possilpark Glasgow Group
 Potters Bar Finsbury Park Stevenage
 Poulton Le Fylde Preston Lancs
@@ -1823,7 +1562,6 @@ Prees Crewe Shrewsbury
 Prescot Huyton Wigan Group
 Prestatyn Shotton
 Prestbury Crewe Stockport Stoke On Trent Wilmslow Group
-PRESTON LANCS Routeing Point
 Preston Park Brighton Group Lewes Three Bridges
 Prestonpans Edinburgh Group Newcastle
 Prestwick Intl Kilmarnock Paisley Gil St
@@ -1854,7 +1592,6 @@ Rainford Liverpool Group Preston Lancs Wigan Group
 Rainham Essex Barking Romford Group Southend Group
 Rainham Kent Chatham Group Faversham
 Rainhill Earlestown Huyton
-RAMSGATE Ramsgate Group Routeing Point Member
 Ramsgreave & Wil Blackburn Hellifield Group
 Rannoch Glasgow Group
 Rauceby Grantham Nottingham Group Sleaford
@@ -1864,24 +1601,19 @@ Ravensthorpe Huddersfield Group Leeds Group
 Rawcliffe Goole Pontefract Group
 Rayleigh Shenfield Southend Group
 Raynes Park Epsom Kingston Surbiton Wimbledon
-READING Reading Group Routeing Point Member
-READING WEST Reading Group Routeing Point Member
 Rectory Road Hackney Group Tottenham Hale Group
-REDBRIDGE HANTS Southampton Group Routeing Point Member
 Redcar Br Steel Middlesbrough Group
 Redcar Central Middlesbrough Group
 Redcar East Middlesbrough Group
 Reddish North Chinley Guide Bridge Manchester Group
 Reddish South Guide Bridge Stockport
 Redditch Barnt Green
-REDHILL Redhill Group Routeing Point Member
 Redland Bristol Group
 Redruth Plymouth Group
 Reedham London Croydon Group Redhill Group
 Reedham Norfolk Ipswich Norwich
 Reigate Dorking Group Redhill Group
 Renton Glasgow Group
-RETFORD Routeing Point
 Rhiwbina Cardiff Central
 Rhoose For Cia Bridgend Cardiff Central
 Rhosneigr Shotton
@@ -1889,7 +1621,6 @@ Rhyl Shotton
 Rhymney Cardiff Central
 Ribblehead Carlisle Hellifield Group
 Rice Lane Liverpool Group Preston Lancs Wigan Group
-RICHMOND LONDON Routeing Point
 Rickmanswrth Und Banbury Group Greenford Und London Group Oxford
 Riddlesdown Croydon Group
 Ridgmont Bedford Bletchley Group
@@ -1900,14 +1631,12 @@ Robertsbridge Hastings Group Tonbridge
 Roby Huyton Liverpool Group
 Rochdale Blackburn Halifax Group Manchester Group
 Roche Plymouth Group
-ROCHESTER Chatham Group Routeing Point Member
 Rochford Shenfield Southend Group
 Rock Ferry Hooton Liverpool Group
 Rogart Inverness
 Rogerstone Cardiff Central
 Rolleston Newark Group Nottingham Group
 Roman Bridge Shotton
-ROMFORD Romford Group Routeing Point Member
 Romiley Chinley Guide Bridge Manchester Group
 Romsey Eastleigh Salisbury Southampton Group
 Roose Carlisle Lancaster Group
@@ -1924,10 +1653,7 @@ Roydon Essex Stansted Group Tottenham Hale Group
 Royston (Herts) Cambridge Hitchin
 Ruabon Shrewsbury Wrexham Group
 Rufford Liverpool Group Preston Lancs Wigan Group
-RUGBY Routeing Point
 Rugeley Town Rugeley Trnt Val Walsall Group
-RUGELEY TRNT VAL Routeing Point
-RUNCORN Runcorn Group Routeing Point Member
 Runcorn East Chester Warrington Group
 Ruskington Lincoln Sleaford
 Ruswarp Middlesbrough Group
@@ -1939,11 +1665,8 @@ Ryde St Johns Rd Portsmouth Group
 Ryder Brow Chinley Guide Bridge Manchester Group
 Rye House Stansted Group Tottenham Hale Group
 Rye Sussex Ashford Intl Hastings Group
-SALFORD CENTRAL Manchester Group Routeing Point Member
-SALFORD CRESCENT Manchester Group Routeing Point Member
 Salfords Surrey Gatwick Airport Redhill Group
 Salhouse Norwich
-SALISBURY Routeing Point
 Saltaire Bradford Group Hellifield Group Leeds Group
 Saltash Plymouth Group
 Saltburn Middlesbrough Group
@@ -1954,7 +1677,6 @@ Sampford Courtenay Exeter Group
 Sandal & Agbrigg Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Sandbach Crewe Wilmslow Group
 Sanderstead Croydon Group
-SANDHILLS Liverpool Group Routeing Point Member
 Sandhurst Berks Farnborough Group Wokingham
 Sandling Ashford Intl Dover Priory
 Sandown Portsmouth Group
@@ -1970,7 +1692,6 @@ Saunderton Banbury Group Greenford Und London Group Oxford
 Sawbridgeworth Stansted Group Tottenham Hale Group
 Saxilby Barnetby Doncaster Lincoln Retford
 Saxmundham Ipswich Norwich
-SCARBOROUGH Scarborough Group Routeing Point Member
 Scotscalder Inverness
 Scotstounhill Glasgow Group
 Scunthorpe Barnetby Doncaster
@@ -1979,19 +1700,14 @@ Seaburn Middlesbrough Group Newcastle
 Seaford Sussex Lewes
 Seaforth & Lithd Liverpool Group Preston Lancs Wigan Group
 Seaham Middlesbrough Group Newcastle
-SEAMER Scarborough Group Routeing Point Member
 Seascale Carlisle Lancaster Group
 Seaton Carew Middlesbrough Group Newcastle
 Seer Green Banbury Group Greenford Und London Group Oxford
-SELBY Routeing Point
-SELHURST Streatham Group Routeing Point Member
 Sellafield Carlisle Lancaster Group
 Selling Ashford Intl Dover Priory Faversham Ramsgate Group
 Selly Oak Barnt Green Birmingham Group
 Settle Carlisle Hellifield Group
 Seven Kings Romford Group Stratford London Gp
-SEVEN SISTRS UND Tottenham Hale Group Routeing Point Member
-SEVENOAKS Routeing Point
 Severn Beach Bristol Group
 Severn Tunnel Jn Bristol Group Gloucester Newport (S.Wales)
 Shadwell London Group New Cross New Cross Gate
@@ -2000,9 +1716,7 @@ Shanklin Portsmouth Group
 Shawford Basingstoke Eastleigh
 Shawlands Glasgow Group Newton Lanark
 Sheerness On Sea Chatham Group Faversham
-SHEFFIELD Sheffield Group Routeing Point Member
 Shelford Cambridge Stansted Group
-SHENFIELD Routeing Point
 Shenstone Birmingham Group Lichfield T V
 Shepherds Bush Clapham Junction Hayes & Harlngtn Gp Watford Junction Willesden Jn
 Shepherds Well Ashford Intl Dover Priory Faversham Ramsgate Group
@@ -2029,12 +1743,8 @@ Sholing Portsmouth Group Southampton Group
 Shoreditch High Street London Group New Cross New Cross Gate
 Shoreham By Sea Brighton Group Ford Group
 Shoreham Kent Maidstone Group Sevenoaks Swanley
-SHORTLANDS Bromley South Group Routeing Point Member
-SHOTTON Routeing Point
 Shotts Edinburgh Group Motherwell Group
-SHREWSBURY Routeing Point
 Sidcup Dartford Hither Green Slade Green
-SILEBY Loughborough Group Routeing Point Member
 Silecroft Carlisle Lancaster Group
 Silkstone Common Barnsley Huddersfield Group
 Silver Street Stansted Group Tottenham Hale Group
@@ -2044,16 +1754,11 @@ Sittingbourne Chatham Group Faversham
 Skegness Sleaford
 Skewen Bridgend Swansea Group
 Skipton Bradford Group Hellifield Group Leeds Group
-SLADE GREEN Routeing Point
 Slaithwaite Huddersfield Group Stalybridge
 Slateford Edinburgh Group Motherwell Group
-SLEAFORD Routeing Point
 Sleights Middlesbrough Group
-SLOUGH Routeing Point
 Small Heath Birmingham Group Tyseley
 Smallbrook Jn Portsmouth Group
-SMETHWICK GAL BG Smethwick Group Routeing Point Member
-SMETHWICK RLF ST Smethwick Group Routeing Point Member
 Smitham Croydon Group Redhill Group
 Smithy Bridge Blackburn Halifax Group Manchester Group
 Snaith Goole Pontefract Group
@@ -2065,40 +1770,28 @@ Somerleyton Ipswich Norwich
 South Acton Richmond London Willesden Jn
 South Bank Middlesbrough Group
 South Bermondsey London Group Peckham Rye Group
-SOUTH CROYDON Croydon Group Routeing Point Member
 South Elmsall Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 South Greenford Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
-SOUTH GYLE Edinburgh Group Routeing Point Member
 South Hampstead London Group Willesden Jn
 South Kenton Watford Junction Willesden Jn
 South Merton Sutton London Wimbledon
 South Milford Leeds Group Pontefract Group Selby York
 South Ruislp Und Banbury Group Greenford Und London Group Oxford
-SOUTH TOTTENHAM Tottenham Hale Group Routeing Point Member
 South Wigston Leicester Nuneaton
 South Woodham Ferrers Shenfield Southend Group
-SOUTHALL Hayes & Harlngtn Gp Routeing Point Member
-SOUTHAMPTON AIR Southampton Group Routeing Point Member
-SOUTHAMPTON CTL Southampton Group Routeing Point Member
 Southbourne Ford Group Havant
 Southbury Stansted Group Tottenham Hale Group
 Southease Lewes
 Southend Airport Shenfield Southend Group
-SOUTHEND CENTRAL Southend Group Routeing Point Member
-SOUTHEND EAST Southend Group Routeing Point Member
-SOUTHEND VIC Southend Group Routeing Point Member
 Southminster Shenfield Southend Group
 Southport Liverpool Group Preston Lancs Wigan Group
 Southsea Hoverport Portsmouth Group
 Southwick Brighton Group Ford Group
-SOWERBY BRIDGE Halifax Group Routeing Point Member
 Spalding Peterborough Sleaford
 Spean Bridge Glasgow Group
 Spital Hooton Liverpool Group
-SPONDON Derby Group Routeing Point Member
 Spooner Row Ely Norwich Peterborough
 Spring Road Stratford U Group Tyseley
-SPRINGBURN Glasgow Group Routeing Point Member
 Springfield Dundee Ladybank
 Squires Gate Preston Lancs
 St Albans Bedford Watford Junction West Hampstead Group
@@ -2110,54 +1803,40 @@ St Bees Carlisle Lancaster Group
 St Budeaux Fy Rd Plymouth Group
 St Budeaux Va Rd Plymouth Group
 St Columb Road Plymouth Group
-ST DENYS Southampton Group Routeing Point Member
 St Erth Plymouth Group
 St Germans Plymouth Group
 St Helens Ctl Huyton Wigan Group
 St Helens Jn Earlestown Huyton
 St Helier Sutton London Wimbledon
 St Ives Cornwall Plymouth Group
-ST JAMES PK EXTR Exeter Group Routeing Point Member
 St James St Wstw Hackney Group Tottenham Hale Group Walthamstow Group
 St Johns Hither Green Lewisham New Cross
 St Keyne Plymouth Group
-ST LEONARDS W SQ Hastings Group Routeing Point Member
 St Margarets Hts Stansted Group Tottenham Hale Group
 St Margarets Ldn Richmond London Twickenham
 St Mary Cray Bromley South Group Grove Park Swanley
 St Michaels Hunts Cross Group Liverpool Group
 St Neots Hitchin Peterborough
-STAFFORD Stafford Group Routeing Point Member
-STAINES Routeing Point
 Stallingborough Barnetby
-STALYBRIDGE Routeing Point
 Stamford Hill Hackney Group Tottenham Hale Group
 Stamford Lincs Oakham Peterborough
 Stanford Le Hope Barking Romford Group Southend Group
 Stanlow & Thrntn Chester Hooton Runcorn Group
-STANSTD MFITCHET Stansted Group Routeing Point Member
-STANSTED AIR BUS Stansted Group Routeing Point Member
-STANSTED AIRPORT Stansted Group Routeing Point Member
 Staplehurst Ashford Intl Maidstone Group Tonbridge
-STAPLETON ROAD Bristol Group Routeing Point Member
 Starbeck Leeds Group York
 Starcross Exeter Group Plymouth Group
 Staveley Carlisle Lancaster Group
 Stechford Birmingham Group Coventry
 Steeton & Silsdn Bradford Group Hellifield Group Leeds Group
 Stepps Falkirk Group Glasgow Group Motherwell Group
-STEVENAGE Routeing Point
 Stevenston Kilmarnock Paisley Gil St
 Stewartby Bedford Bletchley Group
 Stewarton Glasgow Group Kilmarnock
-STIRLING Routeing Point
-STOCKPORT Routeing Point
 Stocksfield Carlisle Newcastle
 Stocksmoor Barnsley Huddersfield Group
 Stockton Middlesbrough Group Newcastle
 Stoke Mandeville Banbury Group Greenford Und London Group Oxford
 Stoke Newington Hackney Group Tottenham Hale Group
-STOKE ON TRENT Routeing Point
 Stone (Staffs) Rugeley Trnt Val Stafford Group Stoke On Trent
 Stone Crossing Dartford Gravesend
 Stonebridge Park Watford Junction Willesden Jn
@@ -2167,23 +1846,14 @@ Stonehouse Cheltenham Spa Gloucester Swindon (Wilts)
 Stoneleigh Epsom Kingston Surbiton Wimbledon
 Stourbridge Jn Smethwick Group Worcester Group
 Stourbridge Town Smethwick Group Worcester Group
-STOWMARKET Routeing Point
 Stranraer Kilmarnock Paisley Gil St
-STRATFORD INTERNATIONAL Stratford London Gp Routeing Point Member
-STRATFORD LONDON Stratford London Gp Routeing Point Member
-STRATFORD U AVON Stratford Group Routeing Point Member
 Strathcarron Inverness
 Strawberry Hill Kingston Twickenham
-STREATHAM Streatham Group Routeing Point Member
-STREATHAM COMMON Streatham Group Routeing Point Member
-STREATHAM HILL Streatham Group Routeing Point Member
 Streethouse Pontefract Group Wakefield Group
 Strines Chinley Guide Bridge Manchester Group
 Stromeferry Inverness
-STROOD KENT Chatham Group Routeing Point Member
 Stroud (Glos) Cheltenham Spa Gloucester Swindon (Wilts)
 Sturry Ashford Intl Dover Priory Faversham Ramsgate Group
-STYAL Wilmslow Group Routeing Point Member
 Sudbury & Hrw Rd Banbury Group Greenford Und London Group Oxford
 Sudbury Hill Banbury Group Greenford Und London Group Oxford
 Sudbury Suffolk Marks Tey
@@ -2194,23 +1864,16 @@ Sunderland Middlesbrough Group Newcastle
 Sundridge Park Grove Park
 Sunningdale Ascot (Berks) Staines Surbiton Woking
 Sunnymeads Slough Staines
-SURBITON Routeing Point
 Surrey Quays London Group New Cross New Cross Gate
 Sutton Coldfield Birmingham Group Lichfield T V
 Sutton Common Sutton London Wimbledon
-SUTTON LONDON Routeing Point
 Sutton Parkway Nottingham Group Worksop
 Swale Chatham Group Faversham
-SWANLEY Routeing Point
 Swanscombe Dartford Gravesend
-SWANSEA Swansea Group Routeing Point Member
 Swanwick Portsmouth Group Southampton Group
 Sway Southampton Group Weymouth Group
-SWAYTHLING Southampton Group Routeing Point Member
 Swinderby Lincoln Newark Group
-SWINDON (WILTS) Routeing Point
 Swineshead Sleaford
-SWINTON  S YORKS Routeing Point
 Swinton Manchr Bolton Manchester Group Wigan Group
 Sydenham Hill Beckenham Jn Herne Hill
 Sydenham London Croydon Group Crystal Palace New Cross Gate
@@ -2224,10 +1887,8 @@ Tal Y Cafn Shotton
 Talsarnau Machynlleth Group
 Talybont Machynlleth Group
 Tame Bridge Pwy Birmingham Group Walsall Group
-TAMWORTH Routeing Point
 Taplow Reading Group Slough
 Tattenham Corner Croydon Group Redhill Group
-TAUNTON Routeing Point
 Taynuilt Glasgow Group
 Teddington Kingston Twickenham
 Teesside Airport Darlington Middlesbrough Group
@@ -2245,18 +1906,15 @@ Theale Reading Group Westbury Group
 Theobalds Grove Stansted Group Tottenham Hale Group
 Thetford Ely Norwich Peterborough
 Thirsk Darlington Middlesbrough Group York
-THORNABY Middlesbrough Group Routeing Point Member
 Thorne North Barnetby Doncaster Goole
 Thorne South Barnetby Doncaster Goole
 Thornford Castle Cary Weymouth Group
 Thornliebank Glasgow Group Kilmarnock
 Thornton Abbey Barnetby
-THORNTON HEATH Streatham Group Routeing Point Member
 Thorntonhall Glasgow Group Kilmarnock
 Thorpe Bay Southend Group
 Thorpe Culvert Sleaford
 Thorpe Le Soken Colchester
-THREE BRIDGES Routeing Point
 Three Oaks Ashford Intl Hastings Group
 Thurgarton Newark Group Nottingham Group
 Thurnscoe Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
@@ -2273,7 +1931,6 @@ Tiverton Parkway Exeter Group Taunton
 Todmorden Blackburn Halifax Group Manchester Group
 Tolworth Epsom Kingston Surbiton Wimbledon
 Ton Pentre Pontypridd
-TONBRIDGE Routeing Point
 Tondu Bridgend
 Tonfanau Machynlleth Group
 Tonypandy Pontypridd
@@ -2282,7 +1939,6 @@ Topsham Exeter Group
 Torquay Exeter Group Plymouth Group
 Torre Exeter Group Plymouth Group
 Totnes Exeter Group Plymouth Group
-TOTTENHAM HALE Tottenham Hale Group Routeing Point Member
 Totton Southampton Group Weymouth Group
 Town Green Liverpool Group Preston Lancs Wigan Group
 Trafford Park Manchester Group Warrington Group
@@ -2295,20 +1951,16 @@ Trimley Ipswich Norwich
 Tring Bletchley Group Watford Junction
 Troed Y Rhiw Pontypridd
 Troon Kilmarnock Paisley Gil St
-TROWBRIDGE Westbury Group Routeing Point Member
 Truro Plymouth Group
 Tulloch Glasgow Group
-TULSE HILL Routeing Point
 Tunbridge Wells Hastings Group Tonbridge
 Turkey Street Stansted Group Tottenham Hale Group
 Tutbury & Hatton Derby Group Stoke On Trent
-TWICKENHAM Routeing Point
 Twyford Reading Group Slough
 Ty Croes Shotton
 Ty Glas Cardiff Central
 Tygwyn Machynlleth Group
 Tyndrum Lower Glasgow Group
-TYSELEY Routeing Point
 Tywyn Machynlleth Group
 Uckfield Croydon Group
 Uddingston Motherwell Group Newton Lanark
@@ -2325,7 +1977,6 @@ Upper Holloway Highbury & I Und Tottenham Hale Group West Hampstead Group
 Upper Tyndrum Glasgow Group
 Upper Warlingham Croydon Group
 Upton Merseyside Liverpool Group Shotton
-UPWEY Weymouth Group Routeing Point Member
 Urmston Manchester Group Warrington Group
 Uttoxeter Derby Group Stoke On Trent
 Valley Shotton
@@ -2334,19 +1985,14 @@ Virginia Water Ascot (Berks) Staines Surbiton Woking
 Waddon Croydon Group Sutton London
 Wadhurst Hastings Group Tonbridge
 Wainfleet Sleaford
-WAKEFIELD KIRKGT Wakefield Group Routeing Point Member
-WAKEFIELD WESTGT Wakefield Group Routeing Point Member
 Walkden Bolton Manchester Group Wigan Group
 Wallasey Gve Rd Liverpool Group Shotton
 Wallasey Village Liverpool Group Shotton
 Wallington Croydon Group Sutton London
 Wallyford Edinburgh Group Newcastle
 Walmer Dover Priory Ramsgate Group
-WALSALL Walsall Group Routeing Point Member
 Walsden Blackburn Halifax Group Manchester Group
 Waltham Cross Stansted Group Tottenham Hale Group
-WALTHAMSTOW CTL Walthamstow Group Routeing Point Member
-WALTHAMSTOW Q RD Walthamstow Group Routeing Point Member
 Walton Merseysde Liverpool Group Preston Lancs Wigan Group
 Walton On Naze Colchester
 Walton On Thames Ascot (Berks) Staines Surbiton Woking
@@ -2362,16 +2008,11 @@ Wareham Dorset Southampton Group Weymouth Group
 Wargrave Reading Group Slough
 Warminster Salisbury Westbury Group
 Warnham Dorking Group Horsham
-WARRINGTON BK QY Warrington Group Routeing Point Member
-WARRINGTON CTL Warrington Group Routeing Point Member
-WARWICK Warwick Group Routeing Point Member
-WARWICK PARKWAY Warwick Group Routeing Point Member
 Water Orton Birmingham Group Nuneaton Tamworth
 Waterbeach Cambridge Ely
 Wateringbury Ashford Intl Maidstone Group Tonbridge
 Waterloo Mersey Liverpool Group Preston Lancs Wigan Group
 Watford High St Watford Junction Willesden Jn
-WATFORD JUNCTION Routeing Point
 Watford North Bedford Watford Junction West Hampstead Group
 Watlington Ely
 Watton At Stone Finsbury Park Stevenage
@@ -2397,13 +2038,9 @@ West Allerton Hunts Cross Group Liverpool Group
 West Brompton Clapham Junction Hayes & Harlngtn Gp Watford Junction Willesden Jn
 West Byfleet Ascot (Berks) Staines Surbiton Woking
 West Calder Edinburgh Group Motherwell Group
-WEST CROYDON Croydon Group Routeing Point Member
 West Drayton Hayes & Harlngtn Gp Slough
 West Dulwich Beckenham Jn Herne Hill
 West Ealing Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
-WEST HAM Routeing Point
-WEST HAMPSTD TLK West Hampstead Group Routeing Point Member
-WEST HAMPSTEAD West Hampstead Group Routeing Point Member
 West Horndon Barking Romford Group Southend Group
 West Kilbride Kilmarnock Paisley Gil St
 West Kirby Liverpool Group Shotton
@@ -2415,7 +2052,6 @@ West St Leonards Hastings Group Tonbridge
 West Sutton Sutton London Wimbledon
 West Wickham Beckenham Jn Lewisham New Cross
 West Worthing Brighton Group Ford Group
-WESTBURY Westbury Group Routeing Point Member
 Westcliff Barking Romford Group Southend Group
 Westcombe Park Charlton London Group
 Westenhanger Ashford Intl Dover Priory
@@ -2428,7 +2064,6 @@ Weston Milton Bristol Group Taunton
 Weston Supr Mare Bristol Group Taunton
 Wetheral Carlisle Newcastle
 Weybridge Ascot (Berks) Staines Surbiton Woking
-WEYMOUTH Weymouth Group Routeing Point Member
 Whaley Bridge Chinley Guide Bridge Hazel Grove Manchester Group
 Whalley Lancs Blackburn Hellifield Group
 Whatstandwell Derby Group
@@ -2461,17 +2096,11 @@ Wickham Market Ipswich Norwich
 Widdrington Edinburgh Group Newcastle
 Widnes Hunts Cross Group Warrington Group
 Widney Manor Stratford U Group Tyseley Warwick Group
-WIGAN NORTH WEST Wigan Group Routeing Point Member
-WIGAN WALLGATE Wigan Group Routeing Point Member
 Wigton Carlisle Lancaster Group
 Wildmill Bridgend
-WILLESDEN JN Routeing Point
 Williamwood Glasgow Group Newton Lanark
 Willington Derby Group Nottingham Group Tamworth
-WILMCOTE Stratford Group Routeing Point Member
-WILMSLOW Wilmslow Group Routeing Point Member
 Wilnecote Staffs Birmingham Group Nuneaton Tamworth
-WIMBLEDON Routeing Point
 Wimbledon Chase Sutton London Wimbledon
 Winchelsea Ashford Intl Hastings Group
 Winchester Basingstoke Eastleigh
@@ -2484,16 +2113,12 @@ Winnersh Reading Group Wokingham
 Winnersh Trangle Reading Group Wokingham
 Winsford Crewe Runcorn Group Warrington Group
 Wishaw Motherwell Group
-WITHAM Routeing Point
 Witley Guildford Havant
 Witton W Mids Birmingham Group Walsall Group
 Wivelsfield Brighton Group Lewes Three Bridges
 Wivenhoe Colchester
 Woburn Sands Bedford Bletchley Group
-WOKING Routeing Point
-WOKINGHAM Routeing Point
 Woldingham Croydon Group
-WOLVERHAMPTON Routeing Point
 Wolverton Bletchley Group Northampton Rugby
 Wombwell Barnsley Meadowhall
 Wood End Stratford U Group Tyseley
@@ -2511,11 +2136,8 @@ Woolston Portsmouth Group Southampton Group
 Woolwich Arsenal Charlton Slade Green
 Woolwich Dockyrd Charlton Slade Green
 Wootton Wawen Stratford U Group Tyseley
-WORCESTER FGT ST Worcester Group Routeing Point Member
 Worcester Park Epsom Kingston Surbiton Wimbledon
-WORCESTER SHB HL Worcester Group Routeing Point Member
 Workington Carlisle Lancaster Group
-WORKSOP Routeing Point
 Worle Bristol Group Taunton
 Worplesdon Guildford Woking
 Worstead Norwich
@@ -2524,8 +2146,6 @@ Wrabness Ipswich Manningtree
 Wraysbury Slough Staines
 Wrenbury Crewe Shrewsbury
 Wressle Goole Hull Selby
-WREXHAM CENTRAL Wrexham Group Routeing Point Member
-WREXHAM GENERAL Wrexham Group Routeing Point Member
 Wye Ashford Intl Dover Priory Faversham Ramsgate Group
 Wylam Carlisle Newcastle
 Wylde Green Birmingham Group Lichfield T V
@@ -2543,7 +2163,6 @@ Yeovil Pen Mill Castle Cary Weymouth Group
 Yetminster Castle Cary Weymouth Group
 Ynyswen Pontypridd
 Yoker Glasgow Group
-YORK Routeing Point
 Yorton Crewe Shrewsbury
 Ystrad Mynach Cardiff Central
 Ystrad Rhondda Pontypridd
