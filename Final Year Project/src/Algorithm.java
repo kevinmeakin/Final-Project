@@ -14,7 +14,11 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.LinkedList;
+import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.omg.CORBA.portable.InputStream;
 
@@ -25,30 +29,34 @@ public class Algorithm {
 	public static void testerer() throws IOException{
 		// Make a URL to the web page
 
-		URL url = new URL("http://ojp.nationalrail.co.uk/service/timesandfares/PLY/GLC/today/0215/dep");
+		URL url = new URL("http://traintimes.org.uk/edb/ply/23:00/today");
 
-		// Get the input stream through URL Connection
+		// Get the information through a URLConnection
 		URLConnection con = url.openConnection();
-		java.io.InputStream is =con.getInputStream();
-
-		// Once you have the Input Stream, it's just plain old Java IO stuff.
-
-		// For this case, since you are interested in getting plain-text web page
-		// I'll use a reader and output the text content to System.out.
-
-		// For binary content, it's better to directly read the bytes from stream and write
-		// to the target file.
+		java.io.InputStream is =con.getInputStream(); // Get the data from the webpage in
 
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(is));
 
 		String line = null;
 
-		// read each line and write to System.out
 		while ((line = br.readLine()) != null) {
-			System.out.println(line);
+
+			CharSequence pound = ">&pound;", ad = "Advance";
+			if(line.contains(pound) && !line.contains(ad)){
+				int findingPound = line.indexOf(">&pound;");
+
+				String work = line.substring(findingPound+8, findingPound+15);
+
+				// Manipulation to make sure we always have a full double value 
+				int findpoint = work.indexOf(".");
+				work = work.substring(0, findpoint+3);
+				System.out.println(work) ;
+			}
 		}
 	}
+
+
 	public static String findRoutingPoints(String station) throws Exception{
 
 		Connection connec = null;
@@ -56,7 +64,7 @@ public class Algorithm {
 		String dbName = "cs408";
 		String driver = "com.mysql.jdbc.Driver";
 		String userName = "root"; 
-		String password = "celtic";
+		String password = "passw";
 
 		Class.forName(driver).newInstance();
 		connec = DriverManager.getConnection(url + dbName , userName , password);
@@ -85,14 +93,18 @@ public class Algorithm {
 		String[] station1 = s1.split(" ");
 		String[] station2 = s2.split(" ");
 
-		for(int i = 0; i<=station1.length;i++){
-			for(int h = 0; h<=station1.length;h++){
+		if(station1.length == 1){
+			
+			
+		}
+		for(int i = 0; i<station1.length;i++){
+			for(int h = 0; h<station2.length;h++){
 				if(station1[i].equals(station2[h])){
 					return station1[i];
 				}
 			}
 		}
-		return null;
+		return "no";
 	}
 
 	public static String recursive_route(String start, String end, String fullRoute, double route_Distance, 
@@ -100,14 +112,16 @@ public class Algorithm {
 
 		String[] fRoute = fullRoute.split(" ");
 		String next="";
+		String worthago = "";
+
 		if(fRoute.length !=0){
 			next = fRoute[fRoute.length-1];
 		}
+	
 		String allinfo;
 		CharSequence cur = next;
 		String looper = "";
 		ArrayList<String> fullfile = new ArrayList<String>();
-
 
 		if(next.equals(end)){
 
@@ -115,24 +129,21 @@ public class Algorithm {
 				overallLowest = route_Distance;
 				finalLowest = fullRoute;
 			}
-			final String wplz = finalLowest;
 			if(overallLowest > route_Distance){
 				overallLowest = route_Distance;
 				finalLowest = fullRoute;
 			}
-
-			System.out.println("ROUTE: " + finalLowest);
-			System.out.println("Distance: " + route_Distance);
 			allinfo = finalLowest + " " + route_Distance;
+			
 			try {
 				File f = new File("Attempt.txt");
 				if(f.exists()){
 					FileWriter out = new FileWriter(f,true);
 					out.write(allinfo);
+					out.write("\n");
 					out.close();
 				}else{
 					BufferedWriter writer = new BufferedWriter(new FileWriter("Attempt.txt"));
-
 					writer.write(allinfo);
 					writer.newLine();
 					writer.close();
@@ -141,10 +152,6 @@ public class Algorithm {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
-
-
-
-
 			return allinfo;
 		}else{
 			try {
@@ -153,86 +160,36 @@ public class Algorithm {
 
 				while((currentLine = filereader.readLine()) != null){
 					String station_Info = currentLine;
-
 					fullfile.add(station_Info);
 				}
 				while(looper==""){
-					String worthago = "";
 					for(String rr : fullfile){
 						String[] mm = rr.split(" ");
 
-							int count = 0;
-							if(mm[1].equals(next)){
+						if(mm[1].equals(next)){
 
-								for(int k = 2; k <= mm.length -2; k +=2){
-									CharSequence curStat = mm[k];
+							for(int k = 2; k <= mm.length -2; k +=2){
+								CharSequence curStat = mm[k];
 
-									if(!fullRoute.contains(curStat) || curStat.equals(end)){
-										System.out.println(used_Stations);
-										used_Stations = used_Stations + " " + mm[k];
-										fullRoute = fullRoute + " " + mm[k];
-										route_Distance = route_Distance + Double.parseDouble(mm[k+1]);
-										worthago = recursive_route(start,end,fullRoute,route_Distance,used_Stations,overallLowest,finalLowest);
-										System.out.println("WORK MOFO::::  "+worthago);
-										fullRoute = fullRoute.replace(mm[k], "");
-										route_Distance = route_Distance - Double.parseDouble(mm[k+1]);
-									}
-								}
-								if(used_Stations.contains(cur)){
-									return worthago;
+								if(!fullRoute.contains(curStat) || curStat.equals(end)){
+									used_Stations = used_Stations + " " + mm[k];
+									fullRoute = fullRoute + " " + mm[k];
+									route_Distance = route_Distance + Double.parseDouble(mm[k+1]);
+									worthago = recursive_route(start,end,fullRoute,route_Distance,used_Stations,overallLowest,finalLowest);
+									fullRoute = fullRoute.replace(mm[k], "");
+									route_Distance = route_Distance - Double.parseDouble(mm[k+1]);
 								}
 							}
-						
+							if(used_Stations.contains(cur)){
+								return worthago;
+							}
+						}	
 					}
-					//					if(station_Info[1].equals(next)){
-					//						temp = 500000;
-					//						newcheck ="";
-					//						double check =0;
-					//						for(int i = 2;i<=station_Info.length-2;i+=2){
-					//							String newstation = station_Info[i];
-					//							double distance = Double.parseDouble(station_Info[i+1]);
-					//							check = check + distance;
-					//							s = newstation;
-					//
-					//							if(used_Stations.contains(s)){
-					//								distance = 500000;
-					//							}
-					//							if(distance <temp){
-					//								temp = distance;
-					//								newcheck = newstation;
-					//							}
-					//
-					//						}
-					//						if(temp == 500000){
-					//							fullRoute = fullRoute.replace(cur, "");
-					//							fullRoute = fullRoute.replace("  ", "");
-					//							route_Distance = route_Distance - check;
-					//							if(route_Distance == 0){
-					//								return finalLowest;
-					//							}
-					//							recursive_route(start,end,fullRoute,route_Distance,used_Stations,overallLowest,finalLowest);
-					//
-					//						}else{
-					//							//TODO: recursion here i think
-					//							route_Distance = route_Distance + temp;
-					//							used_Stations = used_Stations + " " + newcheck;
-					//							fullRoute = fullRoute + " " + newcheck;
-					//							recursive_route(start,end,fullRoute,route_Distance,used_Stations,overallLowest,finalLowest);
-					//							//							if(!outp.isEmpty()){
-					//							//								fullRoute = fullRoute.substring(0, fullRoute.length()-8);
-					//							//								recursive_route(start,end,fullRoute,route_Distance,used_Stations);
-					//							//							}
-					//						}
-					//
-					//					}
-					//
 				}
 
 			} catch (FileNotFoundException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 
@@ -248,7 +205,7 @@ public class Algorithm {
 		String dbName = "cs408";
 		String driver = "com.mysql.jdbc.Driver";
 		String userName = "root"; 
-		String password = "celtic";
+		String password = "passw";
 		connec = DriverManager.getConnection(url + dbName , userName , password);
 		Statement findRP = connec.createStatement();
 		ResultSet result;
@@ -280,22 +237,22 @@ public class Algorithm {
 
 		String start = "", end = "", currentLine = "",stationsList = "";
 
-		//		while((currentLine = filereader.readLine()) != null){
-		//			String[] curLineSplit = null;
+		while((currentLine = filereader.readLine()) != null){
+			String[] curLineSplit = null;
 
 
-		for(int i = 0;i < routes.length;i++){
-			/*
-			 * If the length of the route is 2, there is only one map used meaning
-			 * the start and end stations are both on it
-			 */
-			if(routes[i].length() == 2){
+			for(int i = 0;i < routes.length;i++){
+				/*
+				 * If the length of the route is 2, there is only one map used meaning
+				 * the start and end stations are both on it
+				 */
+				if(routes[i].length() == 2){
 
-				String h =recursive_route(s1, s2, s1, 0, s1,0,"");
-				System.out.println("OUTPUT::: "+h);
+					String h =recursive_route(s1, s2, s1, 0, s1,0,"");
+					//System.out.println("OUTPUT:: "+ h);
+				}
 			}
 		}
-		//		}
 
 
 
@@ -330,56 +287,101 @@ public class Algorithm {
 		String r1 ="";
 		String r2 ="";
 
-		//testerer();
-		System.out.print("Enter your Start Station: ");
+		testerer();
+		//System.out.print("Enter your Start Station: ");
 
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-		String station = "";
+		String station = "WRX";
+
+//		try {
+//			station = br.readLine();
+//		} catch (IOException ioe) {
+//			System.exit(1);
+//		}
 
 		try {
-			station = br.readLine();
-		} catch (IOException ioe) {
-			System.exit(1);
+			r1 = findRoutingPoints(station);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
-
-		//		try {
-		//			r1 = findRoutingPoints(station);
-		//		} catch (Exception e) {
-		//			// TODO Auto-generated catch block
-		//			e.printStackTrace();
-		//		}
-
-		System.out.print("Enter your End Station: ");
+		//System.out.println("Routing points: "+r1);
+		//System.out.print("Enter your End Station: ");
 
 		//  open up standard input
-		BufferedReader br1 = new BufferedReader(new InputStreamReader(System.in));
+		//BufferedReader br1 = new BufferedReader(new InputStreamReader(System.in));
 
-		String endstation = "";
+		String endstation = "SMR";
+
+//		try {
+//			endstation = br1.readLine();
+//		} catch (IOException ioe) {
+//			System.exit(1);
+//		}
 
 		try {
-			endstation = br1.readLine();
-		} catch (IOException ioe) {
-			System.exit(1);
+			r2 = findRoutingPoints(endstation);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		System.out.println("Routing points: "+r2);
+		String same = compare(r1, r2);
+
+		if(same.equals("no")){
+			//TODO: Create part of algorithm that searches when there are no routing points in common
+			
+			shortest_route(station, endstation);
+		}else{
+			//TODO: Create search for when a common routing point is found
+			
+			//find shortest distance between start point and routing point 
+			shortest_route(station, same);
+			
+			//find shortest route between routing point and destination
+			shortest_route(same, endstation);
+			
+			//Calculate the shortest route and that is the valid one
+
 		}
 
-		//		try {
-		//			r2 = findRoutingPoints(endstation);
-		//		} catch (Exception e) {
-		//			e.printStackTrace();
-		//		}
+		BufferedReader calcShortest = new BufferedReader(new FileReader("Attempt.txt"));
 
-		//	String same = compare(r1, r2);
+		String readout;
+		String shortestRoute = "";
+		Set<String> routeList = new HashSet<String>(10000); 
 
-		//		if(same.equals(null)){
-		//			//TODO: Create part of algorithm that searches when there are no routing points in common
-		//		}else{
-		//			//TODO: Create search for when a common routing point is found
-		//		}
+		while((readout = calcShortest.readLine()) != null){
+			
+			routeList.add(readout);
+			
+		}
+		
+		double lowval =10000000;
+		
+		for(String route : routeList){
+			
+			String[] sep = route.split(" ");
+			double temp = Double.parseDouble(sep[sep.length-1]);
+			
+			if(temp < lowval){
+				lowval = temp;
+				shortestRoute = route;
+			}
+						
+		}
+		System.out.println(shortestRoute);
 
-		shortest_route("WRX", "SMR");
-
-		//		System.out.println("The Start Station's Routeing Points Are: " + r1);
-		//		System.out.println("The End Station's Routeing Points Are:   " + r2);
+		
+		File f = new File("Attempt.txt");
+		if(f.exists())
+		  {
+		    f.delete();
+		  }
+		  else 
+		  {
+		    System.out.println("File not found to delete");
+		  }
+	
 	}
 }

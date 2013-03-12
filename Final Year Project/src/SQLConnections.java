@@ -15,7 +15,7 @@ public class SQLConnections{
 		String dbName = "cs408";
 		String driver = "com.mysql.jdbc.Driver";
 		String userName = "root"; 
-		String password = "celtic";
+		String password = "passw";
 		String points;
 
 
@@ -23,6 +23,22 @@ public class SQLConnections{
 			//Read in files
 			BufferedReader permitted_route_filereader = new BufferedReader(new FileReader("permitted_route_identifierTEMPNEW.txt"));
 			BufferedReader routing_point_filereader = new BufferedReader(new FileReader("routeing_point_identifierTEMPNEW.txt"));
+
+			//Connect to the database
+			Class.forName(driver).newInstance();
+			connec = DriverManager.getConnection(url+dbName,userName,password);
+
+			//Remove data from table
+			Statement remove1 = connec.createStatement();
+			remove1.executeUpdate("delete from Permitted_Routes");
+			
+			/*
+			 * Delete the data currently in the table
+			 */
+			Statement remove = connec.createStatement();
+			remove.executeUpdate("delete from Routeing_Points");
+			
+			connec.close();
 
 			while ((route = permitted_route_filereader.readLine()) != null) {
 
@@ -42,10 +58,6 @@ public class SQLConnections{
 					Class.forName(driver).newInstance();
 					connec = DriverManager.getConnection(url+dbName,userName,password);
 
-					//Remove data from table
-					Statement remove1 = connec.createStatement();
-					remove1.executeUpdate("delete from Permitted_Routes");
-					
 					//Add data to the table
 					Statement addData = connec.createStatement();
 					addData.executeUpdate("insert into Permitted_Routes (Start_Station ,End_Station , Routes) " +
@@ -74,12 +86,6 @@ public class SQLConnections{
 					//Connect to the database
 					Class.forName(driver).newInstance();
 					connec = DriverManager.getConnection(url+dbName,userName,password);
-
-					/*
-					 * Delete the data currently in the table
-					 */
-					Statement remove = connec.createStatement();
-					remove.executeUpdate("delete from Routeing_Points");
 					
 					/*
 					 * Add data to the database
@@ -106,6 +112,18 @@ public class SQLConnections{
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			//e.printStackTrace();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (InstantiationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IllegalAccessException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 
 	}

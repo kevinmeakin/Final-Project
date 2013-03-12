@@ -168,7 +168,7 @@ BRR	Barrhead
 BRL	Barrhill
 BAV	Barrow Haven
 BIF	Barrow In Furnss
-BWS	Barrow-Upon-Soar
+BWS	Barrow Upon Soar
 BRY	Barry
 BYD	Barry Docks
 BYI	Barry Island
@@ -256,15 +256,19 @@ BWD	Birchwood
 BIK	Birkbeck
 BDL	Birkdale
 BKC	Birkenhead Ctl
-BKQ	Birkenhead Hamilton Square
+BKQ	Birkenhead H Sq
 BKN	Birkenhead North
 BKP	Birkenhead Park
 BBS	Bordesley
 BHI	Birmingham INTL
 BHI	BHM INTL
-BMO	Birmingham Moor Street
+BMO	Birmingham M St
+BMO	BHM M St
 BHM	Birmingham
-BSW	Birmingham Snow Hill
+BHM	Birmingham N ST
+BHM	BHM N ST
+BSW	Birmingham SN HL
+BSW	BHM SN HL
 BIA	Bishop Auckland
 BBG	Bishopbriggs
 BIS	Bishops STRTFORD
@@ -272,9 +276,9 @@ BIP	Bishopstone Ssex
 BPT	Bishopton Sclyde
 BTE	Bitterne
 BBN	Blackburn
-BFR	Blackfriars
+BFR	London BLKFRIARS
 BKH	Blackheath
-BHO	Blackhorse Road
+BHO	Blackhorse R UND
 BPN	Blackpool North
 BPB	Blackpool P Bch
 BPS	Blackpool South
@@ -321,7 +325,10 @@ BWG	Bowling
 BXW	Boxhill & WHMBLE
 BCE	Bracknell
 BDQ	Bradford
-BDI	Bradford Interchange
+BDQ	Bradford f sq
+BDQ	BDQ f sq
+BDI	Bradford Interch
+BDI	BDQ Interch
 BOA	Bradford ON AVON
 BDN	Brading
 BTR	Braintree
@@ -354,6 +361,8 @@ BMD	Brimsdown
 BNT	Brinnington
 BPW	Bristol Parkway
 BRI	Bristol
+BRI	BRIstol TEMPLE M
+BRI	BRI TEMPLE M
 BHD	Brithdir
 RBS	REDCAR BR STEEL
 BNF	Briton Ferry
@@ -382,7 +391,8 @@ BMF	Broomfleet
 BRA	Brora
 BUH	Brough
 BYF	Broughty Ferry
-BXB	Broxbourne
+BXB	Broxbourne STANSTED
+BXB	Broxbourne SSD
 BCV	Bruce Grove
 BDA	Brundall
 BGA	Brundall Gardens
@@ -443,7 +453,7 @@ CMO	Camelon
 CAW	Canada Water
 CNL	Canley
 CAO	Cannock
-CST	Cannon Street
+CST	London Cannon St
 CNN	Canonbury
 CBE	Canterbury East
 CBW	Canterbury West
@@ -497,7 +507,7 @@ CPN	Chapleton Devon
 CLN	Chapeltown Yorks
 CWC	CHAPPEL & W COLN
 CHG	Charing (Kent)
-CHX	Charing Cross
+CHX	LONDON CHARING X
 CHC	Charing X GLASGW
 CHX	Chg Cross
 CHC	Chg X GLASGW
@@ -685,7 +695,7 @@ DWW	Dawlish Warren
 DWW	DWL Warren
 DEA	Deal
 DEN	Dean (Wilts)
-DGT	Deansgate
+DGT	DEANSGATE G-MEX
 DPD	Deepdene
 DGY	Deganwy
 DHN	Deighton
@@ -701,7 +711,7 @@ DEP	Deptford
 DBY	Derby
 DBR	Derby Rd
 DBR	DBY Rd
-DPT	Devonport
+DPT	Devonport DEVON
 DEW	Dewsbury
 DID	Didcot Parkway
 DIG	Digby & Sowton
@@ -714,7 +724,7 @@ DND	Dinsdale
 DTG	Dinting
 DSL	Disley
 DIS	Diss
-DOC	Dockyard
+DOC	Dockyard DEVONPT
 DOD	Dodworth
 DOL	Dolau
 DLH	Doleham
@@ -776,9 +786,11 @@ EAL	Ealing Broadway
 ERL	Earlestown
 EAR	Earley
 EAD	Earlsfield
-ELD	Earlswood (Surrey)
+ELD	Earlswood Surrey
 EWD	Earlswood W Mid
+ECR	East Croydon
 ECR	Croydon
+ECR	East ECR
 EBL	East Boldon
 EDY	East Didsbury
 EDW	East Dulwich
@@ -844,13 +856,19 @@ ESH	Esher
 EXR	Essex Road
 ETC	Etchingham
 EUS	Euston
+EUS	London Euston
+EUS	London Eus
 EBA	EUXTON BAL LANE
 EVE	Evesham
 EWE	Ewell East
 EWW	Ewell West
 EXC	Exeter
-EXD	Exeter St. David's
-EXT	Exeter St. Thomas
+EXC	Exeter Central
+EXC	EXC Central
+EXD	Exeter St Davids
+EXD	EXC ST DAVIDS
+EXT	Exeter St Thomas
+EXT	EXC St Thomas
 EXG	EXHIB CTR GLASGW
 EXM	Exmouth
 EXN	Exton
@@ -860,8 +878,11 @@ FRF	Fairfield
 FRL	Fairlie
 FRW	Fairwater
 FCN	Falconwood
-FKG	Falkirk Grahamston
+FKG	Falkirk GHSTON
+FKG	FKK GHSTON
 FKK	Falkirk
+FKK	Falkirk High
+FKK	FKK High
 FOC	Falls Of CRUACHN
 FMR	Falmer
 FAL	Falmouth Docks
@@ -869,7 +890,10 @@ FMT	Falmouth Town
 FAM	North Fambridge
 FRM	Fareham
 FNB	Farnborough
-FNN	Farnborough North
+FNB	Farnborough Main
+FNB	FNB Main
+FNN	Farnborough N
+FNN	FNB N
 FNC	Farncombe
 FNH	Farnham
 FNR	Farningham Road
@@ -883,7 +907,7 @@ FRN	Fearn
 FEA	Featherstone
 FLX	Felixstowe
 FEL	Feltham
-FST	Fenchurch Street
+FST	LONDON FENCH ST
 FNT	Feniton
 FEN	Fenny Stratford
 FER	Fernhill
@@ -891,7 +915,7 @@ FRY	Ferriby
 FYS	Ferryside
 FFA	Ffairfach
 FIL	Filey
-FIT	Filton Abbey Wood
+FIT	Filton AbbeyWood
 FNY	FINCHLEY RD & F
 FPK	Finsbury Park
 FIN	Finstock
@@ -958,20 +982,23 @@ GIG	Giggleswick
 GBD	Gilberdyke
 GFF	Gilfach Fargoed
 GIL	Gillingham Dset
-GLM	Gillingham (Kent)
+GLM	GILLINGHAM KENT
 GSC	Gilshochill
 GIP	Gipsy Hill
 GIR	Girvan
 GLS	Glaisdale
 GCW	Glan Conwy
 GLC	Glasgow
-GLQ	Glasgow Queen Street
+GLC	Glasgow Central
+GLC	GLC Central
+GLQ	Glasgow Queen St
+GLQ	GLC Queen St
 GLH	Glasshoughton
 GLZ	Glazebrook
 GLE	Gleneagles
 GLF	Glenfinnan
 GLG	Glengarnock
-GLT	Glenrothes with Thornton
+GLT	Glenrothes
 GLO	Glossop
 GCR	Gloucester
 GLY	Glynde
@@ -1038,6 +1065,7 @@ GYP	Gypsy Lane
 HAB	Habrough
 HCB	Hackbridge
 HKC	Hackney
+HKC	Hackney Central
 HAC	Hackney Downs
 HKW	Hackney Wick
 HDM	HADDENHAM & T PY
@@ -1279,6 +1307,7 @@ KNS	Kennishead
 KNL	Kensal Green
 KNR	Kensal Rise
 KPA	KENSNGTN Olympia
+KPA	KENSINGTON OLYMPIA
 KTH	Kent House
 KTN	Kentish Town
 KTW	Kentish Tn West
@@ -1302,7 +1331,7 @@ KLM	Kilmaurs
 KPT	Kilpatrick
 KWN	Kilwinning
 KBC	Kinbrace
-KGX	Kings Cross
+KGX	LONDON KINGS X
 KGL	Kings Langley
 KLN	Kings Lynn
 KNN	Kings Norton
@@ -1398,6 +1427,8 @@ LEW	Lewisham
 LEY	Leyland
 LEM	LEYTON MID RD
 LER	LEYTONSTONE H RD
+LIC	Lichfield
+LIC	Lic City
 LIC	Lichfield City
 LTV	Lichfield T V
 LID	Lidlington
@@ -1417,10 +1448,16 @@ LIT	Littlehampton
 LVN	Littlehaven
 LTP	Littleport
 LVC	Liverpool Central
-LVJ	Liverpool James Street
+LVJ	JAMES ST LIVERPL
 LIV	Liverpool
+LIV	LIV L ST
+LIV	LIVerpool L ST
+LIV	Liverpool LND SG
+LIV	LIV LND SG
 LSP	Liverpool South Parkway
-LST	Liverpool Street
+LSP	LIV SOUTH PARKWAY
+LST	LIV L ST
+LST	LONDON LIVRPL ST
 LSN	Livingston North
 LVG	Livingston South
 LLA	Llanaber
@@ -1487,7 +1524,9 @@ LOH	LTG Hall
 LOT	LTG Parkway
 LOT	LTG GRALAM
 LOS	Lostwithiel
-LBO	Loughborough
+LBO	LOUGHBOROUGH
+LBO	LOUGHBORO LEICS
+LBO	LBO LEICS
 LGJ	Loughborough Jn
 LGJ	LBO Jn
 LOW	Lowdham
@@ -1517,13 +1556,16 @@ MDN	Maiden Newton
 MAI	Maidenhead
 MDB	Maidstone Barracks
 MDE	Maidstone
+MDE	Maidstone east
+MDE	MDE EAST
 MDW	Maidstone West
 MAL	Malden Manor
 MLG	Mallaig
 MLT	Malton
 MVL	Malvern Link
-MIA	Manchester Airport
-MCO	Manchester Oxford Road
+MIA	MANCHSTR Airport
+MCO	Manchester O Rd
+MCO	Man O Rd
 MAN	Manchester
 MCV	Manchester Victoria
 MNE	Manea
@@ -1551,7 +1593,7 @@ MAO	Martins Heron
 MTO	Marton
 MYH	Maryhill
 MYL	Maryland
-MYB	Marylebone
+MYB	LONDON MARYLEBNE
 MRY	Maryport
 MAT	Matlock
 MTB	Matlock Bath
@@ -1587,12 +1629,12 @@ MFH	Milford Haven
 MLH	Mill Hill LANCS
 MIL	Mill Hill BWAY
 MLB	Millbrook Beds
-MBK	Millbrook (Hampshire)
+MBK	MILLBROOK HANTS
 MIN	Milliken Park
 MLM	Millom
 MIH	Mills Hill Mancr
 MLN	Milngavie
-MKC	Milton Keynes Central
+MKC	Milton Keynes C
 MFF	Minffordd
 MSR	Minster
 MIR	Mirfield
@@ -1647,7 +1689,7 @@ NBR	Narborough
 NVR	Navigation Road
 NTH	Neath
 NMT	Needham Market
-NEI	Neilston
+NEI	NEILSTON
 NEL	Nelson
 NES	Neston
 NET	Netherfield
@@ -1672,7 +1714,10 @@ NWM	New Milton
 NPD	New Pudsey
 NSG	New Southgate
 NCT	Newark
-NNG	Newark North Gate
+NCT	Newark Castle
+NCT	NCT Castle
+NNG	Newark N Gate
+NNG	NCT N Gate
 NBE	Newbridge
 NBY	Newbury
 NRC	Newbury Racecse
@@ -1710,7 +1755,7 @@ NBW	North Berwick
 NCM	North Camp
 NDL	North Dulwich
 NLR	North Llanrwst
-NQU	North Queensferry
+NQU	North Queensfy
 NRD	North Road
 NSH	North Sheen
 NWA	North Walsham
@@ -1759,7 +1804,7 @@ OXN	OXENHOLME LKE D
 OXF	Oxford
 OXS	Oxshott
 OXT	Oxted
-PAD	Paddington
+PAD	London Paddingtn
 PDW	Paddock Wood
 PDG	Padgate
 PGN	Paignton
@@ -1839,12 +1884,17 @@ PLE	Pollokshields E
 PLW	Pollokshields W
 PMT	Polmont
 POL	Polsloe Bridge
-PON	Ponders End
+PON	Ponders End Stansted
+PON	PONDERS END SSD
 PYP	PONT Y PANT
 PTD	Pontarddulais
 PFR	Pontefract
-PFM	Pontefract Monkhill
-POT	Pontefract Tanshelf
+PFR	PFR BAGHL
+PFR	Pontefract BAGHL
+PFM	PONTEFRACT MNKHL
+POT	PONTEFRACT TAN
+PFM	PFR MNKHL
+POT	PFR TAN
 PLT	Pontlottyn
 PYC	Pontyclun
 PPL	PONTYPOOL&NEWINN
@@ -1860,7 +1910,8 @@ POR	Porth
 PTM	Porthmadog
 PLN	Portlethen
 PLD	Portslade
-PMS	Southsea Hoverport
+PMS	Portsmouth & S
+PMS	PMH & S
 PMA	Portsmouth Arms
 PMH	Portsmouth
 PPK	Possilpark
@@ -1914,8 +1965,9 @@ RLG	Rayleigh
 RAY	Raynes Park
 RDG	Reading
 RDW	Reading West
+RDW	RDG WEST
 REC	Rectory Road
-RDB	Redbridge
+RDB	Redbridge Hants
 RCC	Redcar Central
 RCE	Redcar East
 RDN	Reddish North
@@ -1988,7 +2040,7 @@ RYR	RYDE SAJ RD
 RRB	Ryder Brow
 RYE	Rye Sussex
 RYH	Rye House
-SFD	Salford
+SFD	Salford CENTRAL
 SLD	Salford Crescent
 SAF	Salfords Surrey
 SAH	Salhouse
@@ -2016,7 +2068,8 @@ SQH	Sanquhar
 SRR	Sarn
 SDF	Saundersfoot
 SDR	Saunderton
-SAW	Sawbridgeworth
+SAW	Sawbridgeworth Stansted
+SAW	Sawbridgeworth SSD
 SXY	Saxilby
 SAX	Saxmundham
 SCA	Scarborough
@@ -2039,7 +2092,7 @@ SEG	Selling
 SLY	Selly Oak
 SET	Settle
 SVK	Seven Kings
-SVS	Seven Sisters
+SVS	Seven SISTRS und
 SEV	Sevenoaks
 SVB	Severn Beach
 STJ	Severn Tunnel Jn
@@ -2101,8 +2154,11 @@ SLH	Sleights
 SLO	Slough
 SMA	Small Heath
 SAB	Smallbrook Jn
-SGB	Smethwick Galton Bridge
+SGB	Smethwick Gal Bg
 SMR	Smethwick
+SGB	Smr Gal Bg
+SMR	Smethwick RLF ST
+SMR	SMR RLF ST
 SMI	Smitham
 SMB	Smithy Bridge
 SNI	Snaith
@@ -2123,6 +2179,7 @@ SOK	South Kenton
 SMO	South Merton
 SOM	South Milford
 SRU	South RUISLP
+SHV	Southsea Hoverport
 STO	South Tottenham
 SWS	South Wigston
 STL	Southall
@@ -2132,6 +2189,9 @@ SOB	Southbourne
 SBU	Southbury
 SEE	Southease
 SOC	Southend Central
+SOC	Soe Central
+SOE	Southend East
+SOE	SOE East
 SOE	Southend
 SOI	Southend Airport
 SOI	SOE Airport
@@ -2158,25 +2218,26 @@ SBS	ST BEES
 SBF	ST BUDEAUX FY RD
 SBV	St Budeaux Va Rd
 SCR	ST COLUMB ROAD
-SDN	St.Denys
+SDN	St Denys
 SER	ST ERTH
 SGM	ST GERMANS
 SNH	St Helens Ctl
 SHJ	St Helens Jn
 SIH	St Helier
 SIV	ST IVES CORNWALL
-SJP	St James' Park
+SJP	ST JAMES PK EXTR
 SJS	St James St Wstw
 SAJ	St Johns
 SKN	St Keyne
-SLQ	St.Leonards Warrior Square
+SLQ	St Leonards W Sq
 SMG	ST MARGARETS LDN
 SMT	St Margarets Hts
 SMY	St Mary Cray
 STM	ST MICHAELS
 SNO	ST NEOTS
-STP	St.Pancras
+STP	London St Pancrs
 STA	Stafford
+STA	Norton Bridge
 SNS	Staines
 SLL	Stallingborough
 SYB	Stalybridge
@@ -2185,7 +2246,10 @@ SMH	Stamford Hill
 SFO	STANFORD LE HOPE
 SNT	Stanlow & THRNTN
 SSD	Stansted
-SST	Stansted Mountfitchet
+SSD	SSD Airport
+SSD	Stansted Airport
+SST	STANSTD MFITCHET
+SST	SSD MFITCHET
 SPU	Staplehurst
 SRD	Stapleton Road
 SBE	Starbeck
@@ -2221,15 +2285,20 @@ STR	Stranraer
 SRA	Stratford
 SFA	Stratford International
 SAV	Stratford U
+SAV	Stratford U avon
+SAV	Sra U avon
+SAV	SAV AVON
 STC	Strathcarron
 STW	Strawberry Hill
 STE	Streatham
 SRC	Streatham Common
+SRC	Ste Common
 SRH	Streatham Hill
+SRH	STE HILL
 SHC	Streethouse
 SRN	Strines
 STF	Stromeferry
-SOO	Strood
+SOO	STROOD KENT
 STD	Stroud (GLOS)
 STU	Sturry
 SYA	Styal
@@ -2266,7 +2335,8 @@ SWN	SWINTON S YORKS
 SYD	Sydenham
 SYH	Sydenham Hill
 SYL	Syon Lane
-SYS	Syston
+SYS	Syston Leicester
+SYS	Syston LEI
 TAC	Tackley
 TAD	Tadworth
 TAF	Taffs Well
@@ -2387,8 +2457,10 @@ VIR	Virginia Water
 WDO	Waddon
 WAD	Wadhurst
 WFL	Wainfleet
-WKK	Wakefield Kirkgate
+WKK	Wakefield Kirkgt
+WKK	WKF Kirkgt
 WKF	WAKEFIELD
+WKF	WKF WESTGT
 WKD	Walkden
 WLG	WALLASEY GVE RD
 WLV	Wallasey Village
@@ -2400,6 +2472,8 @@ WDN	Walsden
 WLC	Waltham Cross
 WHC	Walthamstow Central
 WMW	Walthamstow
+WMW	Walthamstow Q RD
+WMW	WMW Q RD
 WAO	WALTON MERSEYSDE
 WON	Walton On Naze
 WAL	Walton On Thames
@@ -2415,15 +2489,17 @@ WRM	Wareham Dorset
 WGV	Wargrave
 WMN	Warminster
 WNH	Warnham
-WBQ	Warrington Bank Quay
+WBQ	Warrington Bk Qy
+WBQ	WAC Bk Qy
 WAC	Warrington
 WRW	Warwick
+WRP	WRW Parkway
 WRP	Warwick Parkway
 WTO	Water Orton
 WBC	Waterbeach
 WTR	Wateringbury
 WAT	Waterloo
-WAE	Waterloo (East)
+WAE	LONDON WATRLOO E
 WLO	Waterloo Mersey
 WLO	WAT Mersey
 WFH	Watford High St
@@ -2459,7 +2535,8 @@ WDU	West Dulwich
 WEA	West Ealing
 WEH	West Ham
 WHD	West Hampstead
-WHP	West Hampstead Thameslink
+WHP	WEST HAMPSTD TLK
+WHP	West Hampstead Tlk
 WHR	West Horndon
 WKB	West Kilbride
 WKI	West Kirby
@@ -2519,10 +2596,14 @@ WDD	Widdrington
 WID	Widnes
 WMR	Widney Manor
 WGN	Wigan
+WGN	Wigan north west
+WGN	WGN north west
 WGW	Wigan Wallgate
+WGW	WGN Wallgate
 WGT	Wigton
 WMI	Wildmill
 WIJ	Willesden Jn
+WIJ	Willesden JUNCTION
 WLM	Williamwood
 WIL	Willington
 WMC	Wilmcote
@@ -2572,9 +2653,12 @@ WLS	Woolston
 WWA	Woolwich Arsenal
 WWD	Woolwich Dockyrd
 WWW	Wootton Wawen
-WOF	Worcester Foregate Street
+WOF	WORCESTER FGT ST
+WOF	WOS FGT ST
 WCP	Worcester Park
 WOS	Worcester
+WOS	Worcester SHB HL
+WOS	WOS SHB HL
 WKG	Workington
 WRK	Worksop
 WOR	Worle
@@ -2586,7 +2670,10 @@ WRY	Wraysbury
 WRE	Wrenbury
 WRS	Wressle
 WXC	Wrexham Central
+WRX	Wrexham General
+WRX	WRX General
 WRX	Wrexham
+WXC	WRX Central
 WYE	Wye
 WYM	Wylam
 WYL	Wylde Green

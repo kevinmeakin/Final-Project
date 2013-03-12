@@ -163,7 +163,8 @@ public class RetrieveText {
 		 */
 		CharSequence ind = "Index", sta = "Station", nums = "1 2 3 4", mar = "Mar",
 				yr = "2011", route = "routeing", con = "continued", pag = "page", hea = "Heathrow",
-				via = "via", loc = "local", eng = "England", mem = "Point Member", rou = "Routeing";
+				via = "via", loc = "local", eng = "England", mem = "Point Member", rou = "Routeing",
+				end ="Group Routeing Point Member";
 
 		try {
 			BufferedReader in = new BufferedReader(new FileReader(filename + ".txt"));
@@ -174,6 +175,14 @@ public class RetrieveText {
 
 				t = str.trim();
 
+				if(t.contains(end) && filename.equals(Routeing_Point)){
+					CharSequence space = "";
+					String rep = t.replace(end, space);
+		//			System.out.println(rep);
+					writer.write(rep);
+					writer.newLine();
+				}
+				
 				/*
 				 * Checks if the current line contains any of the specified char sequences,
 				 * if it does it is ignored when writing to file.
@@ -184,7 +193,8 @@ public class RetrieveText {
 						|| t.contains(loc) || t.contains(eng) || t.contains(mem) ||t.contains(rou) 
 						|| t.contains(hea)) continue;
 				writer.write(str+"\n");
-
+				
+				
 			}
 			in.close();
 			writer.close();
@@ -259,14 +269,50 @@ public class RetrieveText {
 					String stationname = getAbbrev.substring(4);
 					stationname = stationname.toUpperCase();
 					CharSequence s = stationname;
-					CharSequence penge = "Penge West";
+					CharSequence penge = "Penge West", PON = "PONDERS END SSD",
+							RDW ="RDG WEST",SRH ="STE HILL",WRX ="WRX GENERAL",
+							ECR ="EAST ECR",WXC ="WRX CENTRAL",PMS="PMH & S",BMO="BHM M ST"
+							,SOC="SOE CENTRAL",LSP="LIV SOUTH PARKWAY",SGB="SMR GAL BG";
 					String[] check = stationname.split(" ");
 
 					/*
 					 * Fix for bug with Penge west
 					 */
+					if(currentLine.contains(SGB)){
+						currentLine = currentLine.replace(SGB, "SGB");
+					}
+					if(currentLine.contains(LSP)){
+						currentLine = currentLine.replace(LSP, "LSP");
+					}
+					if(currentLine.contains(SOC)){
+						currentLine = currentLine.replace(SOC, "SOC");
+					}
+					if(currentLine.contains(BMO)){
+						currentLine = currentLine.replace(BMO, "BMO");
+					}
+					if(currentLine.contains(PMS)){
+						currentLine = currentLine.replace(PMS, "PMS");
+					}
+					if(currentLine.contains(WXC)){
+						currentLine = currentLine.replace(WXC, "WXC");
+					}
 					if(currentLine.contains(penge)){
 						currentLine = currentLine.replace(penge, "Penge W");
+					}
+					if(currentLine.contains(PON)){
+						currentLine = currentLine.replace(PON, "PON");
+					}
+					if(currentLine.contains(RDW)){
+						currentLine = currentLine.replace(RDW, "RDW");
+					}
+					if(currentLine.contains(SRH)){
+						currentLine = currentLine.replace(SRH, "SRH");
+					}
+					if(currentLine.contains(WRX)){
+						currentLine = currentLine.replace(WRX, "WRX");
+					}
+					if(currentLine.contains(ECR)){
+						currentLine = currentLine.replace(ECR, "ECR");
 					}
 					
 					if(currentLine.contains(att)){
@@ -425,11 +471,11 @@ public class RetrieveText {
 //		readPDF(Permitted_Route);
 //		readPDF(Routeing_Point);
 //		readPDF(maps);
-//
+
 //		TidyText(Permitted_Route);
 //		TidyText(Routeing_Point);
 //		TidyText(maps);
-//
+
 //		find3Letters(Routeing_Point);
 //		find3Letters(Permitted_Route);
 		find3Letters("mapsinfo");

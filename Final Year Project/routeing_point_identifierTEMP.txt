@@ -90,6 +90,7 @@ Ascott-U-Wych Oxford Worcester Group
 Ash Ash Vale Farnborough Group Guildford
 Ashburys Guide Bridge Manchester Group
 Ashchurch Barnt Green Cheltenham Spa Worcester Group
+ASHFIELD Glasgow 
 Ashford (Middx) Feltham Staines
 Ashley Chester Stockport
 Ashtead Dorking Group Epsom Guildford Surbiton
@@ -101,9 +102,11 @@ Askam Carlisle Lancaster Group
 Aslockton Grantham Nottingham Group Sleaford
 Aspatria Carlisle Lancaster Group
 Aspley Guise Bedford Bletchley Group
+ASTON Birmingham 
 Atherstone Warks Nuneaton Tamworth
 Atherton Manchr Bolton Manchester Group Wigan Group
 Attadale Inverness
+ATTENBOROUGH Nottingham 
 Attleborough Ely Norwich Peterborough
 Auchinleck Carlisle Kilmarnock
 Audley End Cambridge Stansted Group
@@ -130,12 +133,14 @@ Balmossie Aberdeen Dundee
 Bamber Bridge Blackburn Bolton Preston Lancs
 Bamford Chinley Sheffield Group
 Banavie Glasgow Group
+BANBURY Banbury 
 Bangor (Gwynedd) Shotton
 Bank Hall Liverpool Group Preston Lancs
 Banstead Sutton London
 Barassie Kilmarnock Paisley Gil St
 Barbican Und Highbury & I Und London Group
 Bardon Mill Carlisle Newcastle
+BARE LANE Lancaster 
 Bargeddie Falkirk Group Glasgow Group Motherwell Group
 Bargoed Cardiff Central
 Barlaston Rugeley Trnt Val Stafford Group Stoke On Trent
@@ -150,6 +155,7 @@ Barrhead Glasgow Group Kilmarnock
 Barrhill Kilmarnock Paisley Gil St
 Barrow Haven Barnetby
 Barrow In Furnss Carlisle Lancaster Group
+BARROW UPON SOAR Loughborough 
 Barry Bridgend Cardiff Central
 Barry Docks Bridgend Cardiff Central
 Barry Island Bridgend Cardiff Central
@@ -175,15 +181,18 @@ Bebington Hooton Liverpool Group
 Beccles Ipswich Norwich
 Beckenham Hill Bromley South Group Lewisham Peckham Rye Group
 Bedford St Johns Bedford Bletchley Group
+BEDHAMPTON Portsmouth 
 Bedminster Bristol Group Taunton
 Bedworth Coventry Nuneaton
 Bedwyn Reading Group Westbury Group
+BEESTON Nottingham 
 Bekesbourne Ashford Intl Dover Priory Faversham Ramsgate Group
 Belle Vue Chinley Guide Bridge Manchester Group
 Bellgrove Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Bellingham Ldn Bromley South Group Lewisham Peckham Rye Group
 Bellshill Motherwell Group Newton Lanark
 Belmont Sutton London
+BELPER Derby 
 Beltring Ashford Intl Maidstone Group Tonbridge
 Belvedere Charlton Slade Green
 Bempton Hull Scarborough Group
@@ -202,7 +211,9 @@ Berrylands Epsom Kingston Surbiton Wimbledon
 Berwick (Sussex) Hastings Group Lewes
 Berwick On Tweed Edinburgh Group Newcastle
 Bescar Lane Liverpool Group Preston Lancs Wigan Group
+BESCOT STADIUM Walsall 
 Betchworth Dorking Group Redhill Group
+BETHNAL GREEN London 
 Betws Y Coed Shotton
 Beverley Hull Scarborough Group
 Bexhill Hastings Group Lewes
@@ -210,6 +221,7 @@ Bexley Dartford Hither Green Slade Green
 Bexleyheath Charlton Dartford Lewisham Slade Green
 Bicester North Banbury Group Greenford Und London Group Oxford
 Bicester Town Banbury Group Greenford Und London Group Oxford
+BICKLEY Bromley South 
 Bidston Liverpool Group Shotton
 Biggleswade Hitchin Peterborough
 Bilbrook Shrewsbury Wolverhampton
@@ -224,9 +236,13 @@ Birchwood Manchester Group Warrington Group
 Birkbeck Beckenham Jn Crystal Palace
 Birkdale Liverpool Group Preston Lancs Wigan Group
 Birkenhead Ctl Hooton Liverpool Group
+BIRKENHEAD H SQ Liverpool 
 Birkenhead North Liverpool Group Shotton
 Birkenhead Park Liverpool Group Shotton
 Birmingham Intl Birmingham Group Coventry
+BIRMINGHAM M ST Birmingham 
+BIRMINGHAM N ST Birmingham 
+BIRMINGHAM SN HL Birmingham 
 Bishop Auckland Darlington
 Bishopbriggs Falkirk Group Glasgow Group Stirling
 Bishops Strtford Stansted Group Tottenham Hale Group
@@ -234,11 +250,13 @@ Bishopstone Ssex Lewes
 Bishopton Sclyde Paisley Gil St
 Bitterne Portsmouth Group Southampton Group
 Blackheath Charlton Dartford Lewisham Slade Green
+BLACKHORSE R UND Walthamstow 
 Blackpool North Preston Lancs
 Blackpool P Bch Preston Lancs
 Blackpool South Preston Lancs
 Blackridge Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Blackrod Blackburn Bolton Preston Lancs
+BLACKWATER Farnborough 
 Blaenau Ffest Shotton
 Blair Atholl Inverness Perth
 Blairhill Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
@@ -247,6 +265,7 @@ Blakedown Smethwick Group Worcester Group
 Blantyre Motherwell Group Newton Lanark
 Blaydon Carlisle Newcastle
 Bleasby Newark Group Nottingham Group
+BLETCHLEY Bletchley 
 Bloxwich Rugeley Trnt Val Walsall Group
 Bloxwich North Rugeley Trnt Val Walsall Group
 Blundellsands Liverpool Group Preston Lancs Wigan Group
@@ -275,6 +294,8 @@ Bowes Park Finsbury Park Stevenage
 Bowling Glasgow Group
 Boxhill & Whmble Dorking Group Epsom Guildford Surbiton
 Bracknell Ascot (Berks) Wokingham
+BRADFORD F SQ Bradford 
+BRADFORD INTERCH Bradford 
 Bradford On Avon Bath Spa Westbury Group
 Brading Portsmouth Group
 Braintree Witham
@@ -301,8 +322,11 @@ Bridlington Hull Scarborough Group
 Brierfield Blackburn Halifax Group Manchester Group
 Brigg Barnetby Doncaster Lincoln Retford
 Brighouse Halifax Group Huddersfield Group
+BRIGHTON Brighton 
 Brimsdown Stansted Group Tottenham Hale Group
 Brinnington Chinley Guide Bridge Manchester Group
+BRISTOL PARKWAY Bristol 
+BRISTOL TEMPLE M Bristol 
 Brithdir Cardiff Central
 Briton Ferry Bridgend Swansea Group
 Brixton Herne Hill London Group
@@ -317,6 +341,7 @@ Bromborough Hooton Liverpool Group
 Bromborough Rake Hooton Liverpool Group
 Bromley Cross Blackburn Bolton
 Bromley North Grove Park
+BROMLEY SOUTH Bromley South 
 Bromsgrove Barnt Green Cheltenham Spa Worcester Group
 Brondesbury West Hampstead Group Willesden Jn
 Brondesbury Park West Hampstead Group Willesden Jn
@@ -382,6 +407,7 @@ Camborne Plymouth Group
 Cambridge Heath Hackney Group London Group
 Cambuslang Glasgow Group Newton Lanark
 Camden Road Highbury & I Und Tottenham Hale Group West Hampstead Group
+CAMELON Falkirk 
 Canada Water London Group New Cross New Cross Gate
 Canley Birmingham Group Coventry
 Cannock Rugeley Trnt Val Walsall Group
@@ -402,6 +428,7 @@ Carlton Newark Group Nottingham Group
 Carluke Motherwell Group
 Carmarthen Swansea Group
 Carmyle Falkirk Group Glasgow Group Motherwell Group
+CARNFORTH Lancaster 
 Carnoustie Aberdeen Dundee
 Carntyne Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Carpenders Park Watford Junction Willesden Jn
@@ -410,6 +437,7 @@ Carshalton Mitcham Junction Sutton London
 Carshalton Beech Croydon Group Sutton London
 Cartsdyke Paisley Gil St
 Castle Bar Park Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
+CASTLEFORD Pontefract 
 Castleton Manchr Blackburn Halifax Group Manchester Group
 Castleton Moor Middlesbrough Group
 Caterham Croydon Group Redhill Group
@@ -435,6 +463,7 @@ Charlbury Oxford Worcester Group
 Chartham Ashford Intl Dover Priory Faversham Ramsgate Group
 Chassen Road Manchester Group Warrington Group
 Chatelherault Motherwell Group Newton Lanark
+CHATHAM Chatham 
 Chathill Edinburgh Group Newcastle
 Cheadle Hulme Crewe Stockport Stoke On Trent Wilmslow Group
 Cheam Epsom Sutton London
@@ -469,6 +498,7 @@ Church & Oswald Blackburn Halifax Group Manchester Group
 Church Fenton Leeds Group Pontefract Group Selby York
 Church Stretton Craven Arms Shrewsbury
 Cilmeri Craven Arms Swansea Group
+CITY THAMESLINK London 
 Clacton Colchester
 Clandon Dorking Group Epsom Guildford Surbiton
 Clapham High St Clapham Junction Denmark Hill London Group
@@ -521,6 +551,7 @@ Corrour Glasgow Group
 Coryton Cardiff Central
 Coseley Smethwick Group Wolverhampton
 Cosford Shrewsbury Wolverhampton
+COSHAM Portsmouth 
 Cottingham Hull Scarborough Group
 Cottingley Huddersfield Group Leeds Group
 Coulsdon South Croydon Group Redhill Group
@@ -545,6 +576,7 @@ Crofton Park Bromley South Group Lewisham Peckham Rye Group
 Cromer Norwich
 Cromford Derby Group
 Crookston Glasgow Group
+CROSS GATES Leeds 
 Crossflatts Bradford Group Hellifield Group Leeds Group
 Crosshill Glasgow Group Newton Lanark
 Crosskeys Cardiff Central
@@ -572,6 +604,7 @@ Daisy Hill Bolton Manchester Group Wigan Group
 Dalgety Bay Inverkeithing Group Kirkcaldy Group
 Dalmally Glasgow Group
 Dalmarnock Glasgow Group Newton Lanark
+DALMENY Edinburgh 
 Dalmuir Glasgow Group
 Dalreoch Glasgow Group
 Dalry Kilmarnock Paisley Gil St
@@ -593,7 +626,9 @@ Dawlish Exeter Group Plymouth Group
 Dawlish Warren Exeter Group Plymouth Group
 Deal Dover Priory Ramsgate Group
 Dean (Wilts) Eastleigh Salisbury Southampton Group
+DEANSGATE G-MEX Manchester 
 Deganwy Shotton
+DEIGHTON Huddersfield 
 Delamere Chester Stockport
 Denby Dale Barnsley Huddersfield Group
 Denham Banbury Group Greenford Und London Group Oxford
@@ -601,7 +636,9 @@ Denham Golf Club Banbury Group Greenford Und London Group Oxford
 Dent Carlisle Hellifield Group
 Denton Guide Bridge Stockport
 Deptford Charlton London Group
+DERBY Derby 
 Derby Rd Ipswich Ipswich Norwich
+DEVONPORT DEVON Plymouth 
 Dewsbury Huddersfield Group Leeds Group
 Digby & Sowton Exeter Group
 Dilton Marsh Salisbury Westbury Group
@@ -613,27 +650,38 @@ Dinsdale Darlington Middlesbrough Group
 Dinting Guide Bridge
 Disley Chinley Guide Bridge Hazel Grove Manchester Group
 Diss Norwich Stowmarket
+DOCKYARD DEVONPT Plymouth 
 Dodworth Barnsley Huddersfield Group
 Dolau Craven Arms Swansea Group
 Doleham Ashford Intl Hastings Group
 Dolgarrog Shotton
 Dolwyddelan Shotton
+DORCHESTER SOUTH Weymouth 
+DORCHESTER WEST Weymouth 
+DORE Sheffield 
+DORKING Dorking 
+DORKING DEEPDENE Dorking 
+DORKING WEST Dorking 
 Dormans Croydon Group
 Dorridge Stratford U Group Tyseley Warwick Group
 Dove Holes Chinley Guide Bridge Hazel Grove Manchester Group
 Dovercourt Ipswich Manningtree
+DOVEY JUNCTION Machynlleth 
 Downham Market Ely
 Drayton Green Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
 Drayton Park Finsbury Park Highbury & I Und
 Drem Edinburgh Group Newcastle
 Driffield Hull Scarborough Group
 Drigg Carlisle Lancaster Group
+DROITWICH SPA Worcester 
 Dronfield Chesterfield Sheffield Group
 Drumchapel Glasgow Group
 Drumfrochar Paisley Gil St
 Drumgelloch Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Drumry Glasgow Group
+DUDDESTON Birmingham 
 Dudley Port Smethwick Group Wolverhampton
+DUFFIELD Derby 
 Duirinish Inverness
 Duke Street Glasgow Group
 Dullingham Cambridge Ely Stowmarket
@@ -656,14 +704,18 @@ Durham Darlington Newcastle
 Durrington Brighton Group Ford Group
 Dyce Aberdeen Inverness
 Dyffryn Ardudwy Machynlleth Group
+EAGLESCLIFFE Middlesbrough 
 Ealing Broadway Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
 Earley Reading Group Wokingham
 Earlsfield Clapham Junction Wimbledon
+EARLSWOOD SURREY Redhill 
 Earlswood W Mid Stratford U Group Tyseley
 East Boldon Middlesbrough Group Newcastle
+EAST CROYDON Croydon 
 East Didsbury Manchester Group Wilmslow Group
 East Dulwich Peckham Rye Group Tulse Hill
 East Farleigh Ashford Intl Maidstone Group Tonbridge
+EAST GARFORTH Leeds 
 East Grinstead Croydon Group
 East Kilbride Glasgow Group Kilmarnock
 East Malling Maidstone Group Sevenoaks Swanley
@@ -683,6 +735,8 @@ Edale Chinley Sheffield Group
 Eden Park Beckenham Jn Lewisham New Cross
 Edenbridge Redhill Group Tonbridge
 Edenbridge Town Croydon Group
+EDGE HILL Liverpool 
+EDINBURGH Edinburgh 
 Edinburgh Park Edinburgh Group Falkirk Group Inverkeithing Group
 Edmonton Green Stansted Group Tottenham Hale Group
 Effingham Jn Dorking Group Epsom Guildford Surbiton
@@ -717,6 +771,9 @@ Euxton Bal Lane Bolton Preston Lancs Wigan Group
 Evesham Oxford Worcester Group
 Ewell East Epsom Sutton London
 Ewell West Epsom Kingston Surbiton Wimbledon
+EXETER CENTRAL Exeter 
+EXETER ST DAVIDS Exeter 
+EXETER ST THOMAS Exeter 
 Exhib Ctr Glasgw Glasgow Group
 Exmouth Exeter Group
 Exton Exeter Group
@@ -726,10 +783,15 @@ Fairfield Guide Bridge Manchester Group
 Fairlie Kilmarnock Paisley Gil St
 Fairwater Cardiff Central Pontypridd
 Falconwood Charlton Dartford Lewisham Slade Green
+FALKIRK GHSTON Falkirk 
+FALKIRK HIGH Falkirk 
 Falls Of Cruachn Glasgow Group
 Falmer Brighton Group Lewes
 Falmouth Docks Plymouth Group
 Falmouth Town Plymouth Group
+FAREHAM Portsmouth 
+FARNBOROUGH MAIN Farnborough 
+FARNBOROUGH N Farnborough 
 Farncombe Guildford Havant
 Farnham Ash Vale Farnborough Group Guildford
 Farningham Road Chatham Group Swanley
@@ -748,6 +810,7 @@ Ferriby Goole Hull Selby
 Ferryside Swansea Group
 Ffairfach Craven Arms Swansea Group
 Filey Hull Scarborough Group
+FILTON ABBEYWOOD Bristol 
 Finchley Rd & F Highbury & I Und Tottenham Hale Group West Hampstead Group
 Finstock Oxford Worcester Group
 Fishbourne Ssex Ford Group Havant
@@ -764,6 +827,7 @@ Flixton Manchester Group Warrington Group
 Flowery Field Guide Bridge
 Folkestone Ctl Ashford Intl Dover Priory
 Folkestone West Ashford Intl Dover Priory
+FORD Ford 
 Forest Gate Romford Group Stratford London Gp
 Forest Hill Croydon Group Crystal Palace New Cross Gate
 Formby Liverpool Group Preston Lancs Wigan Group
@@ -775,6 +839,7 @@ Four Oaks Birmingham Group Lichfield T V
 Foxfield Carlisle Lancaster Group
 Foxton Cambridge Hitchin
 Frant Hastings Group Tonbridge
+FRATTON Portsmouth 
 Freshfield Liverpool Group Preston Lancs Wigan Group
 Freshford Bath Spa Westbury Group
 Frimley Ascot (Berks) Ash Vale
@@ -788,6 +853,7 @@ Furze Platt Reading Group Slough
 Gainsborough Ctl Barnetby Doncaster Lincoln Retford
 Gainsborough L R Doncaster Lincoln Retford
 Garelochhead Glasgow Group
+GARFORTH Leeds 
 Gargrave Bradford Group Hellifield Group Leeds Group
 Garrowhill Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Garscadden Glasgow Group
@@ -802,20 +868,26 @@ Gathurst Liverpool Group Preston Lancs Wigan Group
 Gatley Manchester Group Wilmslow Group
 Georgemas Jn Inverness
 Gerrards Cross Banbury Group Greenford Und London Group Oxford
+GIDEA PARK Romford 
 Giffnock Glasgow Group Kilmarnock
 Giggleswick Hellifield Group Lancaster Group
 Gilberdyke Goole Hull Selby
 Gilfach Fargoed Cardiff Central
 Gillingham Dset Exeter Group Salisbury
+GILLINGHAM KENT Chatham 
 Gilshochill Glasgow Group
 Gipsy Hill Crystal Palace Streatham Group Tulse Hill
 Girvan Kilmarnock Paisley Gil St
 Glaisdale Middlesbrough Group
 Glan Conwy Shotton
+GLASGOW CENTRAL Glasgow 
+GLASGOW QUEEN ST Glasgow 
+GLASSHOUGHTON Pontefract 
 Glazebrook Manchester Group Warrington Group
 Gleneagles Perth Stirling
 Glenfinnan Glasgow Group
 Glengarnock Kilmarnock Paisley Gil St
+GLENROTHES Kirkcaldy 
 Glossop Guide Bridge
 Glynde Hastings Group Lewes
 Gobowen Shrewsbury Wrexham Group
@@ -825,6 +897,7 @@ Godstone Redhill Group Tonbridge
 Goldthorpe Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Golf Street Aberdeen Dundee
 Golspie Inverness
+GOMSHALL Dorking 
 Goodmayes Romford Group Stratford London Gp
 Goostrey Crewe Wilmslow Group
 Gordon Hill Finsbury Park Stevenage
@@ -833,6 +906,7 @@ Goring By Sea Brighton Group Ford Group
 Gorton Guide Bridge Manchester Group
 Gospel Oak Highbury & I Und Tottenham Hale Group West Hampstead Group
 Gourock Paisley Gil St
+GOWERTON Swansea 
 Goxhill Barnetby
 Grange Ovr Sands Carlisle Lancaster Group
 Grange Park Finsbury Park Stevenage
@@ -869,6 +943,8 @@ Gwersyllt Shotton Wrexham Group
 Gypsy Lane Middlesbrough Group
 Habrough Barnetby
 Hackbridge Mitcham Junction Sutton London
+HACKNEY CENTRAL Hackney 
+HACKNEY DOWNS Hackney 
 Hackney Wick Hackney Group Stratford London Gp
 Haddenham & T Py Banbury Group Greenford Und London Group Oxford
 Haddiscoe Ipswich Norwich
@@ -881,6 +957,7 @@ Hairmyres Glasgow Group Kilmarnock
 Hale Chester Stockport
 Halesworth Ipswich Norwich
 Halewood Hunts Cross Group Warrington Group
+HALIFAX Halifax 
 Hall Green Stratford U Group Tyseley
 Hall I'Th'Wood Blackburn Bolton
 Hall Road Liverpool Group Preston Lancs Wigan Group
@@ -900,6 +977,7 @@ Hampton Wick Kingston Twickenham
 Hamstead Birmngm Birmingham Group Walsall Group
 Hamworthy Southampton Group Weymouth Group
 Hanborough Oxford Worcester Group
+HANDFORTH Wilmslow 
 Hanwell Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
 Hapton Blackburn Halifax Group Manchester Group
 Harlech Machynlleth Group
@@ -925,12 +1003,14 @@ Harwich Intl Ipswich Manningtree
 Harwich Town Ipswich Manningtree
 Haslemere Guildford Havant
 Hassocks Brighton Group Lewes Three Bridges
+HASTINGS Hastings 
 Hatch End Watford Junction Willesden Jn
 Hatfield & Stnfh Barnetby Doncaster Goole
 Hatfield (Herts) Finsbury Park Stevenage
 Hatfield Peverel Shenfield Witham
 Hathersage Chinley Sheffield Group
 Hattersley Guide Bridge
+HATTON Warwick 
 Havenhouse Sleaford
 Haverfordwest Swansea Group
 Hawarden Shotton Wrexham Group
@@ -940,10 +1020,12 @@ Haydon Bridge Carlisle Newcastle
 Haydons Road Streatham Group Wimbledon
 Hayes (Kent) Beckenham Jn Lewisham New Cross
 Hayle Plymouth Group
+HAYMARKET Edinburgh 
 Haywards Heath Brighton Group Lewes Three Bridges
 Headcorn Ashford Intl Maidstone Group Tonbridge
 Headingley Leeds Group York
 Headstone Lane Watford Junction Willesden Jn
+HEALD GREEN Wilmslow 
 Healing Barnetby
 Heath High Level Cardiff Central
 Heath Low Level Cardiff Central
@@ -955,6 +1037,7 @@ Hednesford Rugeley Trnt Val Walsall Group
 Heighington Darlington
 Helensburgh Ctl Glasgow Group
 Helensburgh Upp Glasgow Group
+HELLIFIELD Hellifield 
 Helmsdale Inverness
 Helsby Chester Hooton Runcorn Group
 Hemel Hempstead Bletchley Group Watford Junction
@@ -986,6 +1069,7 @@ Hillfoot Glasgow Group
 Hillington East Glasgow Group Paisley Gil St
 Hillington West Glasgow Group Paisley Gil St
 Hillside Liverpool Group Preston Lancs Wigan Group
+HILSEA Portsmouth 
 Hinchley Wood Dorking Group Epsom Guildford Surbiton
 Hinckley (Leics) Leicester Nuneaton
 Hindley Bolton Manchester Group Wigan Group
@@ -996,6 +1080,7 @@ Holmes Chapel Crewe Wilmslow Group
 Holmwood Surrey Dorking Group Horsham
 Holton Heath Southampton Group Weymouth Group
 Holyhead Shotton
+HOLYTOWN Motherwell 
 Homerton Hackney Group Stratford London Gp
 Honeybourne Oxford Worcester Group
 Honiton Exeter Group Salisbury
@@ -1014,6 +1099,7 @@ Horton In Rbdale Carlisle Hellifield Group
 Horwich Parkway Blackburn Bolton Preston Lancs
 Hoscar Liverpool Group Preston Lancs Wigan Group
 Hough Green Hunts Cross Group Warrington Group
+HOVE Brighton 
 Hoveton & Wroxhm Norwich
 How Wood Bedford Watford Junction West Hampstead Group
 Howden Goole Hull Selby
@@ -1022,12 +1108,14 @@ Hoxton London Group New Cross New Cross Gate
 Hoylake Liverpool Group Shotton
 Hubberts Bridge Sleaford
 Hucknall Nottingham Group Worksop
+HUDDERSFIELD Huddersfield 
 Humphrey Park Manchester Group Warrington Group
 Huncoat Blackburn Halifax Group Manchester Group
 Hungerford Reading Group Westbury Group
 Hunmanby Hull Scarborough Group
 Huntingdon Hitchin Peterborough
 Huntly Aberdeen Inverness
+HUNTS CROSS Hunts Cross 
 Hurst Green Croydon Group
 Hutton Cranswick Hull Scarborough Group
 Hyde Central Chinley Guide Bridge Manchester Group
@@ -1046,6 +1134,7 @@ Ingatestone Shenfield Witham
 Insch Aberdeen Inverness
 Invergordon Inverness
 Invergowrie Dundee Perth
+INVERKEITHING Inverkeithing 
 Inverkip Paisley Gil St
 Invershin Inverness
 Inverurie Aberdeen Inverness
@@ -1055,6 +1144,7 @@ Isleworth Barnes Hounslow
 Islip Banbury Group Greenford Und London Group Oxford
 Iver Hayes & Harlngtn Gp Slough
 Ivybridge Exeter Group Plymouth Group
+JAMES ST LIVERPL Liverpool 
 Jewellery Quartr Birmingham Group Smethwick Group
 Johnston (Pembs) Swansea Group
 Johnstone Sclyde Kilmarnock Paisley Gil St
@@ -1084,6 +1174,7 @@ Kenton Watford Junction Willesden Jn
 Kents Bank Carlisle Lancaster Group
 Kew Bridge Barnes Hounslow
 Kew Gardens Richmond London Willesden Jn
+KEYHAM Plymouth 
 Keynsham Bath Spa Bristol Group
 Kidbrooke Charlton Dartford Lewisham Slade Green
 Kidderminster Smethwick Group Worcester Group
@@ -1104,6 +1195,7 @@ Kings Lynn Ely
 Kings Norton Barnt Green Birmingham Group
 Kings Nympton Exeter Group
 Kings Park Glasgow Group Newton Lanark
+KINGS SUTTON Banbury 
 Kingsknowe Edinburgh Group Motherwell Group
 Kingswood Croydon Group Redhill Group
 Kingussie Inverness Perth
@@ -1114,6 +1206,7 @@ Kirkby In Ashfld Nottingham Group Worksop
 Kirkby In Furn Carlisle Lancaster Group
 Kirkby Merseysde Liverpool Group Preston Lancs Wigan Group
 Kirkby Stephen W Carlisle Hellifield Group
+KIRKCALDY Kirkcaldy 
 Kirkconnel Carlisle Kilmarnock
 Kirkdale Liverpool Group Preston Lancs Wigan Group
 Kirkham & Wesham Preston Lancs
@@ -1138,6 +1231,7 @@ Lake Portsmouth Group
 Lakenheath Ely Norwich Peterborough
 Lamphey Swansea Group
 Lanark Motherwell Group
+LANCASTER Lancaster 
 Lancing Brighton Group Ford Group
 Landywood Rugeley Trnt Val Walsall Group
 Langbank Paisley Gil St
@@ -1154,6 +1248,7 @@ Larbert Falkirk Group Glasgow Group Stirling
 Largs Kilmarnock Paisley Gil St
 Larkhall Motherwell Group Newton Lanark
 Laurencekirk Aberdeen Dundee
+LAWRENCE HILL Bristol 
 Layton (Lancs) Preston Lancs
 Lazonby Carlisle Hellifield Group
 Lea Green Earlestown Huyton
@@ -1164,6 +1259,7 @@ Leasowe Liverpool Group Shotton
 Leatherhead Dorking Group Epsom Guildford Surbiton
 Ledbury Hereford Worcester Group
 Lee (London) Dartford Hither Green Slade Green
+LEEDS Leeds 
 Leigh Kent Redhill Group Tonbridge
 Leigh On Sea Barking Romford Group Southend Group
 Leighton Buzzard Bletchley Group Watford Junction
@@ -1191,8 +1287,13 @@ Lisvane & Tnhill Cardiff Central
 Little Kimble Banbury Group Greenford Und London Group Oxford
 Little Sutton Chester Hooton Runcorn Group
 Littleborough Blackburn Halifax Group Manchester Group
+LITTLEHAMPTON Ford 
 Littlehaven Horsham Three Bridges
 Littleport Ely
+LIVERPOOL CTL Liverpool 
+LIVERPOOL L ST Liverpool 
+LIVERPOOL LND SG Liverpool 
+LIVERPOOL SOUTH PARKWAY Hunts Cross 
 Livingston North Edinburgh Group Falkirk Group Glasgow Group Inverkeithing Group
 Livingston South Edinburgh Group Motherwell Group
 Llanaber Machynlleth Group
@@ -1208,6 +1309,7 @@ Llandrindod Craven Arms Swansea Group
 Llandudno Shotton
 Llandudno Jn Shotton
 Llandybie Craven Arms Swansea Group
+LLANELLI Swansea 
 Llanfairfechan Shotton
 Llanfairpwll Shotton
 Llangadog Craven Arms Swansea Group
@@ -1233,10 +1335,26 @@ Lochluichart Inverness
 Lochwinnoch Kilmarnock Paisley Gil St
 Lockerbie Carlisle Carstairs
 Lockwood Barnsley Huddersfield Group
+LONDON BLKFRIARS London 
+LONDON BRIDGE London 
+LONDON CANNON ST London 
+LONDON CHARING X London 
+LONDON EUSTON London 
+LONDON FENCH ST London 
 London Fields Hackney Group London Group
+LONDON KINGS X London 
+LONDON LIVRPL ST London 
+LONDON MARYLEBNE London 
+LONDON PADDINGTN London 
 London Rd Brghtn Brighton Group Lewes
 London Rd Guilfd Dorking Group Epsom Guildford Surbiton
+LONDON ST PANCRS London 
+LONDON VICTORIA London 
+LONDON WATERLOO London 
+LONDON WATRLOO E London 
 Long Buckby Northampton Rugby
+LONG EATON Derby 
+LONG PRESTON Hellifield 
 Longbeck Middlesbrough Group
 Longbridge Barnt Green Birmingham Group
 Longcross Ascot (Berks) Staines Surbiton Woking
@@ -1249,6 +1367,7 @@ Lostock Blackburn Bolton Preston Lancs
 Lostock Gralam Chester Stockport
 Lostock Hall Blackburn Preston Lancs
 Lostwithiel Plymouth Group
+LOUGHBORO LEICS Loughborough 
 Loughborough Jn Herne Hill London Group Peckham Rye Group
 Lowdham Newark Group Nottingham Group
 Lower Sydenham Beckenham Jn Lewisham New Cross
@@ -1265,15 +1384,23 @@ Lympstone Comm Exeter Group
 Lympstone Vllage Exeter Group
 Lytham Preston Lancs
 Macclesfield Crewe Stockport Stoke On Trent Wilmslow Group
+MACHYNLLETH Machynlleth 
 Maesteg Bridgend
 Maesteg Eweny Rd Bridgend
 Maghull Liverpool Group Preston Lancs Wigan Group
 Maiden Newton Castle Cary Weymouth Group
 Maidenhead Reading Group Slough
+MAIDSTONE BKS Maidstone 
+MAIDSTONE EAST Maidstone 
+MAIDSTONE WEST Maidstone 
 Malden Manor Epsom Kingston Surbiton Wimbledon
 Mallaig Glasgow Group
 Malton Scarborough Group York
 Malvern Link Hereford Worcester Group
+MANCHESTER O RD Manchester 
+MANCHESTER PIC Manchester 
+MANCHESTER VIC Manchester 
+MANCHSTR AIRPORT Wilmslow 
 Manea Ely Norwich Peterborough
 Manor Park Romford Group Stratford London Gp
 Manor Road Liverpool Group Shotton
@@ -1286,6 +1413,7 @@ Marden Kent Ashford Intl Maidstone Group Tonbridge
 Margate Faversham Ramsgate Group
 Market Harboro Kettering Leicester
 Market Rasen Barnetby Lincoln
+MARKINCH Kirkcaldy 
 Marlow Reading Group Slough
 Marple Chinley Guide Bridge Manchester Group
 Marsden Yorks Huddersfield Group Stalybridge
@@ -1319,6 +1447,8 @@ Metheringham Lincoln Sleaford
 Metrocentre Carlisle Newcastle
 Mexborough Doncaster Swinton  S Yorks
 Micheldever Basingstoke Eastleigh
+MICKLEFIELD Leeds 
+MIDDLESBROUGH Middlesbrough 
 Middlewood Chinley Guide Bridge Hazel Grove Manchester Group
 Midgham Reading Group Westbury Group
 Milford Haven Swansea Group
@@ -1326,11 +1456,15 @@ Milford Surrey Guildford Havant
 Mill Hill Bway Bedford Watford Junction West Hampstead Group
 Mill Hill Lancs Blackburn Bolton Preston Lancs
 Millbrook Beds Bedford Bletchley Group
+MILLBROOK HANTS Southampton 
 Milliken Park Kilmarnock Paisley Gil St
 Millom Carlisle Lancaster Group
 Mills Hill Mancr Blackburn Halifax Group Manchester Group
 Milngavie Glasgow Group
+MILTON KEYNES C Bletchley 
 Minffordd Machynlleth Group
+MINSTER Ramsgate 
+MIRFIELD Huddersfield 
 Mistley Ipswich Manningtree
 Mitcham Eastfields Clapham Junction Mitcham Junction Streatham Group
 Mobberley Chester Stockport
@@ -1338,6 +1472,9 @@ Monifieth Aberdeen Dundee
 Monks Risborough Banbury Group Greenford Und London Group Oxford
 Montpelier Bristol Group
 Montrose Aberdeen Dundee
+MOORFIELDS Liverpool 
+MOORGATE London 
+MOORGATE UND London 
 Moorside Bolton Manchester Group Wigan Group
 Moorthorpe Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Morar Glasgow Group
@@ -1358,6 +1495,7 @@ Mossley Hill Hunts Cross Group Liverpool Group
 Mossley Manchr Huddersfield Group Stalybridge
 Mosspark Glasgow Group
 Moston Blackburn Halifax Group Manchester Group
+MOTHERWELL Motherwell 
 Motspur Park Epsom Kingston Surbiton Wimbledon
 Mottingham Dartford Hither Green Slade Green
 Mottisford & Dunbridge Eastleigh Salisbury Southampton Group
@@ -1400,6 +1538,8 @@ New Mills Newtn Chinley Guide Bridge Hazel Grove Manchester Group
 New Milton Southampton Group Weymouth Group
 New Pudsey Bradford Group Leeds Group
 New Southgate Finsbury Park Stevenage
+NEWARK CASTLE Newark 
+NEWARK N GATE Newark 
 Newbridge Cardiff Central
 Newbury Reading Group Westbury Group
 Newbury Racecse Reading Group Westbury Group
@@ -1422,6 +1562,7 @@ Newtown (Powys) Machynlleth Group Shrewsbury
 Ninian Park Cardiff Central
 Nitshill Glasgow Group Kilmarnock
 Norbiton Epsom Kingston Surbiton Wimbledon
+NORBURY Streatham 
 Normans Bay Hastings Group Lewes
 Normanton Leeds Group Pontefract Group Wakefield Group
 North Berwick Edinburgh Group Newcastle
@@ -1429,6 +1570,7 @@ North Camp Ash Vale Farnborough Group Guildford
 North Dulwich Peckham Rye Group Tulse Hill
 North Fambridge Shenfield Southend Group
 North Llanrwst Shotton
+NORTH QUEENSFY Inverkeithing 
 North Road Darlington
 North Sheen Barnes Richmond London
 North Walsham Norwich
@@ -1439,7 +1581,10 @@ Northfleet Dartford Gravesend
 Northolt Park Banbury Group Greenford Und London Group Oxford
 Northumberland P Stansted Group Tottenham Hale Group
 Northwich Chester Stockport
+NORTON BRIDGE Stafford 
 Norwood Junction Croydon Group Crystal Palace New Cross Gate
+NOTTINGHAM Nottingham 
+NUNHEAD Peckham Rye 
 Nunthorpe Middlesbrough Group
 Nutbourne Ford Group Havant
 Nutfield Redhill Group Tonbridge
@@ -1451,10 +1596,12 @@ Ockley Dorking Group Horsham
 Okehampton Exeter Group
 Old Hill Smethwick Group Worcester Group
 Old Roan Liverpool Group Preston Lancs Wigan Group
+OLD STREET UND London 
 Oldfield Park Bath Spa Bristol Group
 Olton Stratford U Group Tyseley Warwick Group
 Ore Ashford Intl Hastings Group
 Ormskirk Liverpool Group Preston Lancs Wigan Group
+ORPINGTON Bromley South 
 Orrell Liverpool Group Preston Lancs Wigan Group
 Orrell Park Liverpool Group Preston Lancs Wigan Group
 Otford Maidstone Group Sevenoaks Swanley
@@ -1485,6 +1632,8 @@ Parton Carlisle Lancaster Group
 Patchway Bristol Group Gloucester Newport (S.Wales)
 Patricroft Bolton Earlestown Manchester Group Wigan Group
 Patterton Glasgow Group Newton Lanark
+PEARTREE Derby 
+PECKHAM RYE Peckham Rye 
 Pegswood Edinburgh Group Newcastle
 Pemberton Liverpool Group Preston Lancs Wigan Group
 Pembroke Swansea Group
@@ -1516,6 +1665,7 @@ Perranwell Plymouth Group
 Perry Barr Birmingham Group Walsall Group
 Pershore Oxford Worcester Group
 Petersfield Guildford Havant
+PETTS WOOD Bromley South 
 Pevensey & Wham Hastings Group Lewes
 Pevensey Bay Hastings Group Lewes
 Pewsey Reading Group Westbury Group
@@ -1529,6 +1679,7 @@ Pluckley Ashford Intl Maidstone Group Tonbridge
 Plumley Chester Manchester Group Stockport
 Plumpton Brighton Group Lewes Three Bridges
 Plumstead Charlton Slade Green
+PLYMOUTH Plymouth 
 Pokesdown Southampton Group Weymouth Group
 Polegate Hastings Group Lewes
 Polesworth Nuneaton Tamworth
@@ -1541,6 +1692,9 @@ Polsloe Bridge Exeter Group
 Ponders End Stansted Group Tottenham Hale Group
 Pont Y Pant Shotton
 Pontarddulais Craven Arms Swansea Group
+PONTEFRACT BAGHL Pontefract 
+PONTEFRACT MNKHL Pontefract 
+PONTEFRACT TAN Pontefract 
 Pontlottyn Cardiff Central
 Pontyclun Bridgend Cardiff Central
 Pontypool&Newinn Hereford Newport (S.Wales)
@@ -1549,11 +1703,14 @@ Poppleton Leeds Group York
 Port Glasgow Paisley Gil St
 Port Sunlight Hooton Liverpool Group
 Port Talbot Pwy Bridgend Swansea Group
+PORTCHESTER Portsmouth 
 Porth Pontypridd
 Porthmadog Machynlleth Group
 Portlethen Aberdeen Dundee
 Portslade Brighton Group Ford Group
+PORTSMOUTH & S Portsmouth 
 Portsmouth Arms Exeter Group
+PORTSMOUTH HBR Portsmouth 
 Possilpark Glasgow Group
 Potters Bar Finsbury Park Stevenage
 Poulton Le Fylde Preston Lancs
@@ -1592,6 +1749,7 @@ Rainford Liverpool Group Preston Lancs Wigan Group
 Rainham Essex Barking Romford Group Southend Group
 Rainham Kent Chatham Group Faversham
 Rainhill Earlestown Huyton
+RAMSGATE Ramsgate 
 Ramsgreave & Wil Blackburn Hellifield Group
 Rannoch Glasgow Group
 Rauceby Grantham Nottingham Group Sleaford
@@ -1601,13 +1759,17 @@ Ravensthorpe Huddersfield Group Leeds Group
 Rawcliffe Goole Pontefract Group
 Rayleigh Shenfield Southend Group
 Raynes Park Epsom Kingston Surbiton Wimbledon
+READING Reading 
+READING WEST Reading 
 Rectory Road Hackney Group Tottenham Hale Group
+REDBRIDGE HANTS Southampton 
 Redcar Br Steel Middlesbrough Group
 Redcar Central Middlesbrough Group
 Redcar East Middlesbrough Group
 Reddish North Chinley Guide Bridge Manchester Group
 Reddish South Guide Bridge Stockport
 Redditch Barnt Green
+REDHILL Redhill 
 Redland Bristol Group
 Redruth Plymouth Group
 Reedham London Croydon Group Redhill Group
@@ -1631,12 +1793,14 @@ Robertsbridge Hastings Group Tonbridge
 Roby Huyton Liverpool Group
 Rochdale Blackburn Halifax Group Manchester Group
 Roche Plymouth Group
+ROCHESTER Chatham 
 Rochford Shenfield Southend Group
 Rock Ferry Hooton Liverpool Group
 Rogart Inverness
 Rogerstone Cardiff Central
 Rolleston Newark Group Nottingham Group
 Roman Bridge Shotton
+ROMFORD Romford 
 Romiley Chinley Guide Bridge Manchester Group
 Romsey Eastleigh Salisbury Southampton Group
 Roose Carlisle Lancaster Group
@@ -1654,6 +1818,7 @@ Royston (Herts) Cambridge Hitchin
 Ruabon Shrewsbury Wrexham Group
 Rufford Liverpool Group Preston Lancs Wigan Group
 Rugeley Town Rugeley Trnt Val Walsall Group
+RUNCORN Runcorn 
 Runcorn East Chester Warrington Group
 Ruskington Lincoln Sleaford
 Ruswarp Middlesbrough Group
@@ -1665,6 +1830,8 @@ Ryde St Johns Rd Portsmouth Group
 Ryder Brow Chinley Guide Bridge Manchester Group
 Rye House Stansted Group Tottenham Hale Group
 Rye Sussex Ashford Intl Hastings Group
+SALFORD CENTRAL Manchester 
+SALFORD CRESCENT Manchester 
 Salfords Surrey Gatwick Airport Redhill Group
 Salhouse Norwich
 Saltaire Bradford Group Hellifield Group Leeds Group
@@ -1677,6 +1844,7 @@ Sampford Courtenay Exeter Group
 Sandal & Agbrigg Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 Sandbach Crewe Wilmslow Group
 Sanderstead Croydon Group
+SANDHILLS Liverpool 
 Sandhurst Berks Farnborough Group Wokingham
 Sandling Ashford Intl Dover Priory
 Sandown Portsmouth Group
@@ -1692,6 +1860,7 @@ Saunderton Banbury Group Greenford Und London Group Oxford
 Sawbridgeworth Stansted Group Tottenham Hale Group
 Saxilby Barnetby Doncaster Lincoln Retford
 Saxmundham Ipswich Norwich
+SCARBOROUGH Scarborough 
 Scotscalder Inverness
 Scotstounhill Glasgow Group
 Scunthorpe Barnetby Doncaster
@@ -1700,14 +1869,17 @@ Seaburn Middlesbrough Group Newcastle
 Seaford Sussex Lewes
 Seaforth & Lithd Liverpool Group Preston Lancs Wigan Group
 Seaham Middlesbrough Group Newcastle
+SEAMER Scarborough 
 Seascale Carlisle Lancaster Group
 Seaton Carew Middlesbrough Group Newcastle
 Seer Green Banbury Group Greenford Und London Group Oxford
+SELHURST Streatham 
 Sellafield Carlisle Lancaster Group
 Selling Ashford Intl Dover Priory Faversham Ramsgate Group
 Selly Oak Barnt Green Birmingham Group
 Settle Carlisle Hellifield Group
 Seven Kings Romford Group Stratford London Gp
+SEVEN SISTRS UND Tottenham Hale 
 Severn Beach Bristol Group
 Severn Tunnel Jn Bristol Group Gloucester Newport (S.Wales)
 Shadwell London Group New Cross New Cross Gate
@@ -1716,6 +1888,7 @@ Shanklin Portsmouth Group
 Shawford Basingstoke Eastleigh
 Shawlands Glasgow Group Newton Lanark
 Sheerness On Sea Chatham Group Faversham
+SHEFFIELD Sheffield 
 Shelford Cambridge Stansted Group
 Shenstone Birmingham Group Lichfield T V
 Shepherds Bush Clapham Junction Hayes & Harlngtn Gp Watford Junction Willesden Jn
@@ -1743,8 +1916,10 @@ Sholing Portsmouth Group Southampton Group
 Shoreditch High Street London Group New Cross New Cross Gate
 Shoreham By Sea Brighton Group Ford Group
 Shoreham Kent Maidstone Group Sevenoaks Swanley
+SHORTLANDS Bromley South 
 Shotts Edinburgh Group Motherwell Group
 Sidcup Dartford Hither Green Slade Green
+SILEBY Loughborough 
 Silecroft Carlisle Lancaster Group
 Silkstone Common Barnsley Huddersfield Group
 Silver Street Stansted Group Tottenham Hale Group
@@ -1759,6 +1934,8 @@ Slateford Edinburgh Group Motherwell Group
 Sleights Middlesbrough Group
 Small Heath Birmingham Group Tyseley
 Smallbrook Jn Portsmouth Group
+SMETHWICK GAL BG Smethwick 
+SMETHWICK RLF ST Smethwick 
 Smitham Croydon Group Redhill Group
 Smithy Bridge Blackburn Halifax Group Manchester Group
 Snaith Goole Pontefract Group
@@ -1770,28 +1947,39 @@ Somerleyton Ipswich Norwich
 South Acton Richmond London Willesden Jn
 South Bank Middlesbrough Group
 South Bermondsey London Group Peckham Rye Group
+SOUTH CROYDON Croydon 
 South Elmsall Doncaster Pontefract Group Swinton  S Yorks Wakefield Group
 South Greenford Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
+SOUTH GYLE Edinburgh 
 South Hampstead London Group Willesden Jn
 South Kenton Watford Junction Willesden Jn
 South Merton Sutton London Wimbledon
 South Milford Leeds Group Pontefract Group Selby York
 South Ruislp Und Banbury Group Greenford Und London Group Oxford
+SOUTH TOTTENHAM Tottenham Hale 
 South Wigston Leicester Nuneaton
 South Woodham Ferrers Shenfield Southend Group
+SOUTHAMPTON AIR Southampton 
+SOUTHAMPTON CTL Southampton 
 Southbourne Ford Group Havant
 Southbury Stansted Group Tottenham Hale Group
 Southease Lewes
 Southend Airport Shenfield Southend Group
+SOUTHEND CENTRAL Southend 
+SOUTHEND EAST Southend 
+SOUTHEND VIC Southend 
 Southminster Shenfield Southend Group
 Southport Liverpool Group Preston Lancs Wigan Group
 Southsea Hoverport Portsmouth Group
 Southwick Brighton Group Ford Group
+SOWERBY BRIDGE Halifax 
 Spalding Peterborough Sleaford
 Spean Bridge Glasgow Group
 Spital Hooton Liverpool Group
+SPONDON Derby 
 Spooner Row Ely Norwich Peterborough
 Spring Road Stratford U Group Tyseley
+SPRINGBURN Glasgow 
 Springfield Dundee Ladybank
 Squires Gate Preston Lancs
 St Albans Bedford Watford Junction West Hampstead Group
@@ -1803,26 +1991,34 @@ St Bees Carlisle Lancaster Group
 St Budeaux Fy Rd Plymouth Group
 St Budeaux Va Rd Plymouth Group
 St Columb Road Plymouth Group
+ST DENYS Southampton 
 St Erth Plymouth Group
 St Germans Plymouth Group
 St Helens Ctl Huyton Wigan Group
 St Helens Jn Earlestown Huyton
 St Helier Sutton London Wimbledon
 St Ives Cornwall Plymouth Group
+ST JAMES PK EXTR Exeter 
 St James St Wstw Hackney Group Tottenham Hale Group Walthamstow Group
 St Johns Hither Green Lewisham New Cross
 St Keyne Plymouth Group
+ST LEONARDS W SQ Hastings 
 St Margarets Hts Stansted Group Tottenham Hale Group
 St Margarets Ldn Richmond London Twickenham
 St Mary Cray Bromley South Group Grove Park Swanley
 St Michaels Hunts Cross Group Liverpool Group
 St Neots Hitchin Peterborough
+STAFFORD Stafford 
 Stallingborough Barnetby
 Stamford Hill Hackney Group Tottenham Hale Group
 Stamford Lincs Oakham Peterborough
 Stanford Le Hope Barking Romford Group Southend Group
 Stanlow & Thrntn Chester Hooton Runcorn Group
+STANSTD MFITCHET Stansted 
+STANSTED AIR BUS Stansted 
+STANSTED AIRPORT Stansted 
 Staplehurst Ashford Intl Maidstone Group Tonbridge
+STAPLETON ROAD Bristol 
 Starbeck Leeds Group York
 Starcross Exeter Group Plymouth Group
 Staveley Carlisle Lancaster Group
@@ -1847,13 +2043,19 @@ Stoneleigh Epsom Kingston Surbiton Wimbledon
 Stourbridge Jn Smethwick Group Worcester Group
 Stourbridge Town Smethwick Group Worcester Group
 Stranraer Kilmarnock Paisley Gil St
+STRATFORD U AVON Stratford 
 Strathcarron Inverness
 Strawberry Hill Kingston Twickenham
+STREATHAM Streatham 
+STREATHAM COMMON Streatham 
+STREATHAM HILL Streatham 
 Streethouse Pontefract Group Wakefield Group
 Strines Chinley Guide Bridge Manchester Group
 Stromeferry Inverness
+STROOD KENT Chatham 
 Stroud (Glos) Cheltenham Spa Gloucester Swindon (Wilts)
 Sturry Ashford Intl Dover Priory Faversham Ramsgate Group
+STYAL Wilmslow 
 Sudbury & Hrw Rd Banbury Group Greenford Und London Group Oxford
 Sudbury Hill Banbury Group Greenford Und London Group Oxford
 Sudbury Suffolk Marks Tey
@@ -1870,8 +2072,10 @@ Sutton Common Sutton London Wimbledon
 Sutton Parkway Nottingham Group Worksop
 Swale Chatham Group Faversham
 Swanscombe Dartford Gravesend
+SWANSEA Swansea 
 Swanwick Portsmouth Group Southampton Group
 Sway Southampton Group Weymouth Group
+SWAYTHLING Southampton 
 Swinderby Lincoln Newark Group
 Swineshead Sleaford
 Swinton Manchr Bolton Manchester Group Wigan Group
@@ -1906,11 +2110,13 @@ Theale Reading Group Westbury Group
 Theobalds Grove Stansted Group Tottenham Hale Group
 Thetford Ely Norwich Peterborough
 Thirsk Darlington Middlesbrough Group York
+THORNABY Middlesbrough 
 Thorne North Barnetby Doncaster Goole
 Thorne South Barnetby Doncaster Goole
 Thornford Castle Cary Weymouth Group
 Thornliebank Glasgow Group Kilmarnock
 Thornton Abbey Barnetby
+THORNTON HEATH Streatham 
 Thorntonhall Glasgow Group Kilmarnock
 Thorpe Bay Southend Group
 Thorpe Culvert Sleaford
@@ -1939,6 +2145,7 @@ Topsham Exeter Group
 Torquay Exeter Group Plymouth Group
 Torre Exeter Group Plymouth Group
 Totnes Exeter Group Plymouth Group
+TOTTENHAM HALE Tottenham Hale 
 Totton Southampton Group Weymouth Group
 Town Green Liverpool Group Preston Lancs Wigan Group
 Trafford Park Manchester Group Warrington Group
@@ -1951,6 +2158,7 @@ Trimley Ipswich Norwich
 Tring Bletchley Group Watford Junction
 Troed Y Rhiw Pontypridd
 Troon Kilmarnock Paisley Gil St
+TROWBRIDGE Westbury 
 Truro Plymouth Group
 Tulloch Glasgow Group
 Tunbridge Wells Hastings Group Tonbridge
@@ -1977,6 +2185,7 @@ Upper Holloway Highbury & I Und Tottenham Hale Group West Hampstead Group
 Upper Tyndrum Glasgow Group
 Upper Warlingham Croydon Group
 Upton Merseyside Liverpool Group Shotton
+UPWEY Weymouth 
 Urmston Manchester Group Warrington Group
 Uttoxeter Derby Group Stoke On Trent
 Valley Shotton
@@ -1985,14 +2194,19 @@ Virginia Water Ascot (Berks) Staines Surbiton Woking
 Waddon Croydon Group Sutton London
 Wadhurst Hastings Group Tonbridge
 Wainfleet Sleaford
+WAKEFIELD KIRKGT Wakefield 
+WAKEFIELD WESTGT Wakefield 
 Walkden Bolton Manchester Group Wigan Group
 Wallasey Gve Rd Liverpool Group Shotton
 Wallasey Village Liverpool Group Shotton
 Wallington Croydon Group Sutton London
 Wallyford Edinburgh Group Newcastle
 Walmer Dover Priory Ramsgate Group
+WALSALL Walsall 
 Walsden Blackburn Halifax Group Manchester Group
 Waltham Cross Stansted Group Tottenham Hale Group
+WALTHAMSTOW CTL Walthamstow 
+WALTHAMSTOW Q RD Walthamstow 
 Walton Merseysde Liverpool Group Preston Lancs Wigan Group
 Walton On Naze Colchester
 Walton On Thames Ascot (Berks) Staines Surbiton Woking
@@ -2008,6 +2222,10 @@ Wareham Dorset Southampton Group Weymouth Group
 Wargrave Reading Group Slough
 Warminster Salisbury Westbury Group
 Warnham Dorking Group Horsham
+WARRINGTON BK QY Warrington 
+WARRINGTON CTL Warrington 
+WARWICK Warwick 
+WARWICK PARKWAY Warwick 
 Water Orton Birmingham Group Nuneaton Tamworth
 Waterbeach Cambridge Ely
 Wateringbury Ashford Intl Maidstone Group Tonbridge
@@ -2038,9 +2256,12 @@ West Allerton Hunts Cross Group Liverpool Group
 West Brompton Clapham Junction Hayes & Harlngtn Gp Watford Junction Willesden Jn
 West Byfleet Ascot (Berks) Staines Surbiton Woking
 West Calder Edinburgh Group Motherwell Group
+WEST CROYDON Croydon 
 West Drayton Hayes & Harlngtn Gp Slough
 West Dulwich Beckenham Jn Herne Hill
 West Ealing Clapham Junction Greenford Und Hayes & Harlngtn Gp London Group
+WEST HAMPSTD TLK West Hampstead 
+WEST HAMPSTEAD West Hampstead 
 West Horndon Barking Romford Group Southend Group
 West Kilbride Kilmarnock Paisley Gil St
 West Kirby Liverpool Group Shotton
@@ -2052,6 +2273,7 @@ West St Leonards Hastings Group Tonbridge
 West Sutton Sutton London Wimbledon
 West Wickham Beckenham Jn Lewisham New Cross
 West Worthing Brighton Group Ford Group
+WESTBURY Westbury 
 Westcliff Barking Romford Group Southend Group
 Westcombe Park Charlton London Group
 Westenhanger Ashford Intl Dover Priory
@@ -2064,6 +2286,7 @@ Weston Milton Bristol Group Taunton
 Weston Supr Mare Bristol Group Taunton
 Wetheral Carlisle Newcastle
 Weybridge Ascot (Berks) Staines Surbiton Woking
+WEYMOUTH Weymouth 
 Whaley Bridge Chinley Guide Bridge Hazel Grove Manchester Group
 Whalley Lancs Blackburn Hellifield Group
 Whatstandwell Derby Group
@@ -2096,10 +2319,14 @@ Wickham Market Ipswich Norwich
 Widdrington Edinburgh Group Newcastle
 Widnes Hunts Cross Group Warrington Group
 Widney Manor Stratford U Group Tyseley Warwick Group
+WIGAN NORTH WEST Wigan 
+WIGAN WALLGATE Wigan 
 Wigton Carlisle Lancaster Group
 Wildmill Bridgend
 Williamwood Glasgow Group Newton Lanark
 Willington Derby Group Nottingham Group Tamworth
+WILMCOTE Stratford 
+WILMSLOW Wilmslow 
 Wilnecote Staffs Birmingham Group Nuneaton Tamworth
 Wimbledon Chase Sutton London Wimbledon
 Winchelsea Ashford Intl Hastings Group
@@ -2136,7 +2363,9 @@ Woolston Portsmouth Group Southampton Group
 Woolwich Arsenal Charlton Slade Green
 Woolwich Dockyrd Charlton Slade Green
 Wootton Wawen Stratford U Group Tyseley
+WORCESTER FGT ST Worcester 
 Worcester Park Epsom Kingston Surbiton Wimbledon
+WORCESTER SHB HL Worcester 
 Workington Carlisle Lancaster Group
 Worle Bristol Group Taunton
 Worplesdon Guildford Woking
@@ -2146,6 +2375,8 @@ Wrabness Ipswich Manningtree
 Wraysbury Slough Staines
 Wrenbury Crewe Shrewsbury
 Wressle Goole Hull Selby
+WREXHAM CENTRAL Wrexham 
+WREXHAM GENERAL Wrexham 
 Wye Ashford Intl Dover Priory Faversham Ramsgate Group
 Wylam Carlisle Newcastle
 Wylde Green Birmingham Group Lichfield T V
