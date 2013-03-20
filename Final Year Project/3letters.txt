@@ -1194,7 +1194,7 @@ HWY	High Wycombe
 HGM	Higham (Kent)
 HIP	Highams Park
 HIG	Highbridge
-HHY	Highbury & I
+HHY	Highbury & I Und
 HTO	Hightown
 HLB	Hildenborough
 HLF	Hillfoot
@@ -1732,7 +1732,7 @@ NWE	Newport Essex
 NWP	Newport (S.WALES)
 NQY	Newquay
 NSD	Newstead
-NTN	Newton
+NTN	Newton Lanark
 NTA	Newton Abbot
 NAY	Newton Aycliffe
 NWN	Newton FOR HYDE
@@ -2286,6 +2286,8 @@ SRA	Stratford
 SFA	Stratford International
 SAV	Stratford U
 SAV	Stratford U avon
+SAV	Stratford Upon avon
+SAV	SAVPON AVON
 SAV	Sra U avon
 SAV	SAV AVON
 STC	Strathcarron
@@ -2634,6 +2636,8 @@ WOK	Woking
 WKM	Wokingham
 WOH	Woldingham
 WVH	Wolverhampton
+WVH	Wolverhampton
+WVH	WOVERHAMPTON
 WOL	Wolverton
 WOM	Wombwell
 WDE	Wood End

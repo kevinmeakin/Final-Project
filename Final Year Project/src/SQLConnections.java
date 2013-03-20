@@ -10,9 +10,9 @@ public class SQLConnections{
 		
 		//Set constants to connect to the database
 		String route, point;
-		Connection connec = null;
-		String url = "jdbc:mysql://localhost:3306/";
-		String dbName = "cs408";
+		Connection connect = null;
+		String loc = "jdbc:mysql://localhost:3306/";
+		String dB = "cs408";
 		String driver = "com.mysql.jdbc.Driver";
 		String userName = "root"; 
 		String password = "passw";
@@ -26,19 +26,19 @@ public class SQLConnections{
 
 			//Connect to the database
 			Class.forName(driver).newInstance();
-			connec = DriverManager.getConnection(url+dbName,userName,password);
+			connect = DriverManager.getConnection(loc+dB,userName,password);
 
 			//Remove data from table
-			Statement remove1 = connec.createStatement();
+			Statement remove1 = connect.createStatement();
 			remove1.executeUpdate("delete from Permitted_Routes");
 			
 			/*
 			 * Delete the data currently in the table
 			 */
-			Statement remove = connec.createStatement();
+			Statement remove = connect.createStatement();
 			remove.executeUpdate("delete from Routeing_Points");
 			
-			connec.close();
+			connect.close();
 
 			while ((route = permitted_route_filereader.readLine()) != null) {
 
@@ -56,14 +56,14 @@ public class SQLConnections{
 				try {
 					//Connect to the database
 					Class.forName(driver).newInstance();
-					connec = DriverManager.getConnection(url+dbName,userName,password);
+					connect = DriverManager.getConnection(loc+dB,userName,password);
 
 					//Add data to the table
-					Statement addData = connec.createStatement();
+					Statement addData = connect.createStatement();
 					addData.executeUpdate("insert into Permitted_Routes (Start_Station ,End_Station , Routes) " +
 							"values ('" + information[0]+ "','" + information[1] + "','" + points + "')");
 
-					connec.close();
+					connect.close();
 				} catch (Exception e) {
 					//	e.printStackTrace();
 				}
@@ -85,17 +85,17 @@ public class SQLConnections{
 				try {
 					//Connect to the database
 					Class.forName(driver).newInstance();
-					connec = DriverManager.getConnection(url+dbName,userName,password);
+					connect = DriverManager.getConnection(loc+dB,userName,password);
 					
 					/*
 					 * Add data to the database
 					 */
-					Statement addData1 = connec.createStatement();
+					Statement addData1 = connect.createStatement();
 					addData1.executeUpdate("insert into Routeing_Points (Station ,Route_Point) " +
 							"values ('" + data[0]+ "','" + points + "')");
 
 
-					connec.close();
+					connect.close();
 					
 				} catch (Exception e) {
 					//	e.printStackTrace();

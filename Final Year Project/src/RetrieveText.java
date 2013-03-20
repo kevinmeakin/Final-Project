@@ -26,19 +26,19 @@ public class RetrieveText {
 	 */
 	public static void readPDF(String filename){
 
-		PDDocument pdfFile;
+		PDDocument pdf;
 		BufferedWriter writer;
 		try {
 			File input = new File(filename+".pdf");  // The PDF file from where you would like to extract
 			File output = new File(filename+ ".txt"); // The text file where you are going to store the extracted data
-			pdfFile = PDDocument.load(input);
+			pdf = PDDocument.load(input);
 
 
 			PDFTextStripper text = new PDFTextStripper();
 			writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(output)));
-			text.writeText(pdfFile, writer);
-			if (pdfFile != null) {
-				pdfFile.close();
+			text.writeText(pdf, writer);
+			if (pdf != null) {
+				pdf.close();
 			}
 			writer.close();
 		} catch (Exception e){
@@ -96,8 +96,6 @@ public class RetrieveText {
 			/*
 			 * Write output from hashmap to new file
 			 */
-			//TODO: Change all to one file once fully working.
-
 			for (String unique : fixerHashTemp) {
 				writer.write(unique);
 				writer.newLine();
@@ -172,13 +170,10 @@ public class RetrieveText {
 			String str;
 
 			while ((str = in.readLine()) != null){
-
 				t = str.trim();
-
 				if(t.contains(end) && filename.equals(Routeing_Point)){
 					CharSequence space = "";
 					String rep = t.replace(end, space);
-		//			System.out.println(rep);
 					writer.write(rep);
 					writer.newLine();
 				}
@@ -192,9 +187,7 @@ public class RetrieveText {
 						|| t.contains(con) || t.contains(pag) || t.contains(via) || t.length()==2
 						|| t.contains(loc) || t.contains(eng) || t.contains(mem) ||t.contains(rou) 
 						|| t.contains(hea)) continue;
-				writer.write(str+"\n");
-				
-				
+				writer.write(str+"\n");			
 			}
 			in.close();
 			writer.close();
@@ -236,18 +229,15 @@ public class RetrieveText {
 			}
 			BufferedReader letterreader = new BufferedReader(new FileReader("3letters.txt"));
 
-			Set<String> fileHash = new HashSet<String>(10000); 
-			Set<String> letterhash = new HashSet<String>(10000); 
-
-
+			Set<String> fileHash = new HashSet<String>(); 
+			Set<String> letterhash = new HashSet<String>(); 
 			String currentLine;
 
 			while ((currentLine = letterreader.readLine()) != null) {
 				currentLine = currentLine.toUpperCase();
 				letterhash.add(currentLine);		//Add current line to the hashset
 			}
-			
-			
+						
 			CharSequence group = "GROUP", wood = "WOODGPK", p = "PNWCY", sq = "NTN FOR HYDE", pq = "HIGH ST GLC",
 					att = "  ", ebr = "EBR TOWN", bom = "BOM RAKE", gmg = "GARTH (BGN)",
 							MTB	="MAT BATH",NLW = "NTN LE WILL",BSP =	"BSY PARK",
@@ -346,49 +336,39 @@ public class RetrieveText {
 					if(currentLine.contains(group)){
 						currentLine = currentLine.replace("GROUP", "").trim();
 					}
-					
 					if(currentLine.contains(wood)){
 						currentLine = currentLine.replace(wood, "WGR").trim();
 					}
-
 					if(currentLine.contains(p)){
 						currentLine =currentLine.replace(p, "PNW");
 					}
-					
 					if(currentLine.contains(sq)){
 						currentLine = currentLine.replace(sq, "NWN");
 					}
 					if(currentLine.contains(pq)){
 						currentLine = currentLine.replace(pq, "HST");
 					}
-					
 					if(currentLine.contains(ebr)){
 						currentLine = currentLine.replace(ebr, "EBT");
 					}
-					
 					if(currentLine.contains(bom)){
 						currentLine = currentLine.replace(bom, "BMR");
 					}
-					
 					if(currentLine.contains(gmg)){
 						currentLine = currentLine.replace(gmg, "GMG");
 					}
-					
 					if(currentLine.contains(MTB)){
 						currentLine = currentLine.replace(MTB, "MTB");
 					}
-					
 					if(currentLine.contains(NLW)){
 						currentLine = currentLine.replace(NLW, "NLW");
 					}
-					
 					if(currentLine.contains(BSP)){
 						currentLine = currentLine.replace(BSP, "BSP");
 					}
 					if(currentLine.contains(BTD)){
 						currentLine = currentLine.replace(BTD, "BTD");
-					}
-					
+					}				
 					if(currentLine.contains(BYI)){
 						currentLine = currentLine.replace(BYI, "BYI");
 					}
@@ -441,10 +421,8 @@ public class RetrieveText {
 
 			/*
 			 * output results to file
-			 */
-			
+			 */			
 			BufferedWriter writer = new BufferedWriter(new FileWriter(filename+"TEMPNEW.txt"));
-
 
 			for(String output : fileHash){
 				String[] nn = output.split(" ");
@@ -456,14 +434,11 @@ public class RetrieveText {
 				writer.write(output);
 				writer.newLine();
 			}
-
-
 			writer.close();
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public static void main(String[] args){
