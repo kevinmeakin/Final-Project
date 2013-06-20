@@ -1576,6 +1576,7 @@ MRB	Manorbier
 MAS	Manors
 MFT	Mansfield
 MSW	Mansfield Wodhse
+MSW	MFT Wodhse
 MCH	March
 MRN	Marden kent
 MAR	Margate
@@ -2287,6 +2288,7 @@ SFA	Stratford International
 SAV	Stratford U
 SAV	Stratford U avon
 SAV	Stratford Upon avon
+SAV	SRA Upon avon
 SAV	SAVPON AVON
 SAV	Sra U avon
 SAV	SAV AVON
@@ -2405,7 +2407,7 @@ TOP	Topsham
 TQY	Torquay
 TRR	Torre
 TOT	Totnes
-TOM	Tottenham Hale
+TOM	Tottenham Hal
 TTN	Totton
 TWN	Town Green
 TRA	Trafford Park
@@ -2537,6 +2539,7 @@ WDU	West Dulwich
 WEA	West Ealing
 WEH	West Ham
 WHD	West Hampstead
+WHD	WEHPSTEAD
 WHP	WEST HAMPSTD TLK
 WHP	West Hampstead Tlk
 WHR	West Horndon

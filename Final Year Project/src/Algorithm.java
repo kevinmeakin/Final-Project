@@ -19,6 +19,13 @@ import java.util.Set;
 
 public class Algorithm {
 
+	/**
+	 * Method for retrieving the cost of a train ticket between 2 stations
+	 * @param station_1
+	 * @param station_2
+	 * @return lowest_price
+	 * @throws IOException
+	 */
 
 	public static double find_Price(String station_1,String station_2) throws IOException{
 		// Make a URL to the web page
@@ -37,13 +44,12 @@ public class Algorithm {
 			if(line.contains(pound) && !line.contains(ad)){
 				int findingPound = line.indexOf(">&pound;");
 
-				String work = line.substring(findingPound+8, findingPound+15);
+				String getPrice = line.substring(findingPound+8, findingPound+15);
 
 				// Manipulation to make sure we always have a full double value 
-				int findpoint = work.indexOf(".");
-				work = work.substring(0, findpoint+3);
-				System.out.println(work) ;
-				double cheapest = Double.parseDouble(work);
+				int findpoint = getPrice.indexOf(".");
+				getPrice = getPrice.substring(0, findpoint+3);
+				double cheapest = Double.parseDouble(getPrice);
 
 				if(cheapest < price){
 					price = cheapest;
@@ -53,6 +59,12 @@ public class Algorithm {
 		return price;
 	}
 
+	/**
+	 * Method for finding routing points for any given station
+	 * @param station
+	 * @return routing_points
+	 * @throws Exception
+	 */
 	public static String findRoutingPoints(String station) throws Exception{
 
 		Connection connec = null;
@@ -84,6 +96,12 @@ public class Algorithm {
 	}
 
 
+	/**
+	 * Method used to check if the stations have common routing points
+	 * @param s1
+	 * @param s2
+	 * @return common_Routing_Points
+	 */
 	public static String compare(String s1,String s2){
 
 		String[] station1 = s1.split(" ");
@@ -103,12 +121,25 @@ public class Algorithm {
 		return "no";
 	}
 
+	/**
+	 * Method used for calculating the routes from a start station to
+	 * a destination
+	 * @param start
+	 * @param end
+	 * @param fullRoute
+	 * @param route_Distance
+	 * @param used_Stations
+	 * @param overallLowest
+	 * @param finalLowest
+	 * @param curMap
+	 * @return null
+	 */
 	public static String recursive_route(String start, String end, String fullRoute, double route_Distance, 
 			String used_Stations, double overallLowest,String finalLowest,String curMap){
 
 		String[] fRoute = fullRoute.split(" ");
 		String next="";
-		String worthago = "";
+		String partRoute = "";
 
 		if(fRoute.length !=0){
 			next = fRoute[fRoute.length-1];
@@ -137,14 +168,14 @@ public class Algorithm {
 
 			if(check.length > 3){
 				try {
-					File f = new File("Attempt.txt");
+					File f = new File("mapReader.txt");
 					if(f.exists()){
 						FileWriter out = new FileWriter(f,true);
 						out.write(allinfo);
 						out.write("\n");
 						out.close();
 					}else{
-						BufferedWriter writer = new BufferedWriter(new FileWriter("Attempt.txt"));
+						BufferedWriter writer = new BufferedWriter(new FileWriter("mapReader.txt"));
 						writer.write(allinfo);
 						writer.newLine();
 						writer.close();
@@ -172,7 +203,7 @@ public class Algorithm {
 				while(looper==""){
 					for(String rr : fullfile){
 						String[] mm = rr.split(" ");
-
+						
 						if(mm[1].equals(next) && mm[0].equals(curMap)){
 
 							for(int k = 2; k <= mm.length -2; k +=2){
@@ -188,14 +219,14 @@ public class Algorithm {
 									used_Stations = used_Stations + " " + mm[k];
 									fullRoute = fullRoute + " " + mm[k];
 									route_Distance = route_Distance + Double.parseDouble(mm[k+1]);
-									worthago = recursive_route(start,end,fullRoute,route_Distance,
-											used_Stations,overallLowest,finalLowest, curMap);
+									partRoute = recursive_route(start,end,fullRoute,route_Distance,
+																used_Stations,overallLowest,finalLowest, curMap);
 									fullRoute = fullRoute.replace(mm[k], "");
 									route_Distance = route_Distance - Double.parseDouble(mm[k+1]);
 								}
 							}
 							if(used_Stations.contains(cur)){
-								return worthago;
+								return partRoute;
 							}
 						}	
 					}
@@ -211,6 +242,14 @@ public class Algorithm {
 		return finalLowest;
 	}
 
+	/**
+	 * Method used to obtain a list of routes and create new instance of the 
+	 * recursive method and edit the output to get a full list of valid routes
+	 * @param s1
+	 * @param s2
+	 * @return routes
+	 * @throws Exception
+	 */
 	public static Set<String> shortest_route(String s1,String s2) throws Exception{
 
 		//---------------MYSQL Connection-------------
@@ -238,15 +277,12 @@ public class Algorithm {
 		CharSequence plus = "+";
 
 		while(result.next()){
-
 			route=result.getString(1);
-
 		}
-
+		
 		String[] connectedRoutes ;
 		String[] routes = route.split(" ");
 		//-----------------------------------------------
-
 		//Get start and end stations for current map
 
 		String end = "", last_Stations = "";
@@ -257,13 +293,10 @@ public class Algorithm {
 			 * the start and end stations are both on it
 			 */
 			if(routes[i].length() == 2){
-
 				recursive_route(s1, s2, s1, 0, s1,0,"",routes[i]);
 			}
 		}
 
-
-		//		while((currentLine = filereader.readLine()) != null){
 		String[] curLineSplit = null;
 		boolean last = false;
 		/*
@@ -271,12 +304,6 @@ public class Algorithm {
 		 * Same stations on both to calculate the shortest distance.
 		 */
 		for(int i = 0;i<routes.length;i++){
-
-			//				if(currentLine.contains(s1)){
-			//					start = s1;
-			//				}else if(currentLine.contains(s2)){
-			//					end = s2;
-			//				}
 
 			if(routes[i].contains(plus)){
 				//Separate the maps used by separating by the pluses
@@ -366,7 +393,7 @@ public class Algorithm {
 		 * routes rather than the route within maps we are currently storing.
 		 * Other text manipualtion to ensure data is stored correctly
 		 */
-		BufferedReader calcShortest = new BufferedReader(new FileReader("Attempt.txt"));
+		BufferedReader calcShortest = new BufferedReader(new FileReader("mapReader.txt"));
 		String readout;
 		Set<String> routeList = new HashSet<String>();
 		Set<String> startMap = new HashSet<String>();
@@ -467,21 +494,58 @@ public class Algorithm {
 		}
 		finalRoutes.removeAll(wrongRoutes);
 
-		for(String outp : wrongRoutes){
-			System.out.println(outp);
-		}
+//		for(String outp : wrongRoutes){
+//			System.out.println(outp);
+//		}
 		return finalRoutes;
 	}
-
-	public Set<String> run(String start,String end, String stops) throws Exception{
-
-		Set<String> output = new HashSet<String>();
-		Set<String> toremove = new HashSet<String>();
-
+	
+	
+	public double distanceToRP(String station, String rp){
 		
+		String readout;
+		double distance = 0;
+		CharSequence st = station, routingPoint = rp;
+		try {
+			BufferedReader calcShortest = new BufferedReader(new FileReader("routing_point_distances.txt"));
+			
+			while((readout = calcShortest.readLine()) != null){
+				String[] seperate = readout.split(" ");
+			
+				if(readout.contains(st) &&readout.contains(routingPoint)){
+					int place = readout.indexOf(rp)+4;
+					readout = readout.substring(place);
+					readout = readout.substring(place, readout.indexOf(".")+2);
+					distance = Double.parseDouble(readout);
+					
+				}
+			}
+				
+				
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return distance;
+	}
+
+	/**
+	 * Method used to control the flow of the program, linked to the GUI.
+	 * @param start
+	 * @param end
+	 * @param stops
+	 * @param ticketPrice
+	 * @return valid_routes
+	 * @throws Exception
+	 */
+	public Set<String> run(String start,String end, String stops,double ticketPrice) throws Exception{
+
+		Set<String> output = new HashSet<String>();	
 		String r1 ="";
 		String r2 ="";
-		String[] places = stops.split(" ");		
 		
 		//Get routing points
 		r1 = findRoutingPoints(start);
@@ -496,13 +560,21 @@ public class Algorithm {
 				for(int en = 0; en<end_R_Points.length;en++){
 
 					if(start_R_Points[st].equals(start) && end_R_Points[en].equals(end)){
+						if(ticketPrice< find_Price(start, end)){
 						output = shortest_route(start, end);
+						}
 					}else if(start_R_Points[st].equals(start) && !end_R_Points[en].equals(end)){
+						if(ticketPrice< find_Price(start, end_R_Points[en])){
 						output = shortest_route(start, end_R_Points[en]);
+						}
 					}else if(!start_R_Points[st].equals(start) && end_R_Points[en].equals(end)){
+						if(ticketPrice< find_Price(start_R_Points[st], end)){
 						output = shortest_route(start_R_Points[st], end);
+						}
 					}else{
-						output = shortest_route(start_R_Points[st], end_R_Points[en]);
+						if(ticketPrice< find_Price(start_R_Points[st], end)){
+							output.addAll(shortest_route(start_R_Points[st], end_R_Points[en]));
+						}
 					}
 				}
 			}
@@ -514,17 +586,10 @@ public class Algorithm {
 			output = shortest_route(same, end);
 		}
 
-		for(String check_Points : output){
-			for(int i = 0; i < places.length;i++){
-				CharSequence current = places[i];
-				if(!check_Points.contains(current)){
-					toremove.add(check_Points);
-				}
-			}
-		}		
-		output.removeAll(toremove);
+			
+		//output.removeAll(toremove);
 		
-		File f = new File("Attempt.txt");
+		File f = new File("mapReader.txt");
 		if(f.exists()){
 			f.delete();
 		}else{

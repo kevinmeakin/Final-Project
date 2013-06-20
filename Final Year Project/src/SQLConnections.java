@@ -6,6 +6,10 @@ import java.sql.*;
 
 public class SQLConnections{
 
+	/**
+	 * Method used to connect to SQL database and add the data taken
+	 * and edited from the PDF into it
+	 */
 	public static void addData(){
 		
 		//Set constants to connect to the database
@@ -94,18 +98,12 @@ public class SQLConnections{
 					addData1.executeUpdate("insert into Routeing_Points (Station ,Route_Point) " +
 							"values ('" + data[0]+ "','" + points + "')");
 
-
 					connect.close();
 					
 				} catch (Exception e) {
 					//	e.printStackTrace();
 				}
-
-
-
 			}
-
-
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			//e.printStackTrace();

@@ -1,5 +1,4 @@
 import java.awt.EventQueue;
-
 import javax.swing.AbstractAction;
 import javax.swing.ActionMap;
 import javax.swing.InputMap;
@@ -30,7 +29,6 @@ import javax.swing.JButton;
 import javax.swing.event.DocumentEvent;
 import javax.swing.event.DocumentListener;
 import javax.swing.text.BadLocationException;
-import javax.swing.JScrollBar;
 
 
 public class UI implements ActionListener, DocumentListener{
@@ -41,13 +39,14 @@ public class UI implements ActionListener, DocumentListener{
 	private JTextField textField_2;
 	private JTextField textField_3;
 	private JLabel label_2,lblLetterOutput;
-	Algorithm a = new Algorithm();
 
 	private static final String COMMIT_ACTION = "commit";
 	private static enum Mode { INSERT, COMPLETION };
 	private final List<String> words;
 	Set<String> letters = new HashSet<String>(10000);
+	Set<String> finalRoutes = new HashSet<String>(10000);
 	private Mode mode = Mode.INSERT;
+	private JTextField textField_4;
 
 	/**
 	 * Launch the application.
@@ -93,7 +92,7 @@ public class UI implements ActionListener, DocumentListener{
 				station = station.toLowerCase();
 				letters.add(station);
 				station = station.substring(4);
-				
+
 				words.add(station);				
 			}
 		} catch (FileNotFoundException e) {
@@ -150,7 +149,7 @@ public class UI implements ActionListener, DocumentListener{
 		frame.getContentPane().add(lblBritishRailwayTicket);
 
 		JLabel lblValidRoutes = new JLabel("Valid Routes");
-		lblValidRoutes.setBounds(316, 207, 88, 16);
+		lblValidRoutes.setBounds(303, 219, 78, 16);
 		frame.getContentPane().add(lblValidRoutes);
 
 		label_2 = new JLabel("");
@@ -158,7 +157,7 @@ public class UI implements ActionListener, DocumentListener{
 		frame.getContentPane().add(label_2);
 
 		JLabel lblFindLetter = new JLabel("Find 3 letter Code:");
-		lblFindLetter.setBounds(371, 86, 181, 16);
+		lblFindLetter.setBounds(371, 86, 126, 16);
 		frame.getContentPane().add(lblFindLetter);
 
 		textField = new JTextArea();
@@ -167,7 +166,7 @@ public class UI implements ActionListener, DocumentListener{
 		textField.setColumns(10);
 
 		lblLetterOutput = new JLabel("\n");
-		lblLetterOutput.setBounds(506, 128, 134, 16);
+		lblLetterOutput.setBounds(371, 128, 269, 16);
 		frame.getContentPane().add(lblLetterOutput);
 
 		JButton btnFindCode = new JButton("Find Code");
@@ -178,49 +177,108 @@ public class UI implements ActionListener, DocumentListener{
 		JButton btnCheckRoute = new JButton("Check Route");
 		btnCheckRoute.setBounds(506, 373, 117, 29);
 		frame.getContentPane().add(btnCheckRoute);
+
+		JLabel lblPriceOfThe = new JLabel("Enter Cost Of The Ticket:");
+		lblPriceOfThe.setBounds(28, 192, 181, 16);
+		frame.getContentPane().add(lblPriceOfThe);
+
+		textField_4 = new JTextField();
+		textField_4.setColumns(10);
+		textField_4.setBounds(215, 186, 134, 28);
+		frame.getContentPane().add(textField_4);
 		btnCheckRoute.addActionListener(this);
 	}
 
+	/**
+	 * Waits for input from a button pressed and then performs
+	 * action based on user input.
+	 * @param a
+	 */
 	public void actionPerformed(ActionEvent a){
-
+		Algorithm al = new Algorithm();
 		JButton getPressed = (JButton) a.getSource();
 		String button = getPressed.getText();
 		Set<String> routes = new HashSet<String>();
-		String route_Output ="<HTML>";
+		Set<String> toremove = new HashSet<String>();
+		String route_Output ="<HTML>",start = textField_3.getText().toUpperCase(),
+				end = textField_1.getText().toUpperCase(), stops = textField_2.getText().toUpperCase(),
+				cost = textField_4.getText();
 		routes.clear();
-		
-		
-		if(button.equals("Find Code")){
+		toremove.clear();
+		finalRoutes.clear();
+
+		if(button.equals("Find Code") && !textField.getText().equals("")){
 
 			for(String line : letters){
 				String three = line.substring(0, 3);
 				String stat = line.substring(4);
-				
+
 				if(stat.equals(textField.getText())){
 					lblLetterOutput.setText(three.toUpperCase());
 				}
 			}
-			
-		}else if(button.equals("Check Route")){
+
+		}else if(button.equals("Find Code")){
+			lblLetterOutput.setText("Enter a station to find it's code");
+		}
+
+		if(button.equals("Check Route") && !start.equals("") && !end.equals("") && !cost.equals("")){
 			try {
-				routes = this.a.run(textField_3.getText(), textField_1.getText(), textField_2.getText());
+				routes = al.run(start,end ,stops,Double.parseDouble(cost));
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-			
-			for(String route : routes){
-				String[] splitr = route.split(" ");
-				for(int j = 0;j<splitr.length-1;j++){
-					route_Output = route_Output + " " + splitr[j];
+			String[] places = stops.split(" ");
+
+
+			for(String check_Points : routes){
+				for(int i = 0; i < places.length;i++){
+					CharSequence current = places[i];
+					if(!check_Points.contains(current)){
+						toremove.add(check_Points);
+					}
 				}
-				route_Output = route_Output +"<br>";
+			}	
+
+			routes.removeAll(toremove);
+
+
+			for(String removeDupes : routes){
+				String[] remove = removeDupes.split(" ");
+				String dup = "";
+				for(int j = 0;j<remove.length-1;j++){
+					dup = dup + " " + remove[j];	
+
+				}
+				finalRoutes.add(dup);
 			}
-			
-			route_Output = route_Output + "</HTML>";
-			label_2.setText(route_Output);
+
+			if(finalRoutes.size()>8){
+				String errorMessage = " There Are Too Many Routes For This Journey: Please Enter More Stations To Pass Through";
+				route_Output = route_Output + errorMessage+"<br>";	
+			}
+
+			if(finalRoutes.isEmpty()){
+				label_2.setText("No valid routes");
+			}else{
+				for(String route : finalRoutes){
+
+					route_Output = route_Output + " " + route+"<br>";
+
+					if(finalRoutes.size()>8){
+						break;
+					}
+				}
+
+				route_Output = route_Output + "</HTML>";
+				label_2.setText(route_Output);
+			}
+		}
+		else if(button.equals("Check Route")){
+			label_2.setText("Please Fill Out All Required Information");
 		}
 	}
-	
+
 	/*
 	 * Code below is from the following site
 	 * http://docs.oracle.com/javase/tutorial/uiswing/examples/components/TextAreaDemoProject/src/components/TextAreaDemo.java
@@ -243,7 +301,8 @@ public class UI implements ActionListener, DocumentListener{
 			mode = Mode.COMPLETION;
 		}
 	}
-	
+
+	@SuppressWarnings("serial")
 	private class CommitAction extends AbstractAction {
 		public void actionPerformed(ActionEvent ev) {
 			if (mode == Mode.COMPLETION) {

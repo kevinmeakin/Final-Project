@@ -15,39 +15,43 @@ import org.apache.pdfbox.util.PDFTextStripper;
 
 
 public class RetrieveText {
-
+	/**
+	 * File Name Declarations
+	 */
 	static String Permitted_Route = "permitted_route_identifier";
 	static String Routeing_Point = "routeing_point_identifier";
 	static String maps = "Maps";
 
-	/*
+	/**
 	 * Reads the PDF files and outputs the contents to a text file where
-	 * I am able to manipulate and sort out the data.
+	 * the data is manipulated and sorted.
+	 * 
+	 * @param filename
 	 */
 	public static void readPDF(String filename){
 
-		PDDocument pdf;
-		BufferedWriter writer;
 		try {
-			File input = new File(filename+".pdf");  // The PDF file from where you would like to extract
-			File output = new File(filename+ ".txt"); // The text file where you are going to store the extracted data
-			pdf = PDDocument.load(input);
-
-
+			//Create input and output for the PDF file reader
+			File PDFfile = new File(filename+".pdf");
+			File pdf_text_file = new File(filename+ ".txt");
+			//Load PDF file
+			PDDocument pdf = PDDocument.load(PDFfile);
 			PDFTextStripper text = new PDFTextStripper();
-			writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(output)));
+			BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(pdf_text_file)));
+			//Write pdf contents to file using buffered writer
 			text.writeText(pdf, writer);
 			if (pdf != null) {
 				pdf.close();
 			}
 			writer.close();
 		} catch (Exception e){
-			e.printStackTrace();
 		} 
 	}
 
-	/*
+	/**
 	 * Used to remove the separate line issue from permitted routes identifier
+	 * 
+	 * @param filename
 	 */
 	public static void fixLines(String filename){
 
@@ -109,8 +113,10 @@ public class RetrieveText {
 
 	}
 
-	/*
+	/**
 	 * Remove duplicate entries from the file to ensure there is no repeated data
+	 * 
+	 * @param filename
 	 */
 	public static void stripDuplicatesFromFile(String filename){
 		try{
@@ -146,9 +152,11 @@ public class RetrieveText {
 		}
 	}
 
-	/*
+	/**
 	 * Search text and remove lines based on criteria given, the main method in terms of 
 	 * removing unneeded data
+	 * 
+	 * @param filename
 	 */
 	public static void TidyText(String filename){
 
@@ -206,10 +214,11 @@ public class RetrieveText {
 
 	}
 
-	/*
-	 * Method to search the files and replace any full station names with their 3 letter
-	 * abbreviations. This will make storage and searching the dataset much simpler in the
-	 * future.
+	/**
+	 * Searches the files and replaces any full station names with their 3 letter
+	 * abbreviations.
+	 * 
+	 * @param filename
 	 */
 	public static void find3Letters(String filename){
 
@@ -418,7 +427,7 @@ public class RetrieveText {
 
 			filereader.close();
 			letterreader.close();
-
+			CharSequence und = "UND";
 			/*
 			 * output results to file
 			 */			
@@ -429,6 +438,10 @@ public class RetrieveText {
 				for(int i =0;i<nn.length;i++){
 					if((nn[i].length()>3 || nn[i].length()<3) && filename.equals(Routeing_Point) && !nn[i].equals("LONDON")){
 						System.out.println(nn[i]);
+					}
+					
+					if(output.contains(und)){
+						output.replace(und, "");
 					}
 				}
 				writer.write(output);
@@ -441,19 +454,20 @@ public class RetrieveText {
 		}
 	}
 
+	
 	public static void main(String[] args){
 
-//		readPDF(Permitted_Route);
-//		readPDF(Routeing_Point);
-//		readPDF(maps);
+		readPDF(Permitted_Route);
+		readPDF(Routeing_Point);
+		readPDF(maps);
 
-//		TidyText(Permitted_Route);
-//		TidyText(Routeing_Point);
-//		TidyText(maps);
+		TidyText(Permitted_Route);
+		TidyText(Routeing_Point);
+		TidyText(maps);
 
-//		find3Letters(Routeing_Point);
-//		find3Letters(Permitted_Route);
-		find3Letters("mapsinfo");
+		find3Letters(Routeing_Point);
+		find3Letters(Permitted_Route);
+//		find3Letters("mapsinfo");
 
 	}
 
